@@ -7,8 +7,8 @@ from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 
 UA = {"User-Agent": "Mozilla/5.0 (compatible; hebdo14h/1.0)"}
-PER_SOURCE = 30   # articles gardés par site
-OG_LIMIT = 30     # nb max de pages ouvertes par site pour trouver une image
+PER_SOURCE = 10   # articles gardés par site (modifiable par site avec "count" dans sources.json)
+OG_LIMIT = 10     # nb max de pages ouvertes par site pour trouver une image
 
 
 def get(url):
@@ -71,7 +71,7 @@ def og_image(url):
 def read_feed(src):
     root = ET.fromstring(get(find_feed(src)))
     out, og_used = [], 0
-    for it in [e for e in root.iter() if name(e) in ("item", "entry")][:PER_SOURCE]:
+    for it in [e for e in root.iter() if name(e) in ("item", "entry")][:src.get("count", PER_SOURCE)]:
         title = link = date = img = body = ""
         cats = []
         for c in it:
