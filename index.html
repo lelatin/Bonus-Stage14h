@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>L'hebdo14h – l'actu jeu vidéo, sans le bruit</title>
+<script>try{var t=localStorage.getItem("theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t}catch(e){}</script>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 100 100%27%3E%3Crect width=%27100%27 height=%27100%27 rx=%2716%27 fill=%27%23ffd60a%27/%3E%3Ctext x=%2750%27 y=%2766%27 font-size=%2750%27 font-weight=%27700%27 text-anchor=%27middle%27 font-family=%27Arial%27 fill=%27%23262626%27%3E14h%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Freckle+Face&family=Open+Sans:wght@600;700&display=swap" rel="stylesheet">
+<style>
+:root{--y:#ffd60a;--o:#fe5000;--dk:#262626;--bg:#fff;--ink:#262626;--line:#262626;--surf:#fff;--r:8px;--f:"Freckle Face",system-ui,sans-serif;--c:"Open Sans",system-ui,sans-serif;color-scheme:light}
+:root[data-theme=dark]{--bg:#1a1a1a;--ink:#f4f4f4;--line:#f4f4f4;--surf:#2c2c2c;color-scheme:dark}
+*{box-sizing:border-box;margin:0}
+body{background:var(--bg);color:var(--ink);font:400 16px/1.5 var(--f);transition:background .25s,color .25s}
+.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+header{position:relative;padding:48px 0 30px}
+h1{display:inline-block;font:400 clamp(52px,11vw,120px)/.9 var(--f);letter-spacing:-.02em;color:var(--o);transform:rotate(-1.5deg)}
+.theme{position:absolute;top:14px;right:0;width:46px;height:46px;border:3px solid var(--line);border-radius:var(--r);background:var(--y);box-shadow:3px 3px 0 var(--line);font-size:20px;line-height:1;cursor:pointer;transition:transform .12s,box-shadow .12s}
+.theme:active{transform:translate(2px,2px);box-shadow:1px 1px 0 var(--line)}
+.theme:focus-visible,.mix:focus-visible,.chip:focus-visible,.more:focus-visible,input:focus-visible{outline:3px solid var(--o);outline-offset:3px}
+.sticker{position:absolute;right:8px;top:86px;padding:10px 16px;background:var(--o);color:var(--dk);border-radius:var(--r);box-shadow:4px 4px 0 var(--line);font:400 17px/1.1 var(--f);transform:rotate(6deg);text-align:center}
+.sticker b{display:block;font-size:34px;font-weight:400}
+.bar{position:sticky;top:0;z-index:5;background:var(--bg);padding:14px 0;border-bottom:3px solid var(--line);transition:background .25s}
+.search{display:flex;gap:10px}
+input[type=search]{flex:1;min-width:0;font:400 17px var(--f);padding:13px 16px;border:3px solid var(--line);border-radius:var(--r);background:var(--surf);color:var(--ink);box-shadow:4px 4px 0 var(--line)}
+input[type=search]::placeholder{color:#888}
+button{font:400 16px var(--f);cursor:pointer;color:var(--dk)}
+.mix{padding:0 18px;border:3px solid var(--line);border-radius:var(--r);background:var(--o);box-shadow:4px 4px 0 var(--line);transition:transform .12s,box-shadow .12s}
+.mix:active,.chip:active{transform:translate(3px,3px);box-shadow:1px 1px 0 var(--line)}
+.chips{display:flex;gap:10px;overflow-x:auto;padding:16px 4px 8px;scrollbar-width:none}
+.chip{white-space:nowrap;padding:8px 16px;border:3px solid var(--line);border-radius:var(--r);background:var(--y);box-shadow:3px 3px 0 var(--line);transition:transform .12s,box-shadow .12s}
+.chip:hover{transform:translate(-1px,-2px) rotate(-1.5deg)}
+.chip[aria-pressed=true]{background:var(--dk);color:var(--y)}
+.chip.rub[aria-pressed=true]{background:var(--o);color:var(--dk)}
+.chip small{opacity:.7;margin-left:7px}
+.sep{flex:none;width:3px;margin:4px 2px;border-radius:2px;background:var(--line)}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);grid-auto-rows:190px;grid-auto-flow:dense;gap:16px;padding:28px 0 24px}
+.card{position:relative;display:flex;align-items:flex-end;grid-column:span 1;grid-row:span 1;border:3px solid var(--line);border-radius:var(--r);overflow:hidden;color:#fff;text-decoration:none;background:#3b3b3b;box-shadow:5px 5px 0 var(--line);isolation:isolate;transition:transform .18s,box-shadow .18s}
+.sz-l{grid-column:span 2;grid-row:span 2}.sz-w{grid-column:span 2}.sz-t{grid-row:span 2}
+.card:hover,.card:focus-visible{transform:translate(-3px,-4px) rotate(-.8deg);box-shadow:9px 9px 0 var(--line)}
+.card:focus-visible{outline:3px solid var(--y);outline-offset:3px}
+.card img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:-2}
+.card::after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(to top,rgba(38,38,38,.96) 0%,rgba(38,38,38,.6) 52%,transparent 88%)}
+.in{padding:14px;width:100%}
+.card h2{font:700 15px/1.3 var(--c);text-wrap:balance;text-shadow:0 1px 6px rgba(0,0,0,.4);display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
+.sz-w h2,.sz-t h2{font-size:18px}
+.sz-l h2{font-size:clamp(20px,2.2vw,26px)}
+.meta{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.src,.card time{padding:1px 8px;border-radius:var(--r);font:700 11px/1.6 var(--c);color:var(--dk)}
+.src{background:var(--o)}
+.card time{background:#fff}
+.vid{cursor:pointer}
+.play{position:absolute;inset:0;margin:auto;width:68px;height:68px;display:grid;place-items:center;border:3px solid var(--dk);border-radius:50%;background:var(--y);color:var(--dk);font-size:24px;transition:transform .15s}
+.vid:hover .play{transform:scale(1.1)}
+.vid.playing{cursor:default}
+.vid.playing:hover{transform:none;box-shadow:5px 5px 0 var(--line)}
+.card iframe{position:absolute;inset:0;width:100%;height:100%;border:0;background:#000}
+.more{display:block;margin:10px auto 44px;padding:13px 28px;border:3px solid var(--line);border-radius:var(--r);background:var(--y);box-shadow:4px 4px 0 var(--line);font-size:17px}
+.msg{grid-column:1/-1;padding:44px 8px;font-size:20px;text-align:center}
+footer{padding:22px 0 48px;font:400 14px var(--c);border-top:3px solid var(--line)}
+@media(max-width:900px){.grid{grid-template-columns:repeat(2,1fr);grid-auto-rows:170px}}
+@media(max-width:620px){.sticker{display:none}}
+@media(max-width:520px){.grid{grid-template-columns:1fr;grid-auto-rows:210px}.sz-w,.sz-l{grid-column:span 1}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}.card:hover,h1{transform:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>L'hebdo14h</h1>
+    <button class="theme" id="theme" type="button"></button>
+    <div class="sticker" id="sticker" hidden><b id="n">0</b>articles frais</div>
+  </header>
+</div>
+<div class="bar"><div class="wrap">
+  <div class="search">
+    <input id="q" type="search" placeholder="Cherche un jeu, un studio, une console…" aria-label="Rechercher un article">
+    <button class="mix" id="mix" title="Changer l'ordre des articles">🎲 Mélanger</button>
+  </div>
+  <div class="chips" id="chips" role="group" aria-label="Filtrer par rubrique ou par site"></div>
+</div></div>
+<main class="wrap">
+  <div class="grid" id="grid"><p class="msg">Chargement des articles…</p></div>
+  <button class="more" id="more" hidden>Voir plus d'articles</button>
+</main>
+<footer><div class="wrap" id="foot"></div></footer>
+
+<script>
+const PAGE = 24, PATTERN = ["l","s","s","t","w","s","s","w","t","s","s","s"], TYPES = ["Actu", "Tests", "Sorties"];
+let ALL = [], SOURCES = {}, site = null, type = null, shown = PAGE;
+const $ = id => document.getElementById(id);
+const root = document.documentElement;
+
+const shuffle = a => { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+const norm = s => (s || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+const el = (t, props = {}, kids = []) => { const e = Object.assign(document.createElement(t), props); kids.forEach(k => e.append(k)); return e; };
+const thumb = (id, q) => "https://i.ytimg.com/vi/" + id + "/" + q + ".jpg";
+const mixAll = () => { const v = ALL.filter(a => a.video); ALL = [...v, ...shuffle(ALL.filter(a => !a.video))]; };
+
+function kind(a) {
+  const t = norm(a.title + " " + (a.category || "")), u = a.link.toLowerCase();
+  if (/\/(tests?|critiques?|reviews?)\//.test(u) || /\b(test|tests|critique|review|verdict|notre avis)\b/.test(t)) return "Tests";
+  if (/date de sortie|sortie|sort le|sortira|disponible|disponibilite|lancement|debarque|arrive le|calendrier|release/.test(t)) return "Sorties";
+  return "Actu";
+}
+
+function ago(iso) {
+  const d = (Date.now() - new Date(iso)) / 36e5;
+  if (isNaN(d)) return "";
+  if (d < 1) return "il y a moins d'1 h";
+  if (d < 24) return "il y a " + Math.floor(d) + " h";
+  if (d < 48) return "hier";
+  return new Date(iso).toLocaleDateString("fr-FR", { day: "numeric", month: "long" });
+}
+
+function filtered() {
+  const q = norm($("q").value.trim());
+  return ALL.filter(a => (!type || a.type === type) && (!site || a.source === site) &&
+    (!q || norm(a.title + " " + a.source).includes(q)));
+}
+
+function chip(label, count, on, fn) {
+  const b = el("button", { className: "chip", type: "button" }, [label, el("small", { textContent: count })]);
+  b.setAttribute("aria-pressed", on);
+  b.onclick = () => { fn(); shown = PAGE; renderChips(); render(); };
+  return b;
+}
+function renderChips() {
+  const bySite = {}, byType = {};
+  ALL.forEach(a => { bySite[a.source] = (bySite[a.source] || 0) + 1; byType[a.type] = (byType[a.type] || 0) + 1; });
+  const t = TYPES.map(n => { const b = chip(n, byType[n] || 0, type === n, () => { type = type === n ? null : n; }); b.classList.add("rub"); return b; });
+  const s = Object.keys(SOURCES).map(n => chip(n, bySite[n] || 0, site === n, () => { site = site === n ? null : n; }));
+  $("chips").replaceChildren(chip("Tout", ALL.length, !type && !site, () => { type = site = null; }), ...t, el("span", { className: "sep" }), ...s);
+}
+
+function card(a, i) {
+  const v = !!a.video;
+  const c = el(v ? "div" : "a", { className: "card sz-" + (v ? "l vid" : PATTERN[i % PATTERN.length]) });
+  if (!v) { c.href = a.link; c.target = "_blank"; c.rel = "noopener"; }
+  if (a.image) {
+    const m = el("img", { src: a.image, alt: "", loading: "lazy", referrerPolicy: "no-referrer" });
+    let retry = v;
+    m.onerror = () => { if (retry) { retry = false; m.src = thumb(a.video, "hqdefault"); } else m.remove(); };
+    c.append(m);
+  }
+  c.append(el("div", { className: "in" }, [el("h2", { textContent: a.title }),
+    el("div", { className: "meta" }, [el("span", { className: "src", textContent: (v ? "▶ " : "") + a.source }), el("time", { textContent: ago(a.date) })])]));
+  if (v) {
+    c.append(el("span", { className: "play", textContent: "▶" }));
+    c.tabIndex = 0; c.setAttribute("role", "button"); c.setAttribute("aria-label", "Lire la vidéo : " + a.title);
+    const go = () => { c.classList.add("playing"); c.replaceChildren(el("iframe", { title: a.title, allowFullscreen: true,
+      allow: "autoplay; encrypted-media; picture-in-picture", src: "https://www.youtube-nocookie.com/embed/" + a.video + "?autoplay=1&rel=0" })); };
+    c.onclick = go;
+    c.onkeydown = e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); go(); } };
+  }
+  return c;
+}
+
+function render() {
+  const list = filtered(), g = $("grid");
+  if (!list.length) g.replaceChildren(el("p", { className: "msg", textContent: ALL.length ? "Rien trouvé. Essaie un mot plus court ou change de rubrique." : "Rien à piocher pour l'instant ! La prochaine mise à jour remplira la page." }));
+  else g.replaceChildren(...list.slice(0, shown).map(card));
+  $("more").hidden = list.length <= shown;
+}
+
+async function init() {
+  let V = null;
+  try {
+    const d = await (await fetch("data.json", { cache: "no-store" })).json();
+    d.sources.forEach(s => SOURCES[s.name] = s);
+    ALL = d.articles; V = d.video || d.hebdo || null;
+    $("foot").textContent = "Dernier tour de mise à jour : " + new Date(d.updated).toLocaleString("fr-FR", { dateStyle: "long", timeStyle: "short" }) + ". Chaque carte renvoie vers l'article d'origine : les droits restent à leurs auteurs.";
+  } catch (e) { ALL = []; }
+  if (V) {
+    SOURCES.Origami = { name: "Origami" };
+    ALL.unshift({ title: V.title, link: V.link, date: V.date, source: "Origami", video: V.id, image: thumb(V.id, "maxresdefault"), category: "Vidéo" });
+  }
+  ALL.forEach(a => a.type = kind(a));
+  mixAll();
+  $("n").textContent = ALL.length; $("sticker").hidden = !ALL.length;
+  renderChips(); render();
+}
+
+function applyTheme(t) {
+  root.dataset.theme = t;
+  $("theme").textContent = t === "dark" ? "☀️" : "🌙";
+  $("theme").setAttribute("aria-label", t === "dark" ? "Passer en mode clair" : "Passer en mode sombre");
+}
+$("theme").onclick = () => { const t = root.dataset.theme === "dark" ? "light" : "dark"; applyTheme(t); try { localStorage.setItem("theme", t); } catch (e) {} };
+applyTheme(root.dataset.theme || "light");
+
+$("q").oninput = () => { shown = PAGE; render(); };
+$("mix").onclick = () => { mixAll(); shown = PAGE; render(); };
+$("more").onclick = () => { shown += PAGE; render(); };
+init();
+</script>
+</body>
+</html>
