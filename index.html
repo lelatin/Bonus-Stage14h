@@ -15,20 +15,22 @@
 *{box-sizing:border-box;margin:0}
 body{background:var(--bg);color:var(--ink);font:400 16px/1.5 var(--f);transition:background .25s,color .25s}
 .wrap{max-width:1180px;margin:0 auto;padding:0 20px}
-header{position:relative;padding:48px 0 30px}
+header{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:48px 0 30px}
+.tools{display:flex;align-items:center;gap:26px}
 h1{display:inline-block;font:400 clamp(52px,11vw,120px)/.9 var(--f);letter-spacing:-.02em;color:var(--o);transform:rotate(-1.5deg)}
-.theme{position:absolute;top:14px;right:0;width:46px;height:46px;border:3px solid var(--line);border-radius:var(--r);background:var(--y);box-shadow:3px 3px 0 var(--line);font-size:20px;line-height:1;cursor:pointer;transition:transform .12s,box-shadow .12s}
-.theme:active{transform:translate(2px,2px);box-shadow:1px 1px 0 var(--line)}
-.theme:focus-visible,.mix:focus-visible,.chip:focus-visible,.more:focus-visible,input:focus-visible{outline:3px solid var(--o);outline-offset:3px}
-.sticker{position:absolute;right:8px;top:86px;padding:10px 16px;background:var(--o);color:var(--dk);border-radius:var(--r);box-shadow:4px 4px 0 var(--line);font:400 17px/1.1 var(--f);transform:rotate(6deg);text-align:center}
+.switch{position:relative;flex:none;width:72px;height:40px;padding:0;border:3px solid var(--line);border-radius:var(--r);background:var(--y);box-shadow:3px 3px 0 var(--line);cursor:pointer;transition:background .25s}
+.knob{position:absolute;top:3px;left:3px;width:28px;height:28px;display:grid;place-items:center;border:2px solid var(--dk);border-radius:5px;background:var(--o);font-size:14px;line-height:1;transition:transform .25s}
+:root[data-theme=dark] .switch{background:#3a3a3a}
+:root[data-theme=dark] .knob{transform:translateX(32px)}
+.switch:focus-visible,.chip:focus-visible,.more:focus-visible,input:focus-visible{outline:3px solid var(--o);outline-offset:3px}
+.sticker{padding:10px 16px;background:var(--o);color:var(--dk);border-radius:var(--r);box-shadow:4px 4px 0 var(--line);font:400 17px/1.1 var(--f);transform:rotate(6deg);text-align:center}
 .sticker b{display:block;font-size:34px;font-weight:400}
 .bar{position:sticky;top:0;z-index:5;background:var(--bg);padding:14px 0;border-bottom:3px solid var(--line);transition:background .25s}
 .search{display:flex;gap:10px}
 input[type=search]{flex:1;min-width:0;font:400 17px var(--f);padding:13px 16px;border:3px solid var(--line);border-radius:var(--r);background:var(--surf);color:var(--ink);box-shadow:4px 4px 0 var(--line)}
 input[type=search]::placeholder{color:#888}
 button{font:400 16px var(--f);cursor:pointer;color:var(--dk)}
-.mix{padding:0 18px;border:3px solid var(--line);border-radius:var(--r);background:var(--o);box-shadow:4px 4px 0 var(--line);transition:transform .12s,box-shadow .12s}
-.mix:active,.chip:active{transform:translate(3px,3px);box-shadow:1px 1px 0 var(--line)}
+.chip:active{transform:translate(3px,3px);box-shadow:1px 1px 0 var(--line)}
 .chips{display:flex;gap:10px;overflow-x:auto;padding:16px 4px 8px;scrollbar-width:none}
 .chip{white-space:nowrap;padding:8px 16px;border:3px solid var(--line);border-radius:var(--r);background:var(--y);box-shadow:3px 3px 0 var(--line);transition:transform .12s,box-shadow .12s}
 .chip:hover{transform:translate(-1px,-2px) rotate(-1.5deg)}
@@ -70,14 +72,15 @@ footer{padding:22px 0 48px;font:400 14px var(--c);border-top:3px solid var(--lin
 <div class="wrap">
   <header>
     <h1>L'hebdo14h</h1>
-    <button class="theme" id="theme" type="button"></button>
-    <div class="sticker" id="sticker" hidden><b id="n">0</b>articles frais</div>
+    <div class="tools">
+      <div class="sticker" id="sticker" hidden><b id="n">0</b>articles frais</div>
+      <button class="switch" id="theme" type="button" role="switch" aria-checked="false" aria-label="Mode sombre"><span class="knob" id="knob"></span></button>
+    </div>
   </header>
 </div>
 <div class="bar"><div class="wrap">
   <div class="search">
     <input id="q" type="search" placeholder="Cherche un jeu, un studio, une console…" aria-label="Rechercher un article">
-    <button class="mix" id="mix" title="Changer l'ordre des articles">🎲 Mélanger</button>
   </div>
   <div class="chips" id="chips" role="group" aria-label="Filtrer par rubrique ou par site"></div>
 </div></div>
@@ -93,11 +96,9 @@ let ALL = [], SOURCES = {}, site = null, type = null, shown = PAGE;
 const $ = id => document.getElementById(id);
 const root = document.documentElement;
 
-const shuffle = a => { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
 const norm = s => (s || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 const el = (t, props = {}, kids = []) => { const e = Object.assign(document.createElement(t), props); kids.forEach(k => e.append(k)); return e; };
 const thumb = (id, q) => "https://i.ytimg.com/vi/" + id + "/" + q + ".jpg";
-const mixAll = () => { const v = ALL.filter(a => a.video); ALL = [...v, ...shuffle(ALL.filter(a => !a.video))]; };
 
 function kind(a) {
   const t = norm(a.title + " " + (a.category || "")), u = a.link.toLowerCase();
@@ -178,21 +179,20 @@ async function init() {
     ALL.unshift({ title: V.title, link: V.link, date: V.date, source: "Origami", video: V.id, image: thumb(V.id, "maxresdefault"), category: "Vidéo" });
   }
   ALL.forEach(a => a.type = kind(a));
-  mixAll();
+  ALL.sort((a, b) => new Date(b.date) - new Date(a.date)); // du plus récent au plus ancien
   $("n").textContent = ALL.length; $("sticker").hidden = !ALL.length;
   renderChips(); render();
 }
 
 function applyTheme(t) {
   root.dataset.theme = t;
-  $("theme").textContent = t === "dark" ? "☀️" : "🌙";
-  $("theme").setAttribute("aria-label", t === "dark" ? "Passer en mode clair" : "Passer en mode sombre");
+  $("knob").textContent = t === "dark" ? "🌙" : "☀️";
+  $("theme").setAttribute("aria-checked", t === "dark");
 }
 $("theme").onclick = () => { const t = root.dataset.theme === "dark" ? "light" : "dark"; applyTheme(t); try { localStorage.setItem("theme", t); } catch (e) {} };
 applyTheme(root.dataset.theme || "light");
 
 $("q").oninput = () => { shown = PAGE; render(); };
-$("mix").onclick = () => { mixAll(); shown = PAGE; render(); };
 $("more").onclick = () => { shown += PAGE; render(); };
 init();
 </script>
