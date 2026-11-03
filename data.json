@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T01:09:49.241336+00:00",
+ "updated": "2026-11-03T08:25:51.637520+00:00",
  "sources": [
   {
    "name": "ActuGaming",
@@ -16,11 +16,75 @@
  ],
  "video": {
   "id": "ij_rZT03Kns",
-  "title": "10 Jeux vidéo 🎮️ À Surveiller en NOVEMBRE 2026 | #WISHLIST",
+  "title": "STOP GTA ! Joue plutôt à ÇA en NOVEMBRE 2026 | #WISHLIST",
   "date": "2026-11-01T09:37:17+00:00",
   "link": "https://www.youtube.com/watch?v=ij_rZT03Kns"
  },
  "articles": [
+  {
+   "title": "Xbox Game Pass : un nouveau jeu débarque aujourd’hui day one dans le service",
+   "link": "https://www.xboxygen.com/News/372830-xbox-game-pass-un-nouveau-jeu-debarque-aujourdhui-day-one-dans-le-service",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/pit-of-goblin.jpg",
+   "date": "2026-11-03T08:22:34+00:00",
+   "source": "Xboxygen",
+   "category": "News"
+  },
+  {
+   "title": "Mémoire cash - Rule of Rose : le fascinant jeu d'horreur au gameplay calamiteux devenu collector",
+   "link": "https://www.gamekult.com/actualite/rule-of-rose-le-fascinant-jeu-d-horreur-au-gameplay-calamiteux-devenu-collector-101-3050866487.html",
+   "image": "https://cdn.gamekult.com/optim/images/news/30/3050866487/l-epineux-rule-of-rose-reste-un-des-jeux-les-plus-fascinants-et-troublants-de-la-ps2-86dba648__930_300__0-409-1800-992.jpg",
+   "date": "2026-11-03T08:00:00+00:00",
+   "source": "Gamekult",
+   "category": "Actu"
+  },
+  {
+   "title": "Xbox : Helen Chiang brise le silence, “je n’ai pas été licenciée pour violation des règles”",
+   "link": "https://www.xboxygen.com/News/372826-xbox-helen-chiang-brise-le-silence-je-nai-pas-ete-licenciee-pour-violation-des-regles",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/10/helen-chiang.jpg",
+   "date": "2026-11-03T07:14:17+00:00",
+   "source": "Xboxygen",
+   "category": "News"
+  },
+  {
+   "title": "Ocarina of Time Remake, ce fut l'occasion pour Aonuma de donner une bonne leçon aux développeurs plus jeunes",
+   "link": "https://www.gamekult.com/actualite/ocarina-of-time-remake-ce-fut-l-occasion-pour-aonuma-de-donner-une-bonne-lecon-aux-developpeurs-plus-jeunes-3050872722.html",
+   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872722/ocarina-of-time-remake-ce-fut-l-occasion-pour-aonuma-de-donner-une-bonne-lecon-aux-developpeurs-plus-jeunes-f2121828__930_300__0-203-1920-823.jpg",
+   "date": "2026-11-03T07:06:00+00:00",
+   "source": "Gamekult",
+   "category": "Actu"
+  },
+  {
+   "title": "RGB: Execution, un boss rush en 2D et en pixel art prévu sur PC, se montre au grand jour",
+   "link": "https://www.actugaming.net/rgb-execution-boss-rush-2d-pixel-art-pc-montre-au-grand-jour-832184/",
+   "image": "https://static.actugaming.net/media/2026/11/rgb-execution-official-screenshot-5.jpg",
+   "date": "2026-11-03T07:00:38+00:00",
+   "source": "ActuGaming",
+   "category": "Actualités"
+  },
+  {
+   "title": "Le remake de Zelda: Ocarina of Time devait avoir une fonctionnalité de voyage rapide, qui a été supprimée pour une raison essentielle",
+   "link": "https://www.actugaming.net/le-remake-de-zelda-ocarina-of-time-devait-avoir-une-fonctionnalite-de-voyage-rapide-qui-a-ete-supprimee-pour-une-raison-essentielle-832174/",
+   "image": "https://static.actugaming.net/media/2026/11/zelda-ocarina-of-time-remake.jpg",
+   "date": "2026-11-03T06:30:42+00:00",
+   "source": "ActuGaming",
+   "category": "Actualités"
+  },
+  {
+   "title": "Final Fantasy Resonance : chez Square Enix, il n'était même pas question de HD-2D puisqu'un simple portage était originellement prévu",
+   "link": "https://www.gamekult.com/actualite/final-fantasy-resonance-chez-square-enix-il-n-etait-meme-pas-question-de-hd-2d-puisqu-un-simple-portage-etait-originellement-prevu-3050872721.html",
+   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872721/final-fantasy-resonance-chez-square-enix-il-n-etait-meme-pas-question-de-hd-2d-puisqu-un-simple-portage-etait-originellement-prevu-d2bcb5eb__930_300__0-96-1920-716.jpg",
+   "date": "2026-11-03T06:03:00+00:00",
+   "source": "Gamekult",
+   "category": "Actu"
+  },
+  {
+   "title": "Mémoire cash - Metropolis Street Racer : comment le jeu culte de la Dreamcast a réinventé le jeu de course",
+   "link": "https://www.gamekult.com/actualite/metropolis-street-racer-comment-le-jeu-culte-de-la-dreamcast-a-reinvente-le-jeu-de-course-3050872724.html",
+   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872724/metropolis-street-racer-est-toujours-le-meilleur-jeu-de-course-de-la-dreamcast-2ec8f9f1__930_300__0-976-1600-1494.jpg",
+   "date": "2026-11-03T05:01:00+00:00",
+   "source": "Gamekult",
+   "category": "Actu"
+  },
   {
    "title": "Communiqué de presse - P'tite Planète aligne sa date de sortie, la version Switch 2 pour 2027",
    "link": "https://www.gamekult.com/actualite/p-tite-planete-aligne-sa-date-de-sortie-la-version-switch-2-pour-2027-3050872705.html",
@@ -142,14 +206,6 @@
    "category": "News"
   },
   {
-   "title": "Il n'a pas fallu bien longtemps : voilà que des émulateurs de Switch 2 commencent déjà à apparaître",
-   "link": "https://www.gamekult.com/actualite/il-n-a-pas-fallu-bien-longtemps-voila-que-des-emulateurs-de-switch-2-commencent-deja-a-apparaitre-3050872706.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872706/il-n-a-pas-fallu-bien-longtemps-voila-que-des-emulateurs-de-switch-2-commencent-deja-a-apparaitre-17924f5b__930_300__0-221-1400-673.png",
-   "date": "2026-11-02T14:03:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
-  },
-  {
    "title": "Test – Godzilla: Destroy All Monsters Melee Remastered – Le roi des kaiju n’a pas dit son dernier mot",
    "link": "https://www.xboxygen.com/Tests/372525-test-godzilla-destroy-all-monsters-melee-remastered-le-roi-des-kaiju-na-pas-dit-son-dernier-mot",
    "image": "https://www.xboxygen.com/wp-content/uploads/2026/10/ae95e0f4075c88c6926d2730f58ba5bede755463375f65a95020857735d3af12.jpg",
@@ -164,14 +220,6 @@
    "date": "2026-11-02T13:47:30+00:00",
    "source": "ActuGaming",
    "category": "Actualités"
-  },
-  {
-   "title": "Le JRPG indé Alterium Shift quittera son long accès anticipé dès le mois de février prochain",
-   "link": "https://www.gamekult.com/actualite/le-jrpg-inde-alterium-shift-quittera-son-long-acces-anticipe-des-le-mois-de-fevrier-prochain-3050872703.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872703/le-jrpg-inde-alterium-shift-quittera-son-long-acces-anticipe-des-le-mois-de-fevrier-prochain-5219e811__930_300__0-195-1920-816.jpg",
-   "date": "2026-11-02T13:16:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
   },
   {
    "title": "Test One Piece: Grand Gourmet – Quand One Piece se met au jeu de gestion, le résultat est sympathique",
@@ -190,44 +238,12 @@
    "category": "Soluces"
   },
   {
-   "title": "Après avoir foutu en l'air le marché de la RAM, Sam Altman (OpenAI) veut choper celles qui sont déjà dans vos ordinateurs",
-   "link": "https://www.gamekult.com/actualite/apres-avoir-foutu-en-l-air-le-marche-de-la-ram-sam-altman-openai-veut-choper-celles-qui-sont-deja-dans-vos-ordinateurs-3050872700.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872700/apres-avoir-foutu-en-l-air-le-marche-de-la-ram-sam-altman-openai-veut-choper-celles-qui-sont-deja-dans-vos-ordinateurs-22fb4d9a__930_300__0-105-1920-726.jpg",
-   "date": "2026-11-02T12:32:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
-  },
-  {
-   "title": "Final Fantasy 14 Evercold bravera le froid avec un peu de retard",
-   "link": "https://www.gamekult.com/actualite/final-fantasy-14-evercold-bravera-le-froid-avec-un-peu-de-retard-3050872707.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872707/final-fantasy-14-evercold-bravera-le-froid-avec-un-peu-de-retard-a7ac7d82__930_300__0-202-2000-847.png",
-   "date": "2026-11-02T12:05:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
-  },
-  {
-   "title": "Zhang aux mains agiles Phantom Blade Zero : devriez-vous l’aider ou non ?",
-   "link": "https://www.actugaming.net/zhang-mains-agiles-phantom-blade-zero-829790/",
-   "image": "https://static.actugaming.net/media/2026/10/2026-10-18-16_03_18-Phantom-Blade-Zero_2026.10.16-12.46.mp4-Lecteur-multimedia-VLC.jpg",
-   "date": "2026-11-02T11:02:05+00:00",
-   "source": "ActuGaming",
-   "category": "Soluces"
-  },
-  {
    "title": "Après les licenciements chez Xbox, id Software se rapproche de MachineGames : Wolfenstein III en ligne de mire ?",
    "link": "https://www.xboxygen.com/News/372767-apres-les-licenciements-chez-xbox-id-software-se-rapproche-de-machinegames-wolfenstein-iii-en-ligne-de-mire",
    "image": "https://www.xboxygen.com/wp-content/uploads/2026/09/wolfenstein.jpg",
    "date": "2026-11-02T10:59:54+00:00",
    "source": "Xboxygen",
    "category": "News"
-  },
-  {
-   "title": "Anthropic aurait mis à jour son IA Claude pour éviter que celle-ci puisse recréer des jeux déjà existants",
-   "link": "https://www.actugaming.net/anthropic-aurait-mis-a-jour-son-ia-claude-pour-eviter-que-celle-ci-puisse-recreer-des-jeux-deja-existants-832098/",
-   "image": "https://static.actugaming.net/media/2026/10/revamp-official-reveal-trailer_r7vb.1280.webp",
-   "date": "2026-11-02T10:48:44+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
   },
   {
    "title": "Xbox Game Pass : 15 jeux vont bientôt quitter le service, dont Dragon Ball Xenoverse 2 et Football Manager 26",
@@ -242,22 +258,6 @@
    "link": "https://www.xboxygen.com/News/372740-kojima-expose-physint-a-tokyo-linspiration-de-metal-gear-solid-saute-aux-yeux",
    "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/Exposition-Beyond-the-Strand-Physint-5.jpg",
    "date": "2026-11-02T09:49:28+00:00",
-   "source": "Xboxygen",
-   "category": "News"
-  },
-  {
-   "title": "Fallout Saison 3 sur Prime Video : le tournage est terminé, rendez-vous en 2027 ?",
-   "link": "https://www.xboxygen.com/News/372734-fallout-saison-3-sur-prime-video-le-tournage-est-termine-rendez-vous-en-2027",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2025/12/Fallout-Serie-tv.jpg",
-   "date": "2026-11-02T09:13:21+00:00",
-   "source": "Xboxygen",
-   "category": "News"
-  },
-  {
-   "title": "Claude ne peut plus recréer vos jeux préférés : Anthropic bloque les clones générés par IA",
-   "link": "https://www.xboxygen.com/News/372732-claude-ne-peut-plus-recreer-vos-jeux-preferes-anthropic-bloque-les-clones-generes-par-ia",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/anthropic-claude-games.jpg",
-   "date": "2026-11-02T09:06:09+00:00",
    "source": "Xboxygen",
    "category": "News"
   }
