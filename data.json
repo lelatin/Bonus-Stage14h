@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T16:27:30.661132+00:00",
+ "updated": "2026-11-03T21:55:38.130672+00:00",
  "sources": [
   {
    "name": "ActuGaming",
@@ -21,6 +21,70 @@
   "link": "https://www.youtube.com/watch?v=ij_rZT03Kns"
  },
  "articles": [
+  {
+   "title": "Xbox Game Pass : Warhammer Survivors, Tanuki: Pon’s Summer et d’autres intègrent l’abonnement",
+   "link": "https://www.actugaming.net/xbox-game-pass-warhammer-survivors-tanuki-pons-summer-et-dautres-integrent-labonnement-832326/",
+   "image": "https://static.actugaming.net/media/2026/11/xbox-game-pass-novembre-2026.jpg",
+   "date": "2026-11-03T19:14:10+00:00",
+   "source": "ActuGaming",
+   "category": "Actualités"
+  },
+  {
+   "title": "Soulframe : le prochain jeu des créateurs de Warframe ouvre enfin ses portes à tout le monde",
+   "link": "https://www.gamekult.com/actualite/soulframe-le-prochain-jeu-des-createurs-de-warframe-ouvre-enfin-ses-portes-a-tout-le-monde-3050872740.html",
+   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872740/souframe-l-action-rpg-des-createurs-de-warframe-ouvre-enfin-ses-portes-a-tout-le-monde-548aa1d2__930_300__0-399-1920-1021.png",
+   "date": "2026-11-03T19:05:00+00:00",
+   "source": "Gamekult",
+   "category": "Actu"
+  },
+  {
+   "title": "Xbox craque et annonce la Xbox Series X-BITE, une console unique… engloutie par un faux alligator",
+   "link": "https://www.actugaming.net/xbox-annonce-xbox-series-x-bite-console-unique-engloutie-faux-alligator-832315/",
+   "image": "https://static.actugaming.net/media/2026/11/xbox-series-x-bite.jpg",
+   "date": "2026-11-03T18:05:33+00:00",
+   "source": "ActuGaming",
+   "category": "Actualités"
+  },
+  {
+   "title": "Personne ne l’avait vu venir : Guild Wars premier du nom se met au roguelite avec la nouvelle extension Afterlife",
+   "link": "https://www.gamekult.com/actualite/personne-ne-l-avait-vu-venir-guild-wars-premier-du-nom-se-met-au-roguelite-avec-la-nouvelle-extension-afterlife-3050872746.html",
+   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872746/surprise-guild-wars-premier-du-nom-ressuscite-avec-l-extension-afterlife-20-ans-plus-tard-5456678e__930_300__0-103-1920-724.png",
+   "date": "2026-11-03T18:00:00+00:00",
+   "source": "Gamekult",
+   "category": "Actu"
+  },
+  {
+   "title": "Arc Raiders : Embark Studios essaye (encore !) de justifier son choix d’avoir eu recours à l’IA pour le doublage de son extraction shooter",
+   "link": "https://www.actugaming.net/arc-raiders-embark-studios-making-of-ia-doublage-extraction-shooter-832271/",
+   "image": "https://static.actugaming.net/media/2025/11/arc-raiders-1.jpg",
+   "date": "2026-11-03T17:36:22+00:00",
+   "source": "ActuGaming",
+   "category": "Actualités"
+  },
+  {
+   "title": "Thief The Dark Project Remastered se faufile jusqu'à décembre sur PC et consoles",
+   "link": "https://www.gamekult.com/actualite/thief-the-dark-project-remastered-se-faufile-jusqu-a-decembre-sur-pc-et-consoles-3050872741.html",
+   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872741/thief-the-dark-project-remastered-se-faufile-jusqu-a-decembre-sur-pc-et-consoles-63077c40__930_300__0-110-1920-731.jpg",
+   "date": "2026-11-03T17:31:00+00:00",
+   "source": "Gamekult",
+   "category": "Actu"
+  },
+  {
+   "title": "Le directeur d’id Software promet que le studio va bien malgré les licenciements et indique travailler de près avec MachineGames",
+   "link": "https://www.actugaming.net/le-directeur-did-software-promet-que-le-studio-va-bien-malgre-les-licenciements-et-indique-travailler-de-pres-avec-machinegames-832301/",
+   "image": "https://static.actugaming.net/media/2026/07/DOOM-The-Dark-Ages-Revelations-illustration.jpg",
+   "date": "2026-11-03T16:59:04+00:00",
+   "source": "ActuGaming",
+   "category": "Actualités"
+  },
+  {
+   "title": "GTA 6 : comment jouer en avance, date du téléchargement, poids… toutes les infos",
+   "link": "https://www.xboxygen.com/News/372940-gta-6-comment-jouer-en-avance-date-du-telechargement-poids-toutes-les-infos",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/GTA-6-Nouvelle-Zelande.jpg",
+   "date": "2026-11-03T16:58:34+00:00",
+   "source": "Xboxygen",
+   "category": "News"
+  },
   {
    "title": "Pour ses 40 ans, Bethesda confirme The Elder Scrolls VI : Sentinel",
    "link": "https://www.gamekult.com/actualite/pour-ses-40-ans-bethesda-confirme-the-elder-scrolls-vi-sentinel-3050872745.html",
@@ -150,36 +214,12 @@
    "category": "Actu"
   },
   {
-   "title": "Raw Power Games, studio danois derrière Chronicles: Medieval, risque de fermer avant de pouvoir sortir son jeu en accès anticipé",
-   "link": "https://www.actugaming.net/raw-power-games-studio-danois-chronicles-medieval-risque-fermeture-832245/",
-   "image": "https://static.actugaming.net/media/2025/06/chronicles-medieval-keyart-scaled.jpg",
-   "date": "2026-11-03T12:31:53+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
-  },
-  {
    "title": "Industrie du JV en crise : il y a déjà eu plus de licenciements sur 2026 que pour toute l'année 2025",
    "link": "https://www.gamekult.com/actualite/industrie-du-jv-en-crise-il-y-a-deja-eu-plus-de-licenciements-sur-2026-que-pour-toute-l-annee-2025-3050872737.html",
    "image": "https://cdn.gamekult.com/optim/images/news/30/3050872737/industrie-du-jv-en-crise-il-y-a-deja-eu-plus-de-licenciements-sur-2026-que-pour-toute-l-annee-2025-9e3d239d__930_300__0-103-1920-723.jpg",
    "date": "2026-11-03T11:16:00+00:00",
    "source": "Gamekult",
    "category": "Actu"
-  },
-  {
-   "title": "Pikmin 4 nous rappelle en vidéo tout ce qu’il faut savoir sur sa version Switch 2",
-   "link": "https://www.actugaming.net/pikmin-4-rappelle-video-tout-savoir-version-switch-2-832243/",
-   "image": "https://static.actugaming.net/media/2023/06/Pikmin-4.jpg",
-   "date": "2026-11-03T11:15:02+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
-  },
-  {
-   "title": "South of Midnight : Le directeur créatif du jeu indique qu’il ne l’aurait pas forcément financé s’il avait été à la place de Xbox",
-   "link": "https://www.actugaming.net/south-of-midnight-le-directeur-creatif-du-jeu-indique-quil-ne-laurait-pas-forcement-finance-sil-avait-ete-a-la-place-de-xbox-832242/",
-   "image": "https://static.actugaming.net/media/2023/06/south-of-midnight-screenshot-01.jpg",
-   "date": "2026-11-03T10:54:27+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
   },
   {
    "title": "GTA 6 établit aux États-Unis un record historique d’intention d’achat, selon Circana",
@@ -190,36 +230,12 @@
    "category": "News"
   },
   {
-   "title": "Après son éviction d'Xbox, l'ex-directrice des opérations Helen Chiang se défend et épingle Asha Sharma",
-   "link": "https://www.gamekult.com/actualite/apres-son-eviction-d-xbox-l-ex-directrice-des-operations-helen-chiang-se-defend-et-epingle-asha-sharma-3050872732.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872732/apres-son-eviction-d-xbox-l-ex-directrice-des-operations-helen-chiang-se-defend-et-epingle-asha-sharma-4d18b3c9__930_300__0-139-1920-759.jpg",
-   "date": "2026-11-03T10:32:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
-  },
-  {
    "title": "Bilan Xbox Game Pass octobre 2026 : le mois a été mouvementé, avec plus de retraits que d’ajouts",
    "link": "https://www.xboxygen.com/News/372871-bilan-xbox-game-pass-octobre-2026-le-mois-a-ete-mouvemente-avec-plus-de-retraits-que-dajouts",
    "image": "https://www.xboxygen.com/wp-content/uploads/2025/09/xbox-game-pass-logo-general-1.jpg",
    "date": "2026-11-03T10:06:59+00:00",
    "source": "Xboxygen",
    "category": "News"
-  },
-  {
-   "title": "Pour remuer le couteau dans la plaie : Mass Effect 5 devait sortir en 2028",
-   "link": "https://www.gamekult.com/actualite/pour-remuer-le-couteau-dans-la-plaie-mass-effect-5-devait-sortir-en-2028-3050872729.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872729/pour-remuer-le-couteau-dans-la-plaie-mass-effect-5-devait-sortir-fin-2028-2ff73554__930_300__0-0-1920-621.jpg",
-   "date": "2026-11-03T09:51:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
-  },
-  {
-   "title": "Xbox : L’ex-COO du groupe, Helen Chiang, règle ses comptes avec Asha Sharma et compagnie suite à son renvoi",
-   "link": "https://www.actugaming.net/xbox-lex-coo-du-groupe-helen-chiang-regle-ses-comptes-avec-asha-sharma-et-compagnie-suite-a-son-renvoi-832236/",
-   "image": "https://static.actugaming.net/media/2026/05/logo-Xbox.webp",
-   "date": "2026-11-03T09:36:58+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
   },
   {
    "title": "Star Wars Jedi 3 : le prochain jeu de Respawn serait très avancé et pourrait bientôt sortir de l’ombre",
@@ -244,22 +260,6 @@
    "date": "2026-11-03T09:07:23+00:00",
    "source": "Xboxygen",
    "category": "News"
-  },
-  {
-   "title": "“C’était insoutenable” : le directeur de South of Midnight revient sur le pari risqué de Xbox",
-   "link": "https://www.xboxygen.com/News/372834-cetait-insoutenable-le-directeur-de-south-of-midnight-revient-sur-le-pari-risque-de-xbox",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2025/05/south-of-midnight-hazel.jpg",
-   "date": "2026-11-03T08:58:01+00:00",
-   "source": "Xboxygen",
-   "category": "News"
-  },
-  {
-   "title": "South of Midnight : le directeur créatif parle du « robinet à pognon » d'Xbox sous Phil Spencer",
-   "link": "https://www.gamekult.com/actualite/south-of-midnight-le-directeur-creatif-parle-du-robinet-a-pognon-d-xbox-sous-phil-spencer-3050872727.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872727/south-of-midnight-le-directeur-creatif-parle-du-robinet-a-pognon-d-xbox-sous-phil-spencer-2a895327__930_300__0-150-1920-770.jpg",
-   "date": "2026-11-03T08:46:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
   }
  ]
 }
