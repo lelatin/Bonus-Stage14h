@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T17:51:38.391036+00:00",
+ "updated": "2026-11-04T18:54:34.213315+00:00",
  "sources": [
   {
    "name": "ActuGaming",
@@ -21,6 +21,22 @@
   "link": "https://www.youtube.com/watch?v=jNRqq4aRLXw"
  },
  "articles": [
+  {
+   "title": "City of None : le jeu de plateformes du cocréateur de Celeste confirme son arrivée sur Switch et Switch 2",
+   "link": "https://www.gamekult.com/actualite/city-of-none-le-jeu-de-plateformes-du-cocreateur-de-celeste-confirme-son-arrivee-sur-switch-et-switch-2-3050872767.html",
+   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872767/city-of-none-le-jeu-de-plateformes-du-cocreateur-de-celeste-confirme-son-arrivee-sur-switch-et-switch-2-38dd34fa__930_300__0-0-1920-621.jpg",
+   "date": "2026-11-04T18:45:00+00:00",
+   "source": "Gamekult",
+   "category": "Actu"
+  },
+  {
+   "title": "EA Sports FC 27 dévoile la huitième Team Of The Week",
+   "link": "https://www.actugaming.net/ea-sports-fc-27-devoile-la-huitieme-team-of-the-week-832360/",
+   "image": "https://static.actugaming.net/media/2026/07/ea-sports-fc-27.jpg",
+   "date": "2026-11-04T18:25:14+00:00",
+   "source": "ActuGaming",
+   "category": "Actualités"
+  },
   {
    "title": "Final Fantasy Brave Exvius ressuscité hors ligne par une poignée de fans acharnés",
    "link": "https://www.gamekult.com/actualite/final-fantasy-brave-exvius-ressuscite-hors-ligne-par-une-poignee-de-fans-acharnes-3050872766.html",
@@ -166,14 +182,6 @@
    "category": "News"
   },
   {
-   "title": "Mitya – Genshin Impact",
-   "link": "https://www.actugaming.net/guide-mitya-genshin-impact-832373/",
-   "image": "https://static.actugaming.net/media/2026/10/genshin-impact-20.jpg",
-   "date": "2026-11-04T14:23:57+00:00",
-   "source": "ActuGaming",
-   "category": "Soluces"
-  },
-  {
    "title": "À l'heure où les budgets font tant parler, le patron de CI Games dévoile le coût exact de Lords of the Fallen 2",
    "link": "https://www.gamekult.com/actualite/a-l-heure-ou-les-budgets-font-tant-parler-le-patron-de-ci-games-devoile-le-cout-exact-de-lords-of-the-fallen-2-3050872760.html",
    "image": "https://cdn.gamekult.com/optim/images/news/30/3050872760/a-l-heure-ou-les-budgets-font-tant-parler-le-patron-de-ci-games-devoile-le-cout-exact-de-lords-of-the-fallen-2-c3f395c3__930_300__0-238-1920-860.jpg",
@@ -234,14 +242,6 @@
    "link": "https://www.gamekult.com/actualite/macronix-l-un-des-principaux-fournisseurs-de-puces-memoire-de-nintendo-quitte-progressivement-le-marche-3050872763.html",
    "image": "https://cdn.gamekult.com/optim/images/news/30/3050872763/macronix-l-un-des-principaux-fournisseurs-de-puces-memoire-de-nintendo-quitte-progressivement-le-marche-04666648__930_300__0-377-1920-997.jpg",
    "date": "2026-11-04T10:17:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
-  },
-  {
-   "title": "Face aux diverses polémiques récentes, Steam durcit ses contrôles avant publication de jeux sur la plateforme",
-   "link": "https://www.gamekult.com/actualite/face-aux-diverses-polemiques-recentes-steam-durcit-ses-controles-avant-publication-de-jeux-sur-la-plateforme-3050872757.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872757/face-aux-diverses-polemiques-recentes-steam-durcit-ses-controles-avant-publication-de-jeux-sur-la-plateforme-532136d9__930_300__0-402-2560-1228.png",
-   "date": "2026-11-04T09:38:00+00:00",
    "source": "Gamekult",
    "category": "Actu"
   },
