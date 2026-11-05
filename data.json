@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T12:00:02.447642+00:00",
+ "updated": "2026-11-05T19:52:53.576333+00:00",
  "sources": [
   {
    "name": "ActuGaming",
@@ -21,6 +21,198 @@
   "link": "https://www.youtube.com/watch?v=jNRqq4aRLXw"
  },
  "articles": [
+  {
+   "title": "Xbox : L’application sur PC va subir des améliorations, les membres Xbox Insider y ont accès dès maintenant",
+   "link": "https://www.actugaming.net/xbox-application-pc-subir-ameliorations-membres-xbox-insider-acces-des-maintenant-832596/",
+   "image": "https://static.actugaming.net/media/2026/11/xbox-application-pc-interface-2026.png",
+   "date": "2026-11-05T18:33:09+00:00",
+   "source": "ActuGaming",
+   "category": "Actualités"
+  },
+  {
+   "title": "Wing Commander, Theme Hospital, Ultima : EA balance 25 titres cultes sur Steam, à petits prix",
+   "link": "https://www.gamekult.com/actualite/wing-commander-theme-hospital-ultima-ea-balance-25-titres-cultes-sur-steam-a-petits-prix-3050872768.html",
+   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872768/wing-commander-theme-hospital-ultima-ea-balance-25-titres-cultes-sur-steam-42bbbfcc__930_300__0-0-1920-621.jpg",
+   "date": "2026-11-05T18:30:00+00:00",
+   "source": "Gamekult",
+   "category": "Actu"
+  },
+  {
+   "title": "Ultime bafouille - GTA 6 : de Miami Vice à Spring Breakers, comment le cinéma a façonné Vice City",
+   "link": "https://www.gamekult.com/actualite/gta-6-de-miami-vice-a-spring-breakers-comment-le-cinema-a-faconne-vice-city-3050872419.html",
+   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872419/gta-6-de-miami-vice-a-spring-breakers-comment-le-cinema-a-faconne-vice-city-7b5f6647__930_300__0-84-1920-705.jpg",
+   "date": "2026-11-05T18:01:00+00:00",
+   "source": "Gamekult",
+   "category": "Actu"
+  },
+  {
+   "title": "Xbox accélère enfin son application PC : jusqu’à 60 % plus rapide et plusieurs grosses nouveautés",
+   "link": "https://www.xboxygen.com/News/373230-xbox-accelere-enfin-son-application-pc-jusqua-60-plus-rapide-et-plusieurs-grosses-nouveautes",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/xbox-nouvelle-interface-pc-2.jpg",
+   "date": "2026-11-05T17:57:52+00:00",
+   "source": "Xboxygen",
+   "category": "News"
+  },
+  {
+   "title": "Jouez gratuitement à la première mission de 007 First Light sur PC et Xbox Series, et un peu moins gratuitement sur PS5",
+   "link": "https://www.actugaming.net/jouez-gratuitement-a-la-premiere-mission-de-007-first-light-sur-pc-et-xbox-series-et-un-peu-moins-gratuitement-sur-ps5-832595/",
+   "image": "https://static.actugaming.net/media/2026/05/007-first-light-1.jpg",
+   "date": "2026-11-05T17:45:07+00:00",
+   "source": "ActuGaming",
+   "category": "Actualités"
+  },
+  {
+   "title": "Assassin’s Creed Valhalla vous invite à recommencer votre partie avec son mode New Game+, car le jeu n’était déjà pas assez long comme ça",
+   "link": "https://www.actugaming.net/assassins-creed-valhalla-vous-invite-a-recommencer-votre-partie-avec-son-mode-new-game-car-le-jeu-netait-deja-pas-assez-long-comme-ca-832590/",
+   "image": "https://static.actugaming.net/media/2026/11/assassins-creed-valhalla.jpg",
+   "date": "2026-11-05T17:16:28+00:00",
+   "source": "ActuGaming",
+   "category": "Actualités"
+  },
+  {
+   "title": "Agenda -  GeForce NOW : voici la liste des jeux de novembre menée par World of Warcraft : Forever",
+   "link": "https://www.gamekult.com/actualite/geforce-now-voici-la-liste-des-jeux-de-novembre-menee-par-world-of-warcraft-forever-3050872814.html",
+   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872814/geforce-now-voici-la-liste-des-jeux-de-novembre-menee-par-world-of-warcraft-forever-a9a65e51__930_300__0-458-1920-1080.jpg",
+   "date": "2026-11-05T17:15:00+00:00",
+   "source": "Gamekult",
+   "category": "Actu"
+  },
+  {
+   "title": "007 First Light gratuit : IO Interactive offre le début de l’aventure de James Bond",
+   "link": "https://www.xboxygen.com/News/007-first-light-gratuit-io-interactive-offre-le-debut-de-laventure-de-james-bond",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/10/007-First-Light.jpg",
+   "date": "2026-11-05T16:42:51+00:00",
+   "source": "Xboxygen",
+   "category": "News"
+  },
+  {
+   "title": "« Dans 20 ans, c'est fini » : l'éditeur New Blood (DUSK) prévoit déjà la retraite",
+   "link": "https://www.gamekult.com/actualite/dans-20-ans-c-est-fini-l-editeur-new-blood-dusk-prevoit-deja-la-retraite-3050872813.html",
+   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872813/dans-20-ans-c-est-fini-l-editeur-new-blood-dusk-prevoit-deja-la-retraite-73405176__930_300__0-90-1920-710.jpg",
+   "date": "2026-11-05T16:32:00+00:00",
+   "source": "Gamekult",
+   "category": "Actu"
+  },
+  {
+   "title": "Stardew Valley 1.7 pourrait être la plus grande mise à jour jamais réalisée, avec une sortie envisagée en 2027",
+   "link": "https://www.xboxygen.com/News/373221-stardew-valley-1-7-pourrait-etre-la-plus-grande-mise-a-jour-jamais-realisee-avec-une-sortie-envisagee-en-2027",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2024/11/stardew_valley-2.jpg",
+   "date": "2026-11-05T16:15:25+00:00",
+   "source": "Xboxygen",
+   "category": "News"
+  },
+  {
+   "title": "Hideo Kojima s’exprime à nouveau sur l’IA générative et « ne veut pas d’un avenir où l’aspect créatif humain disparaîtrait »",
+   "link": "https://www.actugaming.net/hideo-kojima-exprime-ia-generative-veut-pas-avenir-ou-aspect-creatif-humain-disparaitrait-832521/",
+   "image": "https://static.actugaming.net/media/2022/06/hideo-kojima-xbox.jpg",
+   "date": "2026-11-05T16:13:19+00:00",
+   "source": "ActuGaming",
+   "category": "Actualités"
+  },
+  {
+   "title": "Barry Sloane, l’acteur derrière le personnage du capitaine Price, pense être le plus « qualifié » pour jouer dans le futur film Call of Duty",
+   "link": "https://www.actugaming.net/barry-sloane-capitaine-price-film-call-of-duty-832525/",
+   "image": "https://static.actugaming.net/media/2026/05/Call-of-Duty-Modern-Warfare-4_2026_05-28-26_009.jpg.jpeg",
+   "date": "2026-11-05T15:51:11+00:00",
+   "source": "ActuGaming",
+   "category": "Actualités"
+  },
+  {
+   "title": "GTA 6 : À quelques jours du lancement, Rockstar partage de nombreuses images inédites du jeu",
+   "link": "https://www.actugaming.net/gta-6-a-quelques-jours-du-lancement-rockstar-partage-de-nombreuses-images-inedites-du-jeu-832537/",
+   "image": "https://static.actugaming.net/media/2026/11/GTA-6-3.jpeg",
+   "date": "2026-11-05T15:47:37+00:00",
+   "source": "ActuGaming",
+   "category": "Actualités"
+  },
+  {
+   "title": "GTA 6 : 39 nouvelles images magnifiques pour patienter jusqu’au lancement",
+   "link": "https://www.xboxygen.com/News/373175-gta-6-39-nouvelles-images-magnifiques-pour-patienter-jusquau-lancement",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/GTA-6-Jason-musculation.jpg",
+   "date": "2026-11-05T15:24:09+00:00",
+   "source": "Xboxygen",
+   "category": "News"
+  },
+  {
+   "title": "Square Enix devrait investir davantage dans de nouveaux jeux originaux après avoir terminé Final Fantasy VII Revelation",
+   "link": "https://www.actugaming.net/square-enix-devrait-investir-davantage-dans-de-nouveaux-jeux-originaux-apres-avoir-termine-final-fantasy-vii-revelation-832534/",
+   "image": "https://static.actugaming.net/media/2026/09/final-fantasy-vii-revelation-state-of-play-screenshot-6.jpg",
+   "date": "2026-11-05T15:18:02+00:00",
+   "source": "ActuGaming",
+   "category": "Actualités"
+  },
+  {
+   "title": "Anno 117 : Pax Romana part se dorer la pilule en Égypte",
+   "link": "https://www.gamekult.com/actualite/anno-117-pax-romana-part-se-dorer-la-pilule-en-egypte-3050872810.html",
+   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872810/76430e0e__930_300__0-741-3840-1981.jpeg",
+   "date": "2026-11-05T15:03:00+00:00",
+   "source": "Gamekult",
+   "category": "Actu"
+  },
+  {
+   "title": "Assassin’s Creed Valhalla reçoit une énorme mise à jour 6 ans après son lancement : le New Game+ est disponible",
+   "link": "https://www.xboxygen.com/News/373167-assassins-creed-valhalla-recoit-une-enorme-mise-a-jour-6-ans-apres-son-lancement-le-new-game-est-disponible",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/Assassins-Creed-Valhalla.jpg",
+   "date": "2026-11-05T14:58:14+00:00",
+   "source": "Xboxygen",
+   "category": "News"
+  },
+  {
+   "title": "Nintendo écarte l’idée d’une nouvelle hausse de prix pour la Switch 2 et dit avoir sécurisé les composants nécessaires pour son stock",
+   "link": "https://www.actugaming.net/nintendo-ecarte-lidee-dune-nouvelle-hausse-de-prix-pour-la-switch-2-et-dit-avoir-securise-les-composants-necessaires-pour-son-stock-832529/",
+   "image": "https://static.actugaming.net/media/2025/04/nintendo-switch-2.jpg",
+   "date": "2026-11-05T14:46:44+00:00",
+   "source": "ActuGaming",
+   "category": "Actualités"
+  },
+  {
+   "title": "Les fans de BioWare ont une idée pour sauver le studio après sa fermeture par EA",
+   "link": "https://www.xboxygen.com/News/373159-les-fans-de-bioware-ont-une-idee-pour-sauver-le-studio-apres-sa-fermeture-par-ea",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2025/01/licenciements-bioware-mass-effect.jpg",
+   "date": "2026-11-05T14:26:26+00:00",
+   "source": "Xboxygen",
+   "category": "News"
+  },
+  {
+   "title": "Avant la sortie de GTA 6, les résultats de PlayStation battent encore plusieurs records",
+   "link": "https://www.gamekult.com/actualite/avant-la-sortie-de-gta-6-les-resultats-de-playstation-battent-encore-plusieurs-records-3050872799.html",
+   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872799/avant-la-sortie-de-gta-6-les-resultats-de-playstation-battent-encore-plusieurs-records-deee58af__930_300__0-93-1920-715.jpg",
+   "date": "2026-11-05T14:15:00+00:00",
+   "source": "Gamekult",
+   "category": "Actu"
+  },
+  {
+   "title": "GTA 6 : Le PDG de Take-Two fait référence au lancement raté de Cyberpunk 2077 pour justifier la nécessité des reports",
+   "link": "https://www.actugaming.net/gta-6-le-pdg-de-take-two-fait-reference-au-lancement-rate-de-cyberpunk-2077-pour-justifier-la-necessite-des-reports-832524/",
+   "image": "https://static.actugaming.net/media/2026/08/gta-6-lucia-camino-1.jpg",
+   "date": "2026-11-05T14:10:50+00:00",
+   "source": "ActuGaming",
+   "category": "Actualités"
+  },
+  {
+   "title": "Jouer sur TV sans manette, c'est désormais possible via l'application Xbox Cloud Gaming",
+   "link": "https://www.gamekult.com/actualite/jouer-sur-tv-sans-manette-c-est-desormais-possible-via-l-application-xbox-cloud-gaming-3050872790.html",
+   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872790/jouer-sur-tv-sans-manette-c-est-desormais-possible-via-l-application-xbox-cloud-gaming-20f32967__930_300__0-203-1920-824.jpg",
+   "date": "2026-11-05T13:47:00+00:00",
+   "source": "Gamekult",
+   "category": "Actu"
+  },
+  {
+   "title": "« Quelque chose d’incroyable » : Xbox tease une nouveauté que les membres Insiders vont pouvoir essayer",
+   "link": "https://www.xboxygen.com/News/373149-quelque-chose-dincroyable-xbox-tease-une-nouveaute-que-les-membres-insiders-vont-pouvoir-essayer",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/Xbox-Insiders.jpg",
+   "date": "2026-11-05T13:18:20+00:00",
+   "source": "Xboxygen",
+   "category": "News"
+  },
+  {
+   "title": "World of Horror gagne 20 % de contenu en plus avec l'imposante mise à jour gratuite As Below So Above",
+   "link": "https://www.gamekult.com/actualite/world-of-horror-gagne-20-de-contenu-en-plus-avec-l-imposante-mise-a-jour-gratuite-as-below-so-above-3050872787.html",
+   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872787/world-of-horror-gagne-20-de-contenu-en-plus-avec-l-imposante-mise-a-jour-gratuite-as-below-so-above-6247637c__930_300__0-258-2560-1083.jpg",
+   "date": "2026-11-05T12:29:00+00:00",
+   "source": "Gamekult",
+   "category": "Actu"
+  },
   {
    "title": "Game and watch - Angry Birds 3 : les piafs vont sauver le monde avec Sonic",
    "link": "https://www.gamekult.com/actualite/angry-birds-3-les-piafs-vont-sauver-le-monde-avec-sonic-3050872791.html",
@@ -62,204 +254,12 @@
    "category": "News"
   },
   {
-   "title": "Nintendo : le chiffre d'affaires recule, mais la Switch 2 garde son record avec 26,35 millions de consoles dans la nature",
-   "link": "https://www.gamekult.com/actualite/nintendo-le-chiffre-d-affaires-recule-mais-la-switch-2-garde-son-record-avec-26-35-millions-de-consoles-dans-la-nature-3050872786.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872786/nintendo-le-chiffre-d-affaires-recule-mais-la-switch-2-garde-son-record-avec-26-35-millions-de-consoles-dans-la-nature-9eb1df12__930_300__0-441-3840-1675.jpg",
-   "date": "2026-11-05T10:10:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
-  },
-  {
-   "title": "Honkai Nexus Anima aura droit à une ultime bêta avant son lancement prévu pour le printemps 2027",
-   "link": "https://www.actugaming.net/honkai-nexus-anima-aura-droit-a-une-ultime-beta-avant-son-lancement-prevu-pour-le-printemps-2027-832513/",
-   "image": "https://static.actugaming.net/media/2026/11/Honkai-Nexus-Anima.jpg",
-   "date": "2026-11-05T10:01:30+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
-  },
-  {
    "title": "Test Manette Razer Prio – Future partenaire de voyage ?",
    "link": "https://www.xboxygen.com/Tests/372820-test-manette-razer-prio-future-partenaire-de-voyage",
    "image": "https://www.xboxygen.com/wp-content/uploads/2026/09/razer-prio-g.jpg",
    "date": "2026-11-05T10:00:00+00:00",
    "source": "Xboxygen",
    "category": "Actu"
-  },
-  {
-   "title": "Yakuza Blocks : Kiryu débarque dans Roblox, et on aurait préféré que ce soit une blague",
-   "link": "https://www.gamekult.com/actualite/yakuza-blocks-kiryu-debarque-dans-roblox-et-on-aurait-prefere-que-ce-soit-une-blague-3050872785.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872785/yakuza-blocks-c-est-pas-une-blague-2818e668__930_300__0-0-1920-621.jpg",
-   "date": "2026-11-05T09:51:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
-  },
-  {
-   "title": "Le jeu d’agriculture avec des méchas Lightyear Frontier est disponible en 1.0 : voici toutes les nouveautés",
-   "link": "https://www.xboxygen.com/News/373119-le-jeu-dagriculture-avec-des-mechas-lightyear-frontier-est-disponible-en-1-0-voici-toutes-les-nouveautes",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2023/03/Lightyear-Frontier-1.jpg",
-   "date": "2026-11-05T09:46:49+00:00",
-   "source": "Xboxygen",
-   "category": "News"
-  },
-  {
-   "title": "Nintendo a vendu 26,3 millions de Switch 2 et partage des premiers chiffres pour Splatoon Raiders, Star Fox ou le dernier Fire Emblem",
-   "link": "https://www.actugaming.net/nintendo-a-vendu-263-millions-de-switch-2-et-partage-des-premiers-chiffres-pour-splatoon-raiders-star-fox-ou-le-dernier-fire-emblem-832507/",
-   "image": "https://static.actugaming.net/media/2026/05/splatoon-raiders-1.jpg",
-   "date": "2026-11-05T09:21:39+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
-  },
-  {
-   "title": "Fable évite un immense rival sur PS5 grâce au report de God of War Laufey",
-   "link": "https://www.xboxygen.com/News/373112-fable-evite-un-immense-rival-sur-ps5-grace-au-report-de-god-of-war-laufey",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/08/fable-gameplay-quest-combat-exploration.jpg",
-   "date": "2026-11-05T09:01:23+00:00",
-   "source": "Xboxygen",
-   "category": "News"
-  },
-  {
-   "title": "Le développement de la PS6 avance comme prévu, selon Sony",
-   "link": "https://www.xboxygen.com/News/373104-le-developpement-de-la-ps6-avance-comme-prevu-selon-sony",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/07/PS6-concept-xboxygen-mockup.jpg",
-   "date": "2026-11-05T08:49:34+00:00",
-   "source": "Xboxygen",
-   "category": "News"
-  },
-  {
-   "title": "Arkane : le STJV accuse XBOX de \"saboter\" Marvel's Blade avec un gel des embauches de 19 mois",
-   "link": "https://www.gamekult.com/actualite/arkane-le-stjv-accuse-xbox-de-saboter-marvel-s-blade-avec-un-gel-des-embauches-de-19-mois-3050872788.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872788/arkane-le-stjv-accuse-xbox-de-saboter-marvel-s-blade-avec-un-gel-des-embauches-de-19-mois-f46bb42c__930_300__0-308-1920-928.jpeg",
-   "date": "2026-11-05T08:47:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
-  },
-  {
-   "title": "Marvel’s Wolverine s’est vendu à 2,4 millions d’exemplaires, tandis que la PS5 s’approche de la barre des 100 millions",
-   "link": "https://www.actugaming.net/marvels-wolverine-sest-vendu-a-24-millions-dexemplaires-tandis-que-la-ps5-sapproche-de-la-barre-des-100-millions-832504/",
-   "image": "https://static.actugaming.net/media/2026/09/marvels-wolverine-illustration-1.jpg",
-   "date": "2026-11-05T08:39:06+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
-  },
-  {
-   "title": "Xbox Game Pass : voici les 10 meilleurs jeux coopératifs pour jouer en ligne",
-   "link": "https://www.xboxygen.com/News/31897-xbox-game-pass-meilleurs-jeux-coop-online",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2024/12/xbox-game-pass-meilleurs-jeux-coop-online.jpg",
-   "date": "2026-11-05T08:38:52+00:00",
-   "source": "Xboxygen",
-   "category": "News"
-  },
-  {
-   "title": "Xbox Game Pass : 3 jeux 11 bit studios arrivent day one dans le Xbox Game Pass en 2027",
-   "link": "https://www.xboxygen.com/News/373097-xbox-game-pass-3-jeux-11-bit-studios-arrivent-day-one-dans-le-xbox-game-pass-en-2027",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/11-bit-studios.jpg",
-   "date": "2026-11-05T08:38:29+00:00",
-   "source": "Xboxygen",
-   "category": "News"
-  },
-  {
-   "title": "Xbox Game Pass : 3 nouveaux jeux débarquent aujourd’hui dans le service, dont une sortie day one",
-   "link": "https://www.xboxygen.com/News/373094-xbox-game-pass-3-nouveaux-jeux-debarquent-aujourdhui-dans-le-service-dont-une-sortie-day-one",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/Escape-Academy-2-Back-2-School.jpg",
-   "date": "2026-11-05T08:27:38+00:00",
-   "source": "Xboxygen",
-   "category": "News"
-  },
-  {
-   "title": "« Arkane est rentable » : les développeurs accusent Microsoft de sabotage pour justifier la fermeture",
-   "link": "https://www.xboxygen.com/News/arkane-rentable-developpeurs-accusent-microsoft-sabotage",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/marvel-blade-game.jpg",
-   "date": "2026-11-05T08:04:50+00:00",
-   "source": "Xboxygen",
-   "category": "News"
-  },
-  {
-   "title": "Mémoire cash - Fighting Force, ou la laborieuse transition du beat'em up dans l'ère de la 3D",
-   "link": "https://www.gamekult.com/actualite/fighting-force-ou-la-laborieuse-transition-du-beat-em-up-dans-l-ere-de-la-3d-101-3050866522.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050866522/il-y-a-28-ans-fighting-force-illustrait-une-transition-penible-vers-la-3d-ba24cead__930_300__0-714-2979-1674.png",
-   "date": "2026-11-05T08:00:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
-  },
-  {
-   "title": "Ce n'est pas King's Field, mais presque : le RPG à la première personne Queen's Domain fête déjà ses 100 000 ventes",
-   "link": "https://www.gamekult.com/actualite/ce-n-est-pas-king-s-field-mais-presque-le-rpg-a-la-premiere-personne-queen-s-domain-fete-deja-ses-100-000-ventes-3050872773.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872773/ce-n-est-pas-king-s-field-mais-presque-le-rpg-a-la-premiere-personne-queen-s-domain-fete-deja-ses-100-000-ventes-ce839f95__930_300__0-304-1920-924.jpg",
-   "date": "2026-11-05T06:34:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
-  },
-  {
-   "title": "Mémoire cash - En 1995 naissait Twisted Metal, le premier chouchou « made in USA » de la PlayStation",
-   "link": "https://www.gamekult.com/actualite/en-1995-naissait-twisted-metal-le-premier-chouchou-made-in-usa-de-la-playstation-3050872743.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872743/en-1995-naissait-twisted-metal-le-premier-chouchou-made-in-usa-de-la-playstation-ce4f5bc8__930_300__323-916-3492-1935.jpg",
-   "date": "2026-11-05T05:00:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
-  },
-  {
-   "title": "City of None : le jeu de plateformes du cocréateur de Celeste confirme son arrivée sur Switch et Switch 2",
-   "link": "https://www.gamekult.com/actualite/city-of-none-le-jeu-de-plateformes-du-cocreateur-de-celeste-confirme-son-arrivee-sur-switch-et-switch-2-3050872767.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872767/city-of-none-le-jeu-de-plateformes-du-cocreateur-de-celeste-confirme-son-arrivee-sur-switch-et-switch-2-38dd34fa__930_300__0-0-1920-621.jpg",
-   "date": "2026-11-04T18:45:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
-  },
-  {
-   "title": "EA Sports FC 27 dévoile la huitième Team Of The Week",
-   "link": "https://www.actugaming.net/ea-sports-fc-27-devoile-la-huitieme-team-of-the-week-832360/",
-   "image": "https://static.actugaming.net/media/2026/07/ea-sports-fc-27.jpg",
-   "date": "2026-11-04T18:25:14+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
-  },
-  {
-   "title": "Final Fantasy Brave Exvius ressuscité hors ligne par une poignée de fans acharnés",
-   "link": "https://www.gamekult.com/actualite/final-fantasy-brave-exvius-ressuscite-hors-ligne-par-une-poignee-de-fans-acharnes-3050872766.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872766/final-fantasy-brave-exvius-ressuscite-hors-ligne-par-une-poignee-de-fans-acharnes-696bac34__930_300__0-440-1920-1061.jpg",
-   "date": "2026-11-04T17:36:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
-  },
-  {
-   "title": "GOG tiendra son propre showcase ce 5 novembre avec des annonces exclusives de nouveaux jeux",
-   "link": "https://www.actugaming.net/gog-tiendra-son-propre-showcase-ce-5-novembre-avec-des-annonces-exclusives-de-nouveaux-jeux-832453/",
-   "image": "https://static.actugaming.net/media/2026/11/gog-showcase.jpg",
-   "date": "2026-11-04T17:34:23+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
-  },
-  {
-   "title": "God of War Laufey repousse sa date de sortie et arrivera finalement le 20 mai 2027",
-   "link": "https://www.actugaming.net/god-of-war-laufey-repousse-sortie-20-mai-2027-832447/",
-   "image": "https://static.actugaming.net/media/2026/06/god-of-war-laufey-screenshot-1.jpg",
-   "date": "2026-11-04T17:27:18+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
-  },
-  {
-   "title": "« Annuler Blade couterait sans doute aujourd’hui plus cher que de le finir » : Le STJV dénonce les méthodes de Microsoft avec Arkane",
-   "link": "https://www.actugaming.net/annuler-blade-couterait-sans-doute-aujourdhui-plus-cher-que-de-le-finir-le-stjv-denonce-les-methodes-de-microsoft-avec-arkane-832439/",
-   "image": "https://static.actugaming.net/media/2026/11/marvel-blade-arkane.jpg",
-   "date": "2026-11-04T17:10:25+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
-  },
-  {
-   "title": "The Elder Scrolls VI: Sentinel vient d’officialiser son nom, mais ne l’attendez probablement avant deux bonnes années",
-   "link": "https://www.actugaming.net/the-elder-scrolls-vi-sentinel-vient-dofficialiser-son-nom-mais-ne-lattendez-probablement-avant-deux-bonnes-annees-832431/",
-   "image": "https://static.actugaming.net/media/2018/07/The-Elder-Scrolls-VI-2.jpg",
-   "date": "2026-11-04T16:30:18+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
-  },
-  {
-   "title": "Le controversé NVIDIA DLSS 5 va bientôt arriver dans de nouveaux jeux, dont Hogwarts Legacy dès cette semaine",
-   "link": "https://www.actugaming.net/nvidia-dlss-5-hogwarts-legacy-war-thunder-where-winds-meet-832377/",
-   "image": "https://static.actugaming.net/media/2023/02/hogwarts-legacy-key-art-logo.jpg",
-   "date": "2026-11-04T16:07:57+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
   }
  ]
 }
