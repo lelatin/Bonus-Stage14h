@@ -2,11 +2,11 @@
 """Lit sources.json (chaînes YouTube), récupère les dernières vidéos longues (hors Shorts) de chaque
 chaîne via les flux Atom officiels de YouTube, et écrit data.json, lu par index.html.
 Aucune dépendance externe, aucune clé d'API."""
-import json, re, urllib.request
+import json, re, time, urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
-UA = {"User-Agent": "Mozilla/5.0 (compatible; bonusstage/2.0)", "Accept-Language": "fr-FR,fr;q=0.9",
+UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Accept-Language": "fr-FR,fr;q=0.9",
       "Cookie": "CONSENT=YES+1; SOCS=CAI"}
 PER_SOURCE = 12   # vidéos gardées par chaîne (modifiable par chaîne avec "count" dans sources.json)
 MAX_TOTAL = 120   # nombre total de vidéos écrites dans data.json
@@ -14,9 +14,17 @@ NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/sche
       "m": "http://search.yahoo.com/mrss/"}
 
 
-def get(url):
-    with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=20) as r:
-        return r.read()
+def get(url, tries=3):
+    """Télécharge une URL ; réessaie avec une pause croissante (YouTube répond parfois 404/429 par intermittence)."""
+    last = None
+    for i in range(tries):
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=20) as r:
+                return r.read()
+        except Exception as ex:
+            last = ex
+            time.sleep(2 * (i + 1))
+    raise last
 
 
 def load(path, default):
@@ -38,19 +46,7 @@ def channel_id(handle):
     raise ValueError("identifiant de chaîne introuvable pour @" + handle)
 
 
-def read_channel(src, cid):
-    # UULF… = playlist « vidéos » de la chaîne, sans les Shorts ni les directs
-    urls = ["https://www.youtube.com/feeds/videos.xml?playlist_id=UULF" + cid[2:],
-            "https://www.youtube.com/feeds/videos.xml?channel_id=" + cid]
-    root = None
-    for u in urls:
-        try:
-            root = ET.fromstring(get(u))
-            break
-        except Exception:
-            continue
-    if root is None:
-        raise RuntimeError("flux illisible")
+def parse(root, src):
     out = []
     for e in root.findall("a:entry", NS):
         vid = e.findtext("yt:videoId", namespaces=NS)
@@ -68,7 +64,25 @@ def read_channel(src, cid):
             item["views"] = views
         out.append(item)
     out.sort(key=lambda a: a["date"] or "", reverse=True)
-    return out[: src.get("count", PER_SOURCE)]
+    return out
+
+
+def read_channel(src, cid):
+    # 3 flux possibles, essayés dans l'ordre jusqu'à en trouver un qui contient des vidéos :
+    # UULF = vidéos longues sans Shorts ; UU = toutes les mises en ligne ; puis le flux classique de la chaîne
+    base = "https://www.youtube.com/feeds/videos.xml?"
+    urls = [base + "playlist_id=UULF" + cid[2:], base + "playlist_id=UU" + cid[2:], base + "channel_id=" + cid]
+    errors = []
+    for u in urls:
+        try:
+            items = parse(ET.fromstring(get(u)), src)
+        except Exception as ex:
+            errors.append("%s → %s" % (u.split("=")[1][:6], ex))
+            continue
+        if items:
+            return items[: src.get("count", PER_SOURCE)]
+        errors.append("%s → flux vide" % u.split("=")[1][:6])
+    raise RuntimeError(" ; ".join(errors))
 
 
 def main():
@@ -85,6 +99,7 @@ def main():
             print("ERR ", name, ex)
             items = [a for a in old.get("articles", []) if a.get("source") == name]  # on garde l'ancien contenu
         articles += items
+        time.sleep(1)
         meta.append({"name": name, "category": src.get("category", ""), "handle": src["handle"], "channel_id": cid, "url": "https://www.youtube.com/@" + src["handle"].lstrip("@")})
     seen, uniq = set(), []
     for a in sorted(articles, key=lambda a: a["date"] or "", reverse=True):
