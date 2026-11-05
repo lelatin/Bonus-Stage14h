@@ -3,13 +3,5 @@
   { "name": "Playmoo",                 "handle": "Playmoo",               "category": "Découverte & avis" },
   { "name": "At0mium",                 "handle": "At0mium_VOD",           "category": "Découverte & avis" },
   { "name": "Maximuuus",               "handle": "Maximuuus",             "category": "Découverte & avis" },
-  { "name": "Press Start",             "handle": "PressStart-JV",         "category": "Découverte & avis" },
-  { "name": "TheGreatReview",          "handle": "TheGreatReview",        "category": "Essais vidéo" },
-  { "name": "Esquive la Boule de Feu", "handle": "EsquivelaBouledeFeu",   "category": "Essais vidéo" },
-  { "name": "ALT 236",                 "handle": "ALT236",                "category": "Essais vidéo" },
-  { "name": "Nostalgeek",              "handle": "NostalGeekYT",          "category": "Essais vidéo" },
-  { "name": "Edward",                  "handle": "EdwardRetroDecouverte", "category": "Essais vidéo" },
-  { "name": "Ego",                     "handle": "ego_one",               "category": "Essais vidéo" },
-  { "name": "Toujours Thomas",         "handle": "Toujours_Thomas",       "category": "Essais vidéo" },
-  { "name": "Tetryl",                  "handle": "Tetryl",                "category": "Essais vidéo" }
+  { "name": "Press Start",             "handle": "PressStart-JV",         "category": "Découverte & avis" }
 ]
