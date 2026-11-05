@@ -1,17 +1,12 @@
-# l'hebdo14h
+# Bonus Stage14h – les essais vidéo de jeux, au même endroit
 
-1. Mets ces fichiers à la racine d'un dépôt GitHub (en gardant le dossier `.github`).
-2. Settings > Pages : branche `main`, dossier `/ (root)`.
-3. Onglet Actions > "Mise à jour des articles" > Run workflow (première remplissage de data.json).
-   Ensuite, la mise à jour se fait toute seule toutes les 30 minutes.
+Agrégateur des dernières vidéos (hors Shorts) de chaînes YouTube qui font de l'essai vidéo sur le jeu.
 
-## Ajouter un site
-Ajoute une ligne dans `sources.json` :
-{ "name": "Mon site", "site": "https://exemple.com", "color": "#7C3AED" }
-Si le flux n'est pas détecté, ajoute `"feed": "https://exemple.com/rss"`.
+- `sources.json` : la liste des chaînes (`name` = nom affiché, `handle` = le @pseudo YouTube sans le @, `category` = « Essais vidéo » ou « Découverte & avis », qui donne les filtres du haut).
+  Pour ajouter une chaîne, ajoute une ligne. Pour changer le nombre de vidéos d'une chaîne : `"count": 20`.
+- `update.py` : lit les flux officiels de YouTube (sans clé d'API) et écrit `data.json`.
+  Réglages : `PER_SOURCE` (vidéos par chaîne) et `MAX_TOTAL` (total affiché).
+- `.github/workflows` : relance `update.py` toutes les 30 minutes.
+- `index.html` : la page. `fonds/` : les images de fond tirées au hasard (liste dans `fonds/index.json`).
 
-## Tester chez toi
-python update.py && python -m http.server  → http://localhost:8000
-
-## Nombre d'articles
-10 par site par défaut. Pour changer : ajoute `"count": 20` dans la ligne du site, dans `sources.json`.
+Les vidéos sont lues avec le lecteur YouTube : les vues et les droits restent aux créateurs.

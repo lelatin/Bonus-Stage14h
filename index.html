@@ -5,10 +5,10 @@
 <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#1a1a1a" media="(prefers-color-scheme: dark)">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="description" content="L'actu jeu vidéo de la semaine, sans le bruit : tests, sorties et vidéos au même endroit.">
-<title>L'hebdo14h – l'actu jeu vidéo, sans le bruit</title>
+<meta name="description" content="Les dernières vidéos d'essai et d'avis sur les jeux vidéo, choisies chaîne par chaîne, au même endroit.">
+<title>Bonus Stage14h – les essais vidéo de jeux, au même endroit</title>
 <script>try{var t=localStorage.getItem("theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t}catch(e){}</script>
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 100 100%27%3E%3Crect width=%27100%27 height=%27100%27 rx=%2716%27 fill=%27%23ffd60a%27/%3E%3Ctext x=%2750%27 y=%2766%27 font-size=%2750%27 font-weight=%27700%27 text-anchor=%27middle%27 font-family=%27Arial%27 fill=%27%23262626%27%3E14h%3C/text%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 100 100%27%3E%3Crect width=%27100%27 height=%27100%27 rx=%2716%27 fill=%27%23ffd60a%27/%3E%3Ctext x=%2750%27 y=%2766%27 font-size=%2742%27 font-weight=%27700%27 text-anchor=%27middle%27 font-family=%27Arial%27 fill=%27%23262626%27%3EBS%3C/text%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bungee&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
@@ -24,7 +24,7 @@ body{background:var(--bg);color:var(--ink);font:400 16px/1.5 var(--f);transition
 .wrap{max-width:1400px;margin:0 auto;padding:0 max(var(--gut),env(safe-area-inset-right)) 0 max(var(--gut),env(safe-area-inset-left))}
 header{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:30px 0 16px}
 .tools{display:flex;align-items:center;gap:26px}
-h1{display:inline-block;font:400 clamp(34px,8.5vw,100px)/.95 var(--f);letter-spacing:-.015em;color:var(--o)}
+h1{display:inline-block;font:400 clamp(24px,6.2vw,84px)/.95 var(--f);letter-spacing:-.015em;color:var(--o)}
 .switch{position:relative;flex:none;width:72px;height:40px;padding:0;border:3px solid var(--line);border-radius:var(--r);background:var(--y);box-shadow:3px 3px 0 var(--line);cursor:pointer;transition:background-color .2s,transform .16s var(--ease)}
 .switch:active{transform:scale(.97)}
 .knob{position:absolute;top:3px;left:3px;width:28px;height:28px;display:grid;place-items:center;border:2px solid var(--dk);border-radius:5px;background:var(--o);font-size:14px;line-height:1;transition:transform .22s var(--ease)}
@@ -46,7 +46,10 @@ button{font:400 16px var(--f);cursor:pointer;color:var(--dk)}
 .chip small{opacity:.7;margin-left:7px;font-size:12px;font-variant-numeric:tabular-nums}
 .sep{flex:none;width:3px;margin:4px 2px;border-radius:2px;background:var(--line)}
 #grid{display:flex;flex-direction:column;gap:26px;padding:22px 0 20px}
-.hero{display:grid;grid-template-columns:repeat(4,1fr);gap:20px}
+.hero{display:grid;grid-template-columns:repeat(2,1fr);gap:36px 26px}
+.hero .pic{aspect-ratio:16/9}
+.hc h2 a{color:inherit;text-decoration:none}
+@media(hover:hover){.hc h2 a:hover{text-decoration:underline}}
 .hcol{display:flex;flex-direction:column;gap:10px;min-width:0}
 .six{display:grid;grid-template-columns:1fr 1fr;gap:20px 18px}
 .tests{display:grid;grid-template-columns:repeat(3,1fr);gap:26px 18px}
@@ -57,9 +60,10 @@ button{font:400 16px var(--f);cursor:pointer;color:var(--dk)}
 .pic img,.th img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
 .hc h2{font-size:17px;-webkit-line-clamp:3}
 .hc .meta{margin-top:6px}
-.hero .hc h2{font-size:16px}
+.hero .hc h2{font-size:clamp(17px,1.6vw,21px);line-height:1.25}
+.hero .hc .meta{margin-top:8px}
 .vpic{cursor:pointer}
-.vpic .play{width:56px;height:56px;font-size:20px}
+.vpic .play{width:72px;height:72px;font-size:26px}
 .vpic iframe{position:absolute;inset:0;width:100%;height:100%;border:0;background:#000}
 .tag{position:absolute;top:8px;left:8px;padding:2px 8px;background:var(--o);color:var(--dk);border:2px solid var(--dk);border-radius:var(--r);font:400 12px/1.5 var(--f)}
 .tc .pic{aspect-ratio:16/9;margin-bottom:0}
@@ -80,9 +84,9 @@ img.ok{opacity:1!important}
 .card h2{font:700 15px/1.3 var(--c);text-wrap:balance;text-shadow:0 1px 6px rgba(0,0,0,.4);display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
 .ban h2{font-size:clamp(20px,2.6vw,34px)}
 .meta{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
-.src,.meta time{padding:0 8px;border:2px solid var(--dk);border-radius:var(--r);font:700 11px/1.6 var(--c);color:var(--dk)}
+.src,.meta time,.vw{padding:0 8px;border:2px solid var(--dk);border-radius:var(--r);font:700 11px/1.6 var(--c);color:var(--dk)}
 .src{background:var(--o)}
-.meta time{background:#fff}
+.meta time,.vw{background:#fff}
 .vlabel{display:flex;align-items:center;gap:10px;font:400 14px/1 var(--f)}
 .vlabel::after{content:"";flex:1;height:6px;border-radius:3px;background:var(--o)}
 .hc:focus-visible,.tc:focus-visible,.ct:focus-visible,.card:focus-visible{outline:3px solid var(--o);outline-offset:3px}
@@ -105,10 +109,10 @@ img.ok{opacity:1!important}
 .msg{padding:44px 8px;font-size:20px;line-height:1.4;text-align:center}
 footer{padding:22px 0 48px;font:400 14px var(--c);border-top:3px solid var(--line)}
 @media(min-width:1700px){.wrap{max-width:1560px}}
-@media(max-width:900px){.hero{grid-template-columns:1fr 1fr}.tests{grid-template-columns:1fr 1fr}}
+@media(max-width:900px){.tests{grid-template-columns:1fr 1fr}}
 @media(max-width:700px){.six{grid-template-columns:1fr}}
 @media(max-width:620px){.sticker{display:none}}
-@media(max-width:560px){.hero,.tests{grid-template-columns:1fr}}
+@media(max-width:620px){.hero,.tests{grid-template-columns:1fr}}
 @media(prefers-reduced-motion:reduce){.pop{animation-name:fade;animation-delay:0s}@keyframes fade{from{opacity:0}}.knob,.card,.chip,.more,.switch,.play,.hc,.tc,.ct{transition-property:background-color,color,opacity}.card:hover,.card:active,.hc:hover,.hc:active,.tc:hover,.tc:active,.ct:hover,.ct:active,.chip:hover,.chip:active,.switch:active,.more:active,.vid:hover .play{transform:none}}
 </style>
 </head>
@@ -116,27 +120,27 @@ footer{padding:22px 0 48px;font:400 14px var(--c);border-top:3px solid var(--lin
 <div class="bgfx" id="bgfx" aria-hidden="true"></div>
 <div class="wrap">
   <header>
-    <h1>L'hebdo14h</h1>
+    <h1>Bonus Stage14h</h1>
     <div class="tools">
-      <div class="sticker" id="sticker" hidden><b id="n">0</b><span id="nl">articles frais</span></div>
+      <div class="sticker" id="sticker" hidden><b id="n">0</b><span id="nl">vidéos à voir</span></div>
       <button class="switch" id="theme" type="button" role="switch" aria-checked="false" aria-label="Mode sombre"><span class="knob" id="knob"></span></button>
     </div>
   </header>
 </div>
 <div class="bar"><div class="wrap">
   <div class="search">
-    <input id="q" type="search" placeholder="Cherche un jeu, un studio, une console…" aria-label="Rechercher un article" autocomplete="off" enterkeyhint="search">
+    <input id="q" type="search" placeholder="Cherche un jeu, une chaîne, un sujet…" aria-label="Rechercher un article" autocomplete="off" enterkeyhint="search">
   </div>
   <div class="chips" id="chips" role="group" aria-label="Filtrer par rubrique ou par site"></div>
 </div></div>
 <main class="wrap">
   <div class="grid" id="grid"><p class="msg">Chargement des articles…</p></div>
-  <button class="more" id="more" hidden>Voir plus d'articles</button>
+  <button class="more" id="more" hidden>Voir plus de vidéos</button>
 </main>
 <footer><div class="wrap" id="foot"></div></footer>
 
 <script>
-const PAGE = 24, PATTERN = ["l","s","s","t","w","s","s","w","t","s","s","s"], TYPES = ["Actu", "Tests", "Sorties"];
+const PAGE = 16, TYPES = ["Essais vidéo", "Découverte & avis"];
 let ALL = [], SOURCES = {}, site = null, type = null, shown = PAGE;
 const $ = id => document.getElementById(id);
 const root = document.documentElement;
@@ -165,12 +169,6 @@ const norm = s => (s || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u03
 const el = (t, props = {}, kids = []) => { const e = Object.assign(document.createElement(t), props); kids.forEach(k => e.append(k)); return e; };
 const thumb = (id, q) => "https://i.ytimg.com/vi/" + id + "/" + q + ".jpg";
 
-function kind(a) {
-  const t = norm(a.title + " " + (a.category || "")), u = a.link.toLowerCase();
-  if (/\/(tests?|critiques?|reviews?)\//.test(u) || /\b(test|tests|critique|review|verdict|notre avis)\b/.test(t)) return "Tests";
-  if (/date de sortie|sortie|sort le|sortira|disponible|disponibilite|lancement|debarque|arrive le|calendrier|release/.test(t)) return "Sorties";
-  return "Actu";
-}
 
 function ago(iso) {
   const t = new Date(iso), d = (Date.now() - t) / 36e5;
@@ -202,58 +200,29 @@ function renderChips() {
   $("chips").replaceChildren(chip("Tout", ALL.length, !type && !site, () => { type = site = null; }), ...t, el("span", { className: "sep" }), ...s);
 }
 
-const CYC = 7, STEP = 4;
 const home = () => !type && !site && !$("q").value.trim();
-// un article par source à tour de rôle : plus de diversité
+// une vidéo par chaîne à tour de rôle : plus de diversité
 const mix = l => { const g = {}; l.forEach(a => (g[a.source] = g[a.source] || []).push(a)); const q = Object.values(g), o = []; for (let i = 0; q.some(x => i < x.length); i++) q.forEach(x => x[i] && o.push(x[i])); return o; };
 const anim = (c, d) => { if (d >= 0) { c.classList.add("pop"); c.style.setProperty("--d", Math.min(d, 6)); } return c; };
-const meta = a => el("div", { className: "meta" }, [el("span", { className: "src", textContent: a.source }), el("time", { textContent: ago(a.date), dateTime: a.date })]);
+const nf = new Intl.NumberFormat("fr-FR", { notation: "compact", maximumFractionDigits: 1 });
 
-function pic(a, i, v) {
+function pic(a, i) {
   const m = el("img", { alt: "", decoding: "async", loading: i < 4 ? "eager" : "lazy", referrerPolicy: "no-referrer" });
   if (i < 2) m.fetchPriority = "high";
-  let retry = v;
+  let retry = true;
   m.onload = () => m.classList.add("ok");
-  m.onerror = () => { if (retry) { retry = false; m.src = thumb(a.video, "hqdefault"); } else m.remove(); };
-  m.src = a.image;
+  m.onerror = () => { if (retry) { retry = false; m.src = thumb(a.video, "mqdefault"); } else m.remove(); };
+  m.src = a.image || thumb(a.video, "hq720");
   return m;
 }
-const link = (cls, a, kids, d) => anim(el("a", { className: cls, href: a.link, target: "_blank", rel: "noopener" }, kids), d);
-const im = (cls, a, i) => el("span", { className: cls }, a.image ? [pic(a, i)] : []);
-const ct = (a, i, d) => link("ct", a, [im("th", a, i), el("span", { className: "tx" }, [el("h2", { textContent: a.title }), meta(a)])], d);
-const hc = (a, i, d) => link("hc", a, [im("pic", a, i), el("h2", { textContent: a.title }), meta(a)], d);
-const tc = (a, i, d) => link("tc", a, [im("pic", a, i), el("div", { className: "tp" }, [el("h2", { textContent: a.title }), meta(a)])], d);
+const sec = label => el("div", { className: "sec" }, [el("h3", { textContent: label })]);
 
-// grande carte pleine largeur (et lecteur vidéo)
-function card(a, i, d = -1, sz = "") {
-  const v = !!a.video, c = anim(el(v ? "div" : "a", { className: "card " + sz + (v ? " vid" : "") }), d);
-  if (!v) { c.href = a.link; c.target = "_blank"; c.rel = "noopener"; }
-  if (a.image) c.append(pic(a, i, v));
-  c.append(el("div", { className: "in" }, [el("h2", { textContent: a.title }),
-    el("div", { className: "meta" }, [el("span", { className: "src", textContent: (v ? "▶ " : "") + a.source }), el("time", { textContent: ago(a.date), dateTime: a.date })])]));
-  if (v) {
-    c.append(el("span", { className: "play", textContent: "▶" }));
-    c.tabIndex = 0; c.setAttribute("role", "button"); c.setAttribute("aria-label", "Lire la vidéo : " + a.title);
-    const go = () => { c.classList.add("playing"); c.replaceChildren(el("iframe", { title: a.title, allowFullscreen: true,
-      allow: "autoplay; encrypted-media; picture-in-picture", src: "https://www.youtube-nocookie.com/embed/" + a.video + "?autoplay=1&rel=0" })); };
-    c.onclick = go;
-    c.onkeydown = e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); go(); } };
-  }
-  return c;
-}
-
-function sec(label, tp) {
-  const h = el("div", { className: "sec" }, [el("h3", { textContent: label })]);
-  if (tp) { const b = el("button", { className: "all", type: "button", textContent: "Voir tout" }); b.onclick = () => { type = tp; shown = PAGE; renderChips(); render(); scrollTo({ top: 0 }); }; h.append(b); }
-  return h;
-}
-const six = (items, base, an) => el("div", { className: "six" }, items.map((a, j) => ct(a, base + j, an ? j : -1)));
-const grid3 = (title, tp, items) => an => [sec(title, tp), el("div", { className: "tests" }, items.map((a, j) => tc(a, j + 8, an ? j : -1)))];
-
+// carte vidéo : un clic sur l'image lance la lecture dans la carte
 function vc(a, i, d) {
-  const p = el("span", { className: "pic vpic" }, [...(a.image ? [pic(a, i, true)] : []), el("span", { className: "play", textContent: "▶" }), el("span", { className: "tag", textContent: "Dernière vidéo" })]);
-  const c = anim(el("div", { className: "hc hv" }, [p, el("h2", { textContent: a.title }),
-    el("div", { className: "meta" }, [el("span", { className: "src", textContent: "▶ " + a.source }), el("time", { textContent: ago(a.date), dateTime: a.date })])]), d);
+  const fresh = Date.now() - new Date(a.date) < 48 * 36e5;
+  const p = el("span", { className: "pic vpic" }, [pic(a, i), el("span", { className: "play", textContent: "▶" }), ...(fresh ? [el("span", { className: "tag", textContent: "Nouveau" })] : [])]);
+  const meta = el("div", { className: "meta" }, [el("span", { className: "src", textContent: a.source }), el("time", { textContent: ago(a.date), dateTime: a.date }), ...(a.views ? [el("span", { className: "vw", textContent: nf.format(a.views) + " vues" })] : [])]);
+  const c = anim(el("div", { className: "hc hv" }, [p, el("h2", {}, [el("a", { href: a.link, target: "_blank", rel: "noopener", textContent: a.title })]), meta]), d);
   p.tabIndex = 0; p.setAttribute("role", "button"); p.setAttribute("aria-label", "Lire la vidéo : " + a.title);
   const go = () => { p.classList.add("playing"); p.replaceChildren(el("iframe", { title: a.title, allowFullscreen: true,
     allow: "autoplay; encrypted-media; picture-in-picture", src: "https://www.youtube-nocookie.com/embed/" + a.video + "?autoplay=1&rel=0" })); };
@@ -261,60 +230,29 @@ function vc(a, i, d) {
   p.onkeydown = e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); go(); } };
   return c;
 }
-// ouverture : 4 cartes de même taille (3 articles + la vidéo, ou 4 articles)
-function heroNode(H, an) {
-  const d = j => an ? j : -1, cells = H.hs.map((a, j) => hc(a, j, d(j)));
-  if (H.vid) cells.push(vc(H.vid, cells.length, d(cells.length)));
-  return el("div", { className: "hero" }, cells);
-}
 
-// plan : héros, puis [1 article pleine largeur + 6 cartouches] en boucle, avec blocs Tests / Sorties intercalés
-function plan(list, h) {
-  const used = new Set(), B = [];
-  const grab = t => { const l = mix(list.filter(a => a.type === t && a.image && !used.has(a))).slice(0, 6); if (l.length < 3) return []; l.forEach(a => used.add(a)); return l; };
-  let hero = null, tests = [], sorties = [];
-  if (h) {
-    const vid = list.find(a => a.video), hs = mix(list.filter(a => a.image && !a.video)).slice(0, vid ? 3 : 4);
-    hs.forEach(a => used.add(a)); if (vid) used.add(vid);
-    if (hs.length || vid) hero = { hs, vid };
-    tests = grab("Tests"); sorties = grab("Sorties");
-  }
-  const rest = list.filter(a => !used.has(a)), feed = h ? mix(rest) : rest;
-  for (let k = 0; k * CYC < feed.length; k++) {
-    const ch = feed.slice(k * CYC, (k + 1) * CYC), base = k * CYC + (h ? 6 : 0);
-    B.push(an => [...(k === 0 && h ? [sec("L’actualité toute chaude")] : []), card(ch[0], base, an ? 0 : -1, "ban"), ...(ch.length > 1 ? [six(ch.slice(1), base + 1, an)] : [])]);
-    if (k === 1 && tests.length) { B.push(grid3("Tous les tests", "Tests", tests)); tests = []; }
-    if (k === 3 && sorties.length) { B.push(grid3("Sorties & dates", "Sorties", sorties)); sorties = []; }
-  }
-  if (tests.length) B.push(grid3("Tous les tests", "Tests", tests));
-  if (sorties.length) B.push(grid3("Sorties & dates", "Sorties", sorties));
-  return { hero, B };
-}
-
-let B = [], rendered = 0;
+let rendered = 0;
 function render(mode) {
   const list = filtered(), g = $("grid");
-  if (!list.length) { B = []; rendered = 0; $("more").hidden = true; g.replaceChildren(el("p", { className: "msg", textContent: ALL.length ? "Rien trouvé. Essaie un mot plus court ou change de rubrique." : "Rien à piocher pour l'instant ! La prochaine mise à jour remplira la page." })); return; }
-  if (mode === "more") { B.slice(rendered, rendered + STEP).forEach(f => g.append(...f(true))); rendered = Math.min(B.length, rendered + STEP); }
-  else { const p = plan(list, home()), first = mode === "first"; B = p.B; g.replaceChildren(...(p.hero ? [heroNode(p.hero, first)] : []), ...B.slice(0, STEP).flatMap(f => f(first))); rendered = Math.min(B.length, STEP); }
-  $("more").hidden = rendered >= B.length;
+  if (!list.length) { rendered = 0; $("more").hidden = true; g.replaceChildren(el("p", { className: "msg", textContent: ALL.length ? "Rien trouvé. Essaie un mot plus court ou change de chaîne." : "Rien à regarder pour l'instant ! La prochaine mise à jour remplira la page." })); return; }
+  const h = home(), feat = h ? mix(list).slice(0, 2) : [], rest = list.filter(a => !feat.includes(a)), first = mode === "first";
+  const cards = (l, base, an) => l.map((a, j) => vc(a, base + j, an ? j : -1)), box = c => el("div", { className: "hero" }, c);
+  const n = Math.min(shown, rest.length);
+  if (mode === "more" && rendered && rendered < n) g.lastElementChild.append(...cards(rest.slice(rendered, n), rendered + 2, true));
+  else g.replaceChildren(...(h ? [sec("À la une"), box(cards(feat, 0, first)), sec("Dernières vidéos")] : []), box(cards(rest.slice(0, n), 2, first)));
+  rendered = n; $("more").hidden = rest.length <= n;
 }
 
 async function init() {
-  let V = null;
   try {
     const d = await (await fetch("data.json", { cache: "no-store" })).json();
     d.sources.forEach(s => SOURCES[s.name] = s);
-    ALL = d.articles; V = d.video || d.hebdo || null;
-    $("foot").replaceChildren(el("p", { className: "fine", textContent: "Dernier tour de mise à jour : " + new Date(d.updated).toLocaleString("fr-FR", { dateStyle: "long", timeStyle: "short" }) + ". Chaque carte renvoie vers l'article d'origine : les droits restent à leurs auteurs." }));
+    ALL = d.articles;
+    $("foot").replaceChildren(el("p", { className: "fine", textContent: "Dernier tour de mise à jour : " + new Date(d.updated).toLocaleString("fr-FR", { dateStyle: "long", timeStyle: "short" }) + ". Les vidéos sont lues depuis YouTube : les vues et les droits restent aux créateurs." }));
   } catch (e) { ALL = []; }
-  if (V) {
-    SOURCES.Origami = { name: "Origami" };
-    ALL.unshift({ title: V.title, link: V.link, date: V.date, source: "Origami", video: V.id, image: thumb(V.id, "maxresdefault"), category: "Vidéo" });
-  }
-  ALL.forEach(a => a.type = kind(a));
+  ALL.forEach(a => a.type = a.category || "Vidéo");
   ALL.sort((a, b) => new Date(b.date) - new Date(a.date)); // du plus récent au plus ancien
-  $("n").textContent = ALL.length; $("nl").textContent = new Intl.PluralRules("fr").select(ALL.length) === "one" ? "article frais" : "articles frais"; $("sticker").hidden = !ALL.length;
+  $("n").textContent = ALL.length; $("nl").textContent = new Intl.PluralRules("fr").select(ALL.length) === "one" ? "vidéo à voir" : "vidéos à voir"; $("sticker").hidden = !ALL.length;
   renderChips(); render("first");
 }
 
