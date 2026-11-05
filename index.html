@@ -22,6 +22,7 @@ body{background:var(--bg);color:var(--ink);font:400 16px/1.5 var(--f);transition
 .bgfx.on{opacity:1}
 .bgfx::after{content:"";position:absolute;inset:0;background:var(--veil)}
 .wrap{max-width:1400px;margin:0 auto;padding:0 max(var(--gut),env(safe-area-inset-right)) 0 max(var(--gut),env(safe-area-inset-left))}
+.top{background:var(--bg);transition:background-color .25s}
 header{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:30px 0 16px}
 .tools{display:flex;align-items:center;gap:26px}
 h1{display:inline-block;font:400 clamp(24px,6.2vw,84px)/.95 var(--f);letter-spacing:-.015em;color:var(--o)}
@@ -107,7 +108,7 @@ img.ok{opacity:1!important}
 .all:focus-visible{outline:3px solid var(--o);outline-offset:3px}
 .fine{max-width:65ch}
 .msg{padding:44px 8px;font-size:20px;line-height:1.4;text-align:center}
-footer{padding:22px 0 48px;font:400 14px var(--c);border-top:3px solid var(--line)}
+footer{background:var(--bg);padding:22px 0 48px;font:400 14px var(--c);border-top:3px solid var(--line)}
 @media(min-width:1700px){.wrap{max-width:1560px}}
 @media(max-width:900px){.tests{grid-template-columns:1fr 1fr}}
 @media(max-width:700px){.six{grid-template-columns:1fr}}
@@ -118,7 +119,7 @@ footer{padding:22px 0 48px;font:400 14px var(--c);border-top:3px solid var(--lin
 </head>
 <body>
 <div class="bgfx" id="bgfx" aria-hidden="true"></div>
-<div class="wrap">
+<div class="top"><div class="wrap">
   <header>
     <h1>Bonus Stage14h</h1>
     <div class="tools">
@@ -126,12 +127,12 @@ footer{padding:22px 0 48px;font:400 14px var(--c);border-top:3px solid var(--lin
       <button class="switch" id="theme" type="button" role="switch" aria-checked="false" aria-label="Mode sombre"><span class="knob" id="knob"></span></button>
     </div>
   </header>
-</div>
+</div></div>
 <div class="bar"><div class="wrap">
   <div class="search">
-    <input id="q" type="search" placeholder="Cherche un jeu, une chaîne, un sujet…" aria-label="Rechercher un article" autocomplete="off" enterkeyhint="search">
+    <input id="q" type="search" placeholder="Cherche un jeu, une chaîne, un sujet…" aria-label="Rechercher une vidéo" autocomplete="off" enterkeyhint="search">
   </div>
-  <div class="chips" id="chips" role="group" aria-label="Filtrer par rubrique ou par site"></div>
+  <div class="chips" id="chips" role="group" aria-label="Filtrer par rubrique ou par chaîne"></div>
 </div></div>
 <main class="wrap">
   <div class="grid" id="grid"><p class="msg">Chargement des articles…</p></div>
