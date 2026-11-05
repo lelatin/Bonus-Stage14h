@@ -1,265 +1,218 @@
 {
- "updated": "2026-11-05T19:52:53.576333+00:00",
+ "updated": "2026-11-05T22:51:20+00:00",
  "sources": [
   {
-   "name": "ActuGaming",
-   "color": "#D9480F"
+   "name": "Loudic",
+   "category": "Découverte & avis",
+   "handle": "Loudic",
+   "channel_id": "UCHl2H4ZU36ElTCf3hV4YnJg",
+   "url": "https://www.youtube.com/@Loudic"
   },
   {
-   "name": "Xboxygen",
-   "color": "#107C10"
+   "name": "Playmoo",
+   "category": "Découverte & avis",
+   "handle": "Playmoo",
+   "channel_id": "UCymjJG9eSFYtnLe1QE4mORw",
+   "url": "https://www.youtube.com/@Playmoo"
   },
   {
-   "name": "Gamekult",
-   "color": "#C8102E"
+   "name": "At0mium",
+   "category": "Découverte & avis",
+   "handle": "At0mium_VOD",
+   "channel_id": "UCRhflCjjz84W6uiHQQK_flw",
+   "url": "https://www.youtube.com/@At0mium_VOD"
+  },
+  {
+   "name": "Maximuuus",
+   "category": "Découverte & avis",
+   "handle": "Maximuuus",
+   "channel_id": "UCelJ4ks9xmLfd8a8Yz_trrA",
+   "url": "https://www.youtube.com/@Maximuuus"
+  },
+  {
+   "name": "Press Start",
+   "category": "Découverte & avis",
+   "handle": "PressStart-JV",
+   "channel_id": "UCKqs0zitJzxu0LYfxlrLWBQ",
+   "url": "https://www.youtube.com/@PressStart-JV"
+  },
+  {
+   "name": "TheGreatReview",
+   "category": "Essais vidéo",
+   "handle": "TheGreatReview",
+   "channel_id": "UC2ruguOcwnVR2_4DtiGnmLg",
+   "url": "https://www.youtube.com/@TheGreatReview"
+  },
+  {
+   "name": "Esquive la Boule de Feu",
+   "category": "Essais vidéo",
+   "handle": "EsquivelaBouledeFeu",
+   "channel_id": "UCYPwq5uafGQrr4PW8GQRxew",
+   "url": "https://www.youtube.com/@EsquivelaBouledeFeu"
+  },
+  {
+   "name": "ALT 236",
+   "category": "Essais vidéo",
+   "handle": "ALT236",
+   "channel_id": "UC1KxoDAzbWOWOhw5GbsE-Bw",
+   "url": "https://www.youtube.com/@ALT236"
+  },
+  {
+   "name": "Nostalgeek",
+   "category": "Essais vidéo",
+   "handle": "NostalGeekYT",
+   "channel_id": "UCba2buhP_yzHmHuiqwA00ug",
+   "url": "https://www.youtube.com/@NostalGeekYT"
+  },
+  {
+   "name": "Edward",
+   "category": "Essais vidéo",
+   "handle": "EdwardRetroDecouverte",
+   "channel_id": "UCDsdjYgVORwLficCmpZi8eg",
+   "url": "https://www.youtube.com/@EdwardRetroDecouverte"
+  },
+  {
+   "name": "Ego",
+   "category": "Essais vidéo",
+   "handle": "ego_one",
+   "channel_id": "UCxH16958KSxT4Z9yL_9JYtw",
+   "url": "https://www.youtube.com/@ego_one"
+  },
+  {
+   "name": "Toujours Thomas",
+   "category": "Essais vidéo",
+   "handle": "Toujours_Thomas",
+   "channel_id": "UCr9-KlHHxzCKULBV73-eq8w",
+   "url": "https://www.youtube.com/@Toujours_Thomas"
+  },
+  {
+   "name": "Tetryl",
+   "category": "Essais vidéo",
+   "handle": "Tetryl",
+   "channel_id": "UC2ZTJja-fGAeIiVSjjS21NA",
+   "url": "https://www.youtube.com/@Tetryl"
   }
  ],
- "video": {
-  "id": "jNRqq4aRLXw",
-  "title": "Vendre Arkane à Ubisoft ?",
-  "date": "2026-11-04T14:36:30+00:00",
-  "link": "https://www.youtube.com/watch?v=jNRqq4aRLXw"
- },
  "articles": [
   {
-   "title": "Xbox : L’application sur PC va subir des améliorations, les membres Xbox Insider y ont accès dès maintenant",
-   "link": "https://www.actugaming.net/xbox-application-pc-subir-ameliorations-membres-xbox-insider-acces-des-maintenant-832596/",
-   "image": "https://static.actugaming.net/media/2026/11/xbox-application-pc-interface-2026.png",
-   "date": "2026-11-05T18:33:09+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
+   "title": "🔥15 RPG TACTIQUE incroyable à faire ABSOLUMENT en 2026",
+   "link": "https://www.youtube.com/watch?v=k5dmVZ-TmbY",
+   "date": "2026-10-31T09:00:31+00:00",
+   "source": "Maximuuus",
+   "category": "Découverte & avis",
+   "video": "k5dmVZ-TmbY",
+   "image": "https://i.ytimg.com/vi/k5dmVZ-TmbY/hq720.jpg",
+   "views": 57118
   },
   {
-   "title": "Wing Commander, Theme Hospital, Ultima : EA balance 25 titres cultes sur Steam, à petits prix",
-   "link": "https://www.gamekult.com/actualite/wing-commander-theme-hospital-ultima-ea-balance-25-titres-cultes-sur-steam-a-petits-prix-3050872768.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872768/wing-commander-theme-hospital-ultima-ea-balance-25-titres-cultes-sur-steam-42bbbfcc__930_300__0-0-1920-621.jpg",
-   "date": "2026-11-05T18:30:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
+   "title": "ENCORE 12 RPG & jeux d’aventure en 2026 (+3 autres qui vont bouffer votre temps 😱)",
+   "link": "https://www.youtube.com/watch?v=XqfbY-uXoKw",
+   "date": "2026-10-17T08:00:19+00:00",
+   "source": "Maximuuus",
+   "category": "Découverte & avis",
+   "video": "XqfbY-uXoKw",
+   "image": "https://i.ytimg.com/vi/XqfbY-uXoKw/hq720.jpg",
+   "views": 42216
   },
   {
-   "title": "Ultime bafouille - GTA 6 : de Miami Vice à Spring Breakers, comment le cinéma a façonné Vice City",
-   "link": "https://www.gamekult.com/actualite/gta-6-de-miami-vice-a-spring-breakers-comment-le-cinema-a-faconne-vice-city-3050872419.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872419/gta-6-de-miami-vice-a-spring-breakers-comment-le-cinema-a-faconne-vice-city-7b5f6647__930_300__0-84-1920-705.jpg",
-   "date": "2026-11-05T18:01:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
+   "title": "Test Dark Arisen : Le DLC qui manquait à Dragon's Dogma 2 !?",
+   "link": "https://www.youtube.com/watch?v=UcRA35bEsxg",
+   "date": "2026-10-10T08:00:02+00:00",
+   "source": "Maximuuus",
+   "category": "Découverte & avis",
+   "video": "UcRA35bEsxg",
+   "image": "https://i.ytimg.com/vi/UcRA35bEsxg/hq720.jpg",
+   "views": 30473
   },
   {
-   "title": "Xbox accélère enfin son application PC : jusqu’à 60 % plus rapide et plusieurs grosses nouveautés",
-   "link": "https://www.xboxygen.com/News/373230-xbox-accelere-enfin-son-application-pc-jusqua-60-plus-rapide-et-plusieurs-grosses-nouveautes",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/xbox-nouvelle-interface-pc-2.jpg",
-   "date": "2026-11-05T17:57:52+00:00",
-   "source": "Xboxygen",
-   "category": "News"
+   "title": "The Witcher 3 : 25 ASTUCES ET MÉCANIQUES que même les VÉTÉRANS peuvent avoir ratées !",
+   "link": "https://www.youtube.com/watch?v=aosCtliuVIM",
+   "date": "2026-10-03T08:00:19+00:00",
+   "source": "Maximuuus",
+   "category": "Découverte & avis",
+   "video": "aosCtliuVIM",
+   "image": "https://i.ytimg.com/vi/aosCtliuVIM/hq720.jpg",
+   "views": 67620
   },
   {
-   "title": "Jouez gratuitement à la première mission de 007 First Light sur PC et Xbox Series, et un peu moins gratuitement sur PS5",
-   "link": "https://www.actugaming.net/jouez-gratuitement-a-la-premiere-mission-de-007-first-light-sur-pc-et-xbox-series-et-un-peu-moins-gratuitement-sur-ps5-832595/",
-   "image": "https://static.actugaming.net/media/2026/05/007-first-light-1.jpg",
-   "date": "2026-11-05T17:45:07+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
+   "title": "Test The Witcher 3 Remastered : De vraies RÉVOLUTIONS et de petites déceptions !",
+   "link": "https://www.youtube.com/watch?v=GIHr_dFrgyo",
+   "date": "2026-09-28T10:00:28+00:00",
+   "source": "Maximuuus",
+   "category": "Découverte & avis",
+   "video": "GIHr_dFrgyo",
+   "image": "https://i.ytimg.com/vi/GIHr_dFrgyo/hq720.jpg",
+   "views": 102031
   },
   {
-   "title": "Assassin’s Creed Valhalla vous invite à recommencer votre partie avec son mode New Game+, car le jeu n’était déjà pas assez long comme ça",
-   "link": "https://www.actugaming.net/assassins-creed-valhalla-vous-invite-a-recommencer-votre-partie-avec-son-mode-new-game-car-le-jeu-netait-deja-pas-assez-long-comme-ca-832590/",
-   "image": "https://static.actugaming.net/media/2026/11/assassins-creed-valhalla.jpg",
-   "date": "2026-11-05T17:16:28+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
+   "title": "The Witcher 3 Remastered : le RÉCAP' ULTIME des nouveautés !",
+   "link": "https://www.youtube.com/watch?v=Tet7C7SPlHk",
+   "date": "2026-09-26T08:00:11+00:00",
+   "source": "Maximuuus",
+   "category": "Découverte & avis",
+   "video": "Tet7C7SPlHk",
+   "image": "https://i.ytimg.com/vi/Tet7C7SPlHk/hq720.jpg",
+   "views": 77127
   },
   {
-   "title": "Agenda -  GeForce NOW : voici la liste des jeux de novembre menée par World of Warcraft : Forever",
-   "link": "https://www.gamekult.com/actualite/geforce-now-voici-la-liste-des-jeux-de-novembre-menee-par-world-of-warcraft-forever-3050872814.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872814/geforce-now-voici-la-liste-des-jeux-de-novembre-menee-par-world-of-warcraft-forever-a9a65e51__930_300__0-458-1920-1080.jpg",
-   "date": "2026-11-05T17:15:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
+   "title": "Baldur’s Gate 3 : un NOUVEAU CHAPITRE grâce à cette extension communautaire  !",
+   "link": "https://www.youtube.com/watch?v=5grUu4XRb8Y",
+   "date": "2026-09-24T14:00:06+00:00",
+   "source": "Maximuuus",
+   "category": "Découverte & avis",
+   "video": "5grUu4XRb8Y",
+   "image": "https://i.ytimg.com/vi/5grUu4XRb8Y/hq720.jpg",
+   "views": 79500
   },
   {
-   "title": "007 First Light gratuit : IO Interactive offre le début de l’aventure de James Bond",
-   "link": "https://www.xboxygen.com/News/007-first-light-gratuit-io-interactive-offre-le-debut-de-laventure-de-james-bond",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/10/007-First-Light.jpg",
-   "date": "2026-11-05T16:42:51+00:00",
-   "source": "Xboxygen",
-   "category": "News"
+   "title": "EXODUS : un Mass Effect surboosté | Récap’ des previews",
+   "link": "https://www.youtube.com/watch?v=F1Tri2AR59E",
+   "date": "2026-09-19T08:00:14+00:00",
+   "source": "Maximuuus",
+   "category": "Découverte & avis",
+   "video": "F1Tri2AR59E",
+   "image": "https://i.ytimg.com/vi/F1Tri2AR59E/hq720.jpg",
+   "views": 23349
   },
   {
-   "title": "« Dans 20 ans, c'est fini » : l'éditeur New Blood (DUSK) prévoit déjà la retraite",
-   "link": "https://www.gamekult.com/actualite/dans-20-ans-c-est-fini-l-editeur-new-blood-dusk-prevoit-deja-la-retraite-3050872813.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872813/dans-20-ans-c-est-fini-l-editeur-new-blood-dusk-prevoit-deja-la-retraite-73405176__930_300__0-90-1920-710.jpg",
-   "date": "2026-11-05T16:32:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
+   "title": "Legend of the Roundtable ne ressemble à aucun autre cRPG",
+   "link": "https://www.youtube.com/watch?v=YAarVMgxHU4",
+   "date": "2026-09-15T14:00:27+00:00",
+   "source": "Maximuuus",
+   "category": "Découverte & avis",
+   "video": "YAarVMgxHU4",
+   "image": "https://i.ytimg.com/vi/YAarVMgxHU4/hq720.jpg",
+   "views": 27212
   },
   {
-   "title": "Stardew Valley 1.7 pourrait être la plus grande mise à jour jamais réalisée, avec une sortie envisagée en 2027",
-   "link": "https://www.xboxygen.com/News/373221-stardew-valley-1-7-pourrait-etre-la-plus-grande-mise-a-jour-jamais-realisee-avec-une-sortie-envisagee-en-2027",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2024/11/stardew_valley-2.jpg",
-   "date": "2026-11-05T16:15:25+00:00",
-   "source": "Xboxygen",
-   "category": "News"
+   "title": "Encore 30 ANNONCES RPG : Le calendrier 2026-2027 va déja EXPLOSER 🔥",
+   "link": "https://www.youtube.com/watch?v=hbRjix0cQwQ",
+   "date": "2026-09-05T08:00:14+00:00",
+   "source": "Maximuuus",
+   "category": "Découverte & avis",
+   "video": "hbRjix0cQwQ",
+   "image": "https://i.ytimg.com/vi/hbRjix0cQwQ/hq720.jpg",
+   "views": 46996
   },
   {
-   "title": "Hideo Kojima s’exprime à nouveau sur l’IA générative et « ne veut pas d’un avenir où l’aspect créatif humain disparaîtrait »",
-   "link": "https://www.actugaming.net/hideo-kojima-exprime-ia-generative-veut-pas-avenir-ou-aspect-creatif-humain-disparaitrait-832521/",
-   "image": "https://static.actugaming.net/media/2022/06/hideo-kojima-xbox.jpg",
-   "date": "2026-11-05T16:13:19+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
+   "title": "Test The Blood of Dawnwalker : Un EXCELLENT RPG, mais pas celui que j'attendais !",
+   "link": "https://www.youtube.com/watch?v=PkeOqAij6k8",
+   "date": "2026-08-31T15:00:30+00:00",
+   "source": "Maximuuus",
+   "category": "Découverte & avis",
+   "video": "PkeOqAij6k8",
+   "image": "https://i.ytimg.com/vi/PkeOqAij6k8/hq720.jpg",
+   "views": 153014
   },
   {
-   "title": "Barry Sloane, l’acteur derrière le personnage du capitaine Price, pense être le plus « qualifié » pour jouer dans le futur film Call of Duty",
-   "link": "https://www.actugaming.net/barry-sloane-capitaine-price-film-call-of-duty-832525/",
-   "image": "https://static.actugaming.net/media/2026/05/Call-of-Duty-Modern-Warfare-4_2026_05-28-26_009.jpg.jpeg",
-   "date": "2026-11-05T15:51:11+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
-  },
-  {
-   "title": "GTA 6 : À quelques jours du lancement, Rockstar partage de nombreuses images inédites du jeu",
-   "link": "https://www.actugaming.net/gta-6-a-quelques-jours-du-lancement-rockstar-partage-de-nombreuses-images-inedites-du-jeu-832537/",
-   "image": "https://static.actugaming.net/media/2026/11/GTA-6-3.jpeg",
-   "date": "2026-11-05T15:47:37+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
-  },
-  {
-   "title": "GTA 6 : 39 nouvelles images magnifiques pour patienter jusqu’au lancement",
-   "link": "https://www.xboxygen.com/News/373175-gta-6-39-nouvelles-images-magnifiques-pour-patienter-jusquau-lancement",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/GTA-6-Jason-musculation.jpg",
-   "date": "2026-11-05T15:24:09+00:00",
-   "source": "Xboxygen",
-   "category": "News"
-  },
-  {
-   "title": "Square Enix devrait investir davantage dans de nouveaux jeux originaux après avoir terminé Final Fantasy VII Revelation",
-   "link": "https://www.actugaming.net/square-enix-devrait-investir-davantage-dans-de-nouveaux-jeux-originaux-apres-avoir-termine-final-fantasy-vii-revelation-832534/",
-   "image": "https://static.actugaming.net/media/2026/09/final-fantasy-vii-revelation-state-of-play-screenshot-6.jpg",
-   "date": "2026-11-05T15:18:02+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
-  },
-  {
-   "title": "Anno 117 : Pax Romana part se dorer la pilule en Égypte",
-   "link": "https://www.gamekult.com/actualite/anno-117-pax-romana-part-se-dorer-la-pilule-en-egypte-3050872810.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872810/76430e0e__930_300__0-741-3840-1981.jpeg",
-   "date": "2026-11-05T15:03:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
-  },
-  {
-   "title": "Assassin’s Creed Valhalla reçoit une énorme mise à jour 6 ans après son lancement : le New Game+ est disponible",
-   "link": "https://www.xboxygen.com/News/373167-assassins-creed-valhalla-recoit-une-enorme-mise-a-jour-6-ans-apres-son-lancement-le-new-game-est-disponible",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/Assassins-Creed-Valhalla.jpg",
-   "date": "2026-11-05T14:58:14+00:00",
-   "source": "Xboxygen",
-   "category": "News"
-  },
-  {
-   "title": "Nintendo écarte l’idée d’une nouvelle hausse de prix pour la Switch 2 et dit avoir sécurisé les composants nécessaires pour son stock",
-   "link": "https://www.actugaming.net/nintendo-ecarte-lidee-dune-nouvelle-hausse-de-prix-pour-la-switch-2-et-dit-avoir-securise-les-composants-necessaires-pour-son-stock-832529/",
-   "image": "https://static.actugaming.net/media/2025/04/nintendo-switch-2.jpg",
-   "date": "2026-11-05T14:46:44+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
-  },
-  {
-   "title": "Les fans de BioWare ont une idée pour sauver le studio après sa fermeture par EA",
-   "link": "https://www.xboxygen.com/News/373159-les-fans-de-bioware-ont-une-idee-pour-sauver-le-studio-apres-sa-fermeture-par-ea",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2025/01/licenciements-bioware-mass-effect.jpg",
-   "date": "2026-11-05T14:26:26+00:00",
-   "source": "Xboxygen",
-   "category": "News"
-  },
-  {
-   "title": "Avant la sortie de GTA 6, les résultats de PlayStation battent encore plusieurs records",
-   "link": "https://www.gamekult.com/actualite/avant-la-sortie-de-gta-6-les-resultats-de-playstation-battent-encore-plusieurs-records-3050872799.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872799/avant-la-sortie-de-gta-6-les-resultats-de-playstation-battent-encore-plusieurs-records-deee58af__930_300__0-93-1920-715.jpg",
-   "date": "2026-11-05T14:15:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
-  },
-  {
-   "title": "GTA 6 : Le PDG de Take-Two fait référence au lancement raté de Cyberpunk 2077 pour justifier la nécessité des reports",
-   "link": "https://www.actugaming.net/gta-6-le-pdg-de-take-two-fait-reference-au-lancement-rate-de-cyberpunk-2077-pour-justifier-la-necessite-des-reports-832524/",
-   "image": "https://static.actugaming.net/media/2026/08/gta-6-lucia-camino-1.jpg",
-   "date": "2026-11-05T14:10:50+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
-  },
-  {
-   "title": "Jouer sur TV sans manette, c'est désormais possible via l'application Xbox Cloud Gaming",
-   "link": "https://www.gamekult.com/actualite/jouer-sur-tv-sans-manette-c-est-desormais-possible-via-l-application-xbox-cloud-gaming-3050872790.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872790/jouer-sur-tv-sans-manette-c-est-desormais-possible-via-l-application-xbox-cloud-gaming-20f32967__930_300__0-203-1920-824.jpg",
-   "date": "2026-11-05T13:47:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
-  },
-  {
-   "title": "« Quelque chose d’incroyable » : Xbox tease une nouveauté que les membres Insiders vont pouvoir essayer",
-   "link": "https://www.xboxygen.com/News/373149-quelque-chose-dincroyable-xbox-tease-une-nouveaute-que-les-membres-insiders-vont-pouvoir-essayer",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/Xbox-Insiders.jpg",
-   "date": "2026-11-05T13:18:20+00:00",
-   "source": "Xboxygen",
-   "category": "News"
-  },
-  {
-   "title": "World of Horror gagne 20 % de contenu en plus avec l'imposante mise à jour gratuite As Below So Above",
-   "link": "https://www.gamekult.com/actualite/world-of-horror-gagne-20-de-contenu-en-plus-avec-l-imposante-mise-a-jour-gratuite-as-below-so-above-3050872787.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872787/world-of-horror-gagne-20-de-contenu-en-plus-avec-l-imposante-mise-a-jour-gratuite-as-below-so-above-6247637c__930_300__0-258-2560-1083.jpg",
-   "date": "2026-11-05T12:29:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
-  },
-  {
-   "title": "Game and watch - Angry Birds 3 : les piafs vont sauver le monde avec Sonic",
-   "link": "https://www.gamekult.com/actualite/angry-birds-3-les-piafs-vont-sauver-le-monde-avec-sonic-3050872791.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872791/angry-birds-3-les-piafs-vont-sauver-le-monde-avec-sonic-3ab6ae27__930_300__0-105-2056-769.jpg",
-   "date": "2026-11-05T11:46:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
-  },
-  {
-   "title": "Pour son jeu entièrement vibecodé, Henry Cavill fait le choix de la moustache",
-   "link": "https://www.gamekult.com/actualite/pour-son-jeu-entierement-vibecode-henry-cavill-fait-le-choix-de-la-moustache-3050872794.html",
-   "image": "https://cdn.gamekult.com/optim/images/news/30/3050872794/pour-son-jeu-entierement-vibecode-henry-cavill-fait-le-choix-de-la-moustache-b0189316__930_300__0-125-1184-507.png",
-   "date": "2026-11-05T11:04:00+00:00",
-   "source": "Gamekult",
-   "category": "Actu"
-  },
-  {
-   "title": "100 millions de PS5 vendues : Sony approche très vite d’un cap historique et affiche des résultats en hausse",
-   "link": "https://www.xboxygen.com/News/100-millions-de-ps5-vendues-sony-approche-tres-vite-dun-cap-historique-et-affiche-des-resultats-en-hausse",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2025/06/playstation-6-ps6-logo.jpg",
-   "date": "2026-11-05T10:59:55+00:00",
-   "source": "Xboxygen",
-   "category": "News"
-  },
-  {
-   "title": "Le développement de la PS6 « progresse comme prévu » chez Sony, qui prépare le terrain pour la nouvelle génération",
-   "link": "https://www.actugaming.net/le-developpement-de-la-ps6-progresse-comme-prevu-chez-sony-qui-prepare-le-terrain-pour-la-nouvelle-generation-832518/",
-   "image": "https://static.actugaming.net/media/2026/02/ps5-pro.webp",
-   "date": "2026-11-05T10:55:15+00:00",
-   "source": "ActuGaming",
-   "category": "Actualités"
-  },
-  {
-   "title": "Le FSR 4.1.2 est entre les mains des développeurs : cette technologie AMD va changer les jeux Xbox Series X|S",
-   "link": "https://www.xboxygen.com/News/373131-le-fsr-4-1-2-est-entre-les-mains-des-developpeurs-cette-technologie-amd-va-changer-les-jeux-xbox-series-xs",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/10/Xbox-Series-X-AMD.jpg",
-   "date": "2026-11-05T10:39:33+00:00",
-   "source": "Xboxygen",
-   "category": "News"
-  },
-  {
-   "title": "Test Manette Razer Prio – Future partenaire de voyage ?",
-   "link": "https://www.xboxygen.com/Tests/372820-test-manette-razer-prio-future-partenaire-de-voyage",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/09/razer-prio-g.jpg",
-   "date": "2026-11-05T10:00:00+00:00",
-   "source": "Xboxygen",
-   "category": "Actu"
+   "title": "15 Choses ESSENTIELLES pour MAÎTRISER Star Wars Zero Company",
+   "link": "https://www.youtube.com/watch?v=prEiKMKKnO0",
+   "date": "2026-08-29T08:00:06+00:00",
+   "source": "Maximuuus",
+   "category": "Découverte & avis",
+   "video": "prEiKMKKnO0",
+   "image": "https://i.ytimg.com/vi/prEiKMKKnO0/hq720.jpg",
+   "views": 35446
   }
  ]
 }
