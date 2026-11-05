@@ -19,7 +19,7 @@ body{background:var(--bg);color:var(--ink);font:400 16px/1.5 var(--f);transition
 .bgfx.on{opacity:1}
 .bgfx::after{content:"";position:absolute;inset:0;background:var(--veil)}
 .wrap{max-width:1400px;margin:0 auto;padding:0 max(var(--gut),env(safe-area-inset-right)) 0 max(var(--gut),env(safe-area-inset-left))}
-header{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:48px 0 30px}
+header{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:30px 0 16px}
 .tools{display:flex;align-items:center;gap:26px}
 h1{display:inline-block;font:400 clamp(34px,8.5vw,100px)/.95 var(--f);letter-spacing:.01em;color:var(--o)}
 .switch{position:relative;flex:none;width:72px;height:40px;padding:0;border:3px solid var(--line);border-radius:var(--r);background:var(--y);box-shadow:3px 3px 0 var(--line);cursor:pointer;transition:background-color .2s,transform .16s var(--ease)}
@@ -30,58 +30,77 @@ h1{display:inline-block;font:400 clamp(34px,8.5vw,100px)/.95 var(--f);letter-spa
 .switch:focus-visible,.chip:focus-visible,.more:focus-visible,input:focus-visible{outline:3px solid var(--o);outline-offset:3px}
 .sticker{padding:10px 16px;background:var(--o);color:var(--dk);border-radius:var(--r);box-shadow:4px 4px 0 var(--line);font:400 15px/1.1 var(--f);transform:rotate(6deg);text-align:center}
 .sticker b{display:block;font-size:36px;font-weight:400;line-height:1.1}
-.bar{position:sticky;top:0;z-index:5;background:var(--bg);padding:14px 0;border-bottom:3px solid var(--line);transition:background-color .25s}
+.bar{position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 0 6px;border-bottom:3px solid var(--line);transition:background-color .25s}
 .search{display:flex;gap:10px}
 input[type=search]{flex:1;min-width:0;font:400 17px var(--f);padding:13px 16px;border:3px solid var(--line);border-radius:var(--r);background:var(--surf);color:var(--ink);box-shadow:4px 4px 0 var(--line)}
 input[type=search]::placeholder{color:#767676}
 button{font:400 16px var(--f);cursor:pointer;color:var(--dk)}
 .chip:active{transform:translate(3px,3px) scale(.97);box-shadow:1px 1px 0 var(--line)}
-.chips{display:flex;gap:10px;overflow-x:auto;padding:16px 4px 8px;scrollbar-width:none}
+.chips{display:flex;gap:8px;overflow-x:auto;padding:12px 4px 6px;scrollbar-width:none}
 .chip{white-space:nowrap;padding:9px 16px;border:3px solid var(--line);border-radius:var(--r);background:var(--y);box-shadow:3px 3px 0 var(--line);transition:transform .14s var(--ease),box-shadow .14s var(--ease),background-color .14s,color .14s}
 .chip[aria-pressed=true]{background:var(--dk);color:var(--y)}
 .chip.rub[aria-pressed=true]{background:var(--o);color:var(--dk)}
 .chip small{opacity:.7;margin-left:7px;font-size:12px}
 .sep{flex:none;width:3px;margin:4px 2px;border-radius:2px;background:var(--line)}
-.grid{display:grid;grid-template-columns:repeat(4,1fr);grid-auto-rows:clamp(180px,15vw,220px);grid-auto-flow:dense;gap:clamp(14px,1.4vw,22px);padding:32px 0 28px}
-.card{position:relative;display:flex;align-items:flex-end;grid-column:span 1;grid-row:span 1;border:3px solid var(--line);border-radius:var(--r);overflow:hidden;color:#fff;text-decoration:none;background:#3b3b3b;box-shadow:5px 5px 0 var(--line);isolation:isolate;transition:transform .2s var(--ease),box-shadow .2s var(--ease)}
-.card:not(.playing):active{transform:scale(.98);box-shadow:3px 3px 0 var(--line)}
-.sz-l{grid-column:span 2;grid-row:span 2}.sz-w{grid-column:span 2}.sz-t{grid-row:span 2}
-.card:focus-visible{transform:translate(-3px,-4px);box-shadow:9px 9px 0 var(--line)}
-@media(hover:hover) and (pointer:fine){.card:hover{transform:translate(-3px,-4px) rotate(-.8deg);box-shadow:9px 9px 0 var(--line)}.card:not(.playing):hover:active{transform:scale(.98);box-shadow:3px 3px 0 var(--line)}.vid:hover .play{transform:scale(1.1)}}
-.card:focus-visible{outline:3px solid var(--y);outline-offset:3px}
-.card img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:-2;opacity:0;transition:opacity .25s var(--ease)}
-.card img.ok{opacity:1}
-.card::after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(to top,rgba(38,38,38,.96) 0%,rgba(38,38,38,.6) 52%,transparent 88%)}
-.in{padding:14px;width:100%}
-.card h2{font:700 15px/1.3 var(--c);overflow-wrap:anywhere;text-wrap:balance;text-shadow:0 1px 6px rgba(0,0,0,.4);display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
-.sz-w h2,.sz-t h2{font-size:18px}
-.sz-l h2{font-size:clamp(20px,2.2vw,26px)}
+#grid{display:flex;flex-direction:column;gap:14px;padding:18px 0 16px}
+.hero{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.hcol{display:flex;flex-direction:column;gap:10px;min-width:0}
+.six{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.tests{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.hc,.tc,.ct,.card{position:relative;text-decoration:none;transition:transform .2s var(--ease),box-shadow .2s var(--ease)}
+.hc,.tc,.ct{color:var(--ink)}
+.hc,.tc{display:block;min-width:0}
+.pic{position:relative;display:block;aspect-ratio:3/2;border:3px solid var(--line);border-radius:var(--r);overflow:hidden;background:#3b3b3b;box-shadow:4px 4px 0 var(--line);margin-bottom:10px}
+.pic img,.th img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.hc h2{font-size:17px;-webkit-line-clamp:3}
+.hc .meta{margin-top:6px}
+.tc .pic{aspect-ratio:16/9;margin-bottom:0}
+.tp{position:relative;margin:-38px 0 0 12%;padding:10px 12px;background:var(--surf);border:3px solid var(--line);border-radius:var(--r);box-shadow:4px 4px 0 var(--line)}
+.ct{display:flex;gap:12px;padding:10px;border:3px solid var(--line);border-radius:var(--r);background:var(--surf);box-shadow:4px 4px 0 var(--line);min-width:0}
+.th{position:relative;flex:none;width:clamp(92px,9vw,124px);aspect-ratio:1;border-radius:6px;overflow:hidden;background:#3b3b3b}
+.tx{display:flex;flex-direction:column;justify-content:space-between;gap:8px;min-width:0}
+.ct h2,.hc h2,.tp h2{font:700 15px/1.3 var(--c);overflow-wrap:anywhere;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
+.hc h2{font-size:17px;-webkit-line-clamp:3}
+.pic img,.th img,.card img{opacity:0;transition:opacity .25s var(--ease)}
+img.ok{opacity:1!important}
+.card{display:flex;align-items:flex-end;border:3px solid var(--line);border-radius:var(--r);overflow:hidden;color:#fff;background:#3b3b3b;box-shadow:5px 5px 0 var(--line);isolation:isolate}
+.ban{height:clamp(220px,32vw,420px)}
+.hcol .card{aspect-ratio:16/9}
+.card img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:-2}
+.card::after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(to top,rgba(38,38,38,.96) 0%,rgba(38,38,38,.55) 50%,transparent 85%)}
+.in{padding:16px;width:100%}
+.card h2{font:700 15px/1.3 var(--c);text-wrap:balance;text-shadow:0 1px 6px rgba(0,0,0,.4);display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
+.ban h2{font-size:clamp(20px,2.6vw,34px)}
 .meta{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
-.src,.card time{padding:1px 8px;border-radius:var(--r);font:700 11px/1.6 var(--c);color:var(--dk)}
+.src,.meta time{padding:0 8px;border:2px solid var(--dk);border-radius:var(--r);font:700 11px/1.6 var(--c);color:var(--dk)}
 .src{background:var(--o)}
-.card time{background:#fff}
-.vid{cursor:pointer}
+.meta time{background:#fff}
+.vlabel{display:flex;align-items:center;gap:10px;font:400 14px/1 var(--f)}
+.vlabel::after{content:"";flex:1;height:6px;border-radius:3px;background:var(--o)}
+.hc:focus-visible,.tc:focus-visible,.ct:focus-visible,.card:focus-visible{outline:3px solid var(--o);outline-offset:3px}
+@media(hover:hover) and (pointer:fine){.hc:hover,.tc:hover,.ct:hover,.card:hover{transform:translate(-3px,-4px)}.ct:hover{box-shadow:7px 8px 0 var(--line)}.card:not(.playing):hover{box-shadow:8px 9px 0 var(--line)}.vid:hover .play{transform:scale(1.1)}}
+.hc:active,.tc:active,.ct:active,.card:not(.playing):active{transform:scale(.985)}
 .play{position:absolute;inset:0;margin:auto;width:68px;height:68px;display:grid;place-items:center;border:3px solid var(--dk);border-radius:50%;background:var(--y);color:var(--dk);font-size:24px;transition:transform .16s var(--ease)}
-.vid.playing{cursor:default}
-.vid.playing,.vid.playing:hover{transform:none;box-shadow:5px 5px 0 var(--line)}
+.vid{cursor:pointer}
+.vid.playing,.vid.playing:hover{cursor:default;transform:none;box-shadow:5px 5px 0 var(--line)}
 .card iframe{position:absolute;inset:0;width:100%;height:100%;border:0;background:#000}
-.more{display:block;margin:10px auto 48px;padding:13px 28px;border:3px solid var(--line);border-radius:var(--r);background:var(--y);box-shadow:4px 4px 0 var(--line);font-size:18px;transition:transform .16s var(--ease),box-shadow .16s var(--ease)}
+.more{display:block;margin:10px auto 44px;padding:13px 28px;border:3px solid var(--line);border-radius:var(--r);background:var(--y);box-shadow:4px 4px 0 var(--line);font-size:18px;transition:transform .16s var(--ease),box-shadow .16s var(--ease)}
 .more:active{transform:translate(3px,3px) scale(.97);box-shadow:1px 1px 0 var(--line)}
 .pop{animation:pop .32s var(--ease) backwards;animation-delay:calc(var(--d,0)*45ms)}
 @keyframes pop{from{opacity:0;transform:translateY(14px) scale(.97)}}
-.sec{grid-column:1/-1;display:flex;align-items:center;gap:14px;margin-top:14px}
-.sec:first-child{margin-top:0}
+.sec{display:flex;align-items:center;gap:14px;margin-top:8px}
 .sec h3{font:400 clamp(18px,2.2vw,26px)/1 var(--f);padding:8px 14px;background:var(--y);color:var(--dk);border:3px solid var(--line);border-radius:var(--r);box-shadow:3px 3px 0 var(--line)}
-.all{margin-left:auto;padding:7px 14px;border:3px solid var(--line);border-radius:var(--r);background:var(--surf);color:var(--ink);font-size:14px;transition:transform .16s var(--ease),box-shadow .16s var(--ease)}
+.all{margin-left:auto;padding:7px 14px;border:3px solid var(--line);border-radius:var(--r);background:var(--surf);color:var(--ink);font-size:14px;transition:transform .16s var(--ease)}
 .all:active{transform:scale(.97)}
 .all:focus-visible{outline:3px solid var(--o);outline-offset:3px}
-.msg{grid-column:1/-1;padding:44px 8px;font-size:20px;line-height:1.4;text-align:center}
+.msg{padding:44px 8px;font-size:20px;line-height:1.4;text-align:center}
 footer{padding:22px 0 48px;font:400 14px var(--c);border-top:3px solid var(--line)}
 @media(min-width:1700px){.wrap{max-width:1560px}}
-@media(max-width:900px){.grid{grid-template-columns:repeat(2,1fr);grid-auto-rows:180px}}
+@media(max-width:900px){.hero{grid-template-columns:1fr 1fr}.hcol{grid-column:1/-1}.tests{grid-template-columns:1fr 1fr}}
+@media(max-width:700px){.six{grid-template-columns:1fr}}
 @media(max-width:620px){.sticker{display:none}}
-@media(max-width:520px){.grid{grid-template-columns:1fr;grid-auto-rows:210px}.sz-w,.sz-l{grid-column:span 1}}
-@media(prefers-reduced-motion:reduce){.pop{animation-name:fade;animation-delay:0s}@keyframes fade{from{opacity:0}}.knob,.card,.chip,.more,.switch,.play{transition-property:background-color,color,opacity}.card:hover,.card:active,.chip:hover,.chip:active,.switch:active,.more:active,.vid:hover .play{transform:none}}
+@media(max-width:560px){.hero,.tests{grid-template-columns:1fr}}
+@media(prefers-reduced-motion:reduce){.pop{animation-name:fade;animation-delay:0s}@keyframes fade{from{opacity:0}}.knob,.card,.chip,.more,.switch,.play,.hc,.tc,.ct{transition-property:background-color,color,opacity}.card:hover,.card:active,.hc:hover,.hc:active,.tc:hover,.tc:active,.ct:hover,.ct:active,.chip:hover,.chip:active,.switch:active,.more:active,.vid:hover .play{transform:none}}
 </style>
 </head>
 <body>
@@ -113,15 +132,19 @@ let ALL = [], SOURCES = {}, site = null, type = null, shown = PAGE;
 const $ = id => document.getElementById(id);
 const root = document.documentElement;
 
-const GAMES = [1245620, 1091500, 1174180, 292030, 1086940, 367520, 413150, 1145360, 892970, 1593500, 990080, 1716740, 553850, 504230];
-function backdrop() {
+// Fonds : images du dossier FONDS, listées dans FONDS/index.json (ex. ["zelda.jpg","halo.webp"])
+const FONDS = "fonds/";
+async function backdrop() {
+  let names = [];
+  try { names = await (await fetch(FONDS + "index.json", { cache: "no-store" })).json(); } catch (e) {}
+  if (!Array.isArray(names) || !names.length) return;
   let last = -1; try { last = +localStorage.getItem("bg"); } catch (e) {}
-  let i; do { i = Math.floor(Math.random() * GAMES.length); } while (i === last);
+  let i; do { i = Math.floor(Math.random() * names.length); } while (names.length > 1 && i === last);
   try { localStorage.setItem("bg", i); } catch (e) {}
   const load = k => {
-    if (k > 2) return;
-    const u = "https://cdn.akamai.steamstatic.com/steam/apps/" + GAMES[(i + k) % GAMES.length] + "/library_hero.jpg", m = new Image();
-    m.onload = () => { $("bgfx").style.backgroundImage = "url(" + u + ")"; $("bgfx").classList.add("on"); };
+    if (k > 2 || k >= names.length) return;
+    const u = FONDS + encodeURIComponent(names[(i + k) % names.length]), m = new Image();
+    m.onload = () => { $("bgfx").style.backgroundImage = "url(\"" + u + "\")"; $("bgfx").classList.add("on"); };
     m.onerror = () => load(k + 1);
     m.src = u;
   };
@@ -169,19 +192,33 @@ function renderChips() {
   $("chips").replaceChildren(chip("Tout", ALL.length, !type && !site, () => { type = site = null; }), ...t, el("span", { className: "sep" }), ...s);
 }
 
-function card(a, i, d = -1, sz) {
-  const v = !!a.video;
-  const c = el(v ? "div" : "a", { className: "card sz-" + (v ? "l vid" : sz || PATTERN[i % PATTERN.length]) });
-  if (d >= 0) { c.classList.add("pop"); c.style.setProperty("--d", Math.min(d, 8)); }
+const CYC = 7, STEP = 4;
+const home = () => !type && !site && !$("q").value.trim();
+// un article par source à tour de rôle : plus de diversité
+const mix = l => { const g = {}; l.forEach(a => (g[a.source] = g[a.source] || []).push(a)); const q = Object.values(g), o = []; for (let i = 0; q.some(x => i < x.length); i++) q.forEach(x => x[i] && o.push(x[i])); return o; };
+const anim = (c, d) => { if (d >= 0) { c.classList.add("pop"); c.style.setProperty("--d", Math.min(d, 8)); } return c; };
+const meta = a => el("div", { className: "meta" }, [el("span", { className: "src", textContent: a.source }), el("time", { textContent: ago(a.date) })]);
+
+function pic(a, i, v) {
+  const m = el("img", { alt: "", decoding: "async", loading: i < 4 ? "eager" : "lazy", referrerPolicy: "no-referrer" });
+  if (i < 2) m.fetchPriority = "high";
+  let retry = v;
+  m.onload = () => m.classList.add("ok");
+  m.onerror = () => { if (retry) { retry = false; m.src = thumb(a.video, "hqdefault"); } else m.remove(); };
+  m.src = a.image;
+  return m;
+}
+const link = (cls, a, kids, d) => anim(el("a", { className: cls, href: a.link, target: "_blank", rel: "noopener" }, kids), d);
+const im = (cls, a, i) => el("span", { className: cls }, a.image ? [pic(a, i)] : []);
+const ct = (a, i, d) => link("ct", a, [im("th", a, i), el("span", { className: "tx" }, [el("h2", { textContent: a.title }), meta(a)])], d);
+const hc = (a, i, d) => link("hc", a, [im("pic", a, i), el("h2", { textContent: a.title }), meta(a)], d);
+const tc = (a, i, d) => link("tc", a, [im("pic", a, i), el("div", { className: "tp" }, [el("h2", { textContent: a.title }), meta(a)])], d);
+
+// grande carte pleine largeur (et lecteur vidéo)
+function card(a, i, d = -1, sz = "") {
+  const v = !!a.video, c = anim(el(v ? "div" : "a", { className: "card " + sz + (v ? " vid" : "") }), d);
   if (!v) { c.href = a.link; c.target = "_blank"; c.rel = "noopener"; }
-  if (a.image) {
-    const m = el("img", { alt: "", decoding: "async", loading: i < 4 ? "eager" : "lazy", referrerPolicy: "no-referrer" });
-    if (i < 2) m.fetchPriority = "high";
-    m.onload = () => m.classList.add("ok");
-    let retry = v;
-    m.onerror = () => { if (retry) { retry = false; m.src = thumb(a.video, "hqdefault"); } else m.remove(); };
-    m.src = a.image; c.append(m);
-  }
+  if (a.image) c.append(pic(a, i, v));
   c.append(el("div", { className: "in" }, [el("h2", { textContent: a.title }),
     el("div", { className: "meta" }, [el("span", { className: "src", textContent: (v ? "▶ " : "") + a.source }), el("time", { textContent: ago(a.date) })])]));
   if (v) {
@@ -195,52 +232,50 @@ function card(a, i, d = -1, sz) {
   return c;
 }
 
-const SECTIONS = [{ t: "Actu", label: "Les actus", n: 9 }, { t: "Tests", label: "Tests & avis", n: 4 }, { t: "Sorties", label: "Sorties & dates", n: 4 }];
-const FILL = { 1: ["w"], 2: ["w", "w"], 3: ["w", "s", "s"] };
-const home = () => !type && !site && !$("q").value.trim();
-// un article par source à tour de rôle : plus de diversité
-const mix = l => { const g = {}; l.forEach(a => (g[a.source] = g[a.source] || []).push(a)); const q = Object.values(g), o = []; for (let i = 0; q.some(x => i < x.length); i++) q.forEach(x => x[i] && o.push(x[i])); return o; };
 function sec(label, tp) {
   const h = el("div", { className: "sec" }, [el("h3", { textContent: label })]);
   if (tp) { const b = el("button", { className: "all", type: "button", textContent: "Voir tout" }); b.onclick = () => { type = tp; shown = PAGE; renderChips(); render(); scrollTo({ top: 0 }); }; h.append(b); }
   return h;
 }
-function homeNodes(first) {
-  const used = new Set(), out = []; let n = 0;
-  const add = (a, sz) => { used.add(a); out.push(card(a, n, first ? n : -1, sz)); n++; };
-  const pool = mix(ALL.filter(a => a.image && !a.video)), big = ALL.find(a => a.video) || pool[0];
-  if (big) { out.push(sec("À la une")); add(big, "l"); pool.filter(a => a !== big).slice(0, 2).forEach(a => add(a, "w")); }
-  SECTIONS.forEach(S => {
-    const items = mix(ALL.filter(a => a.type === S.t && !used.has(a) && !a.video));
-    const k = S.t === "Actu" ? (items.length >= 9 ? 9 : items.length >= 5 ? 5 : items.length) : Math.min(items.length, 4);
-    if (!k) return;
-    out.push(sec(S.label, S.t));
-    const sizes = k >= 5 ? ["l", ...Array(k - 1).fill("s")] : k === 4 ? Array(4).fill("s") : FILL[k];
-    items.slice(0, k).forEach((a, j) => add(a, sizes[j]));
-  });
-  return { out, used };
+const six = (items, base, an) => el("div", { className: "six" }, items.map((a, j) => ct(a, base + j, an ? j : -1)));
+const grid3 = (title, tp, items) => an => [sec(title, tp), el("div", { className: "tests" }, items.map((a, j) => tc(a, j + 8, an ? j : -1)))];
+
+function heroNode(H, an) {
+  const d = j => an ? j : -1, [a, b, c] = H.hs;
+  const third = H.vid ? el("div", { className: "hcol" }, [card(H.vid, 2, d(2)), el("div", { className: "vlabel", textContent: "Dernière vidéo" }), ...(c ? [hc(c, 3, d(3))] : [])]) : (c && hc(c, 2, d(2)));
+  return el("div", { className: "hero" }, [a && hc(a, 0, d(0)), b && hc(b, 1, d(1)), third].filter(Boolean));
 }
 
-let rendered = 0, REST = [], isHome = false;
+// plan : héros, puis [1 article pleine largeur + 6 cartouches] en boucle, avec blocs Tests / Sorties intercalés
+function plan(list, h) {
+  const used = new Set(), B = [];
+  const grab = t => { const l = mix(list.filter(a => a.type === t && a.image && !used.has(a))).slice(0, 6); if (l.length < 3) return []; l.forEach(a => used.add(a)); return l; };
+  let hero = null, tests = [], sorties = [];
+  if (h) {
+    const vid = list.find(a => a.video), hs = mix(list.filter(a => a.image && !a.video)).slice(0, 3);
+    hs.forEach(a => used.add(a)); if (vid) used.add(vid);
+    if (hs.length || vid) hero = { hs, vid };
+    tests = grab("Tests"); sorties = grab("Sorties");
+  }
+  const rest = list.filter(a => !used.has(a)), feed = h ? mix(rest) : rest;
+  for (let k = 0; k * CYC < feed.length; k++) {
+    const ch = feed.slice(k * CYC, (k + 1) * CYC), base = k * CYC + (h ? 6 : 0);
+    B.push(an => [...(k === 0 && h ? [sec("L’actualité toute chaude")] : []), card(ch[0], base, an ? 0 : -1, "ban"), ...(ch.length > 1 ? [six(ch.slice(1), base + 1, an)] : [])]);
+    if (k === 1 && tests.length) { B.push(grid3("Tous les tests", "Tests", tests)); tests = []; }
+    if (k === 3 && sorties.length) { B.push(grid3("Sorties & dates", "Sorties", sorties)); sorties = []; }
+  }
+  if (tests.length) B.push(grid3("Tous les tests", "Tests", tests));
+  if (sorties.length) B.push(grid3("Sorties & dates", "Sorties", sorties));
+  return { hero, B };
+}
+
+let B = [], rendered = 0;
 function render(mode) {
   const list = filtered(), g = $("grid");
-  if (!list.length) { rendered = 0; isHome = false; $("more").hidden = true; g.replaceChildren(el("p", { className: "msg", textContent: ALL.length ? "Rien trouvé. Essaie un mot plus court ou change de rubrique." : "Rien à piocher pour l'instant ! La prochaine mise à jour remplira la page." })); return; }
-  if (home()) {
-    if (mode === "more" && isHome) {
-      g.append(...REST.slice(rendered, shown).map((a, k) => card(a, rendered + k, k)));
-    } else {
-      const { out, used } = homeNodes(mode === "first");
-      REST = list.filter(a => !used.has(a));
-      g.replaceChildren(...out, ...(REST.length ? [sec("Toutes les actus")] : []), ...REST.slice(0, shown).map((a, i) => card(a, i)));
-      isHome = true;
-    }
-    rendered = Math.min(shown, REST.length); $("more").hidden = REST.length <= shown; return;
-  }
-  isHome = false;
-  const vis = list.slice(0, shown);
-  if (mode === "more" && rendered && rendered < vis.length) g.append(...vis.slice(rendered).map((a, k) => card(a, rendered + k, k)));
-  else g.replaceChildren(...vis.map((a, i) => card(a, i)));
-  rendered = vis.length; $("more").hidden = list.length <= shown;
+  if (!list.length) { B = []; rendered = 0; $("more").hidden = true; g.replaceChildren(el("p", { className: "msg", textContent: ALL.length ? "Rien trouvé. Essaie un mot plus court ou change de rubrique." : "Rien à piocher pour l'instant ! La prochaine mise à jour remplira la page." })); return; }
+  if (mode === "more") { B.slice(rendered, rendered + STEP).forEach(f => g.append(...f(true))); rendered = Math.min(B.length, rendered + STEP); }
+  else { const p = plan(list, home()), first = mode === "first"; B = p.B; g.replaceChildren(...(p.hero ? [heroNode(p.hero, first)] : []), ...B.slice(0, STEP).flatMap(f => f(first))); rendered = Math.min(B.length, STEP); }
+  $("more").hidden = rendered >= B.length;
 }
 
 async function init() {
