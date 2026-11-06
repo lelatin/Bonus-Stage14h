@@ -5,8 +5,8 @@
 <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#1a1a1a" media="(prefers-color-scheme: dark)">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="description" content="Les dernières vidéos d'essai et d'avis sur les jeux vidéo, choisies chaîne par chaîne, au même endroit.">
-<title>Bonus Stage14h – les essais vidéo de jeux, au même endroit</title>
+<meta name="description" content="Les dernières vidéos de découverte, d'avis et de tests de jeux vidéo, chaîne par chaîne, au même endroit.">
+<title>Bonus Stage14h – découvertes, avis et tests de jeux vidéo, en vidéo</title>
 <script>try{var t=localStorage.getItem("theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t}catch(e){}</script>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 100 100%27%3E%3Crect width=%27100%27 height=%27100%27 rx=%2716%27 fill=%27%23ffd60a%27/%3E%3Ctext x=%2750%27 y=%2766%27 font-size=%2742%27 font-weight=%27700%27 text-anchor=%27middle%27 font-family=%27Arial%27 fill=%27%23262626%27%3EBS%3C/text%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -66,6 +66,7 @@ button{font:400 16px var(--f);cursor:pointer;color:var(--dk)}
 .vpic{cursor:pointer}
 .vpic .play{width:72px;height:72px;font-size:26px}
 .vpic iframe{position:absolute;inset:0;width:100%;height:100%;border:0;background:#000}
+.dur{position:absolute;right:8px;bottom:8px;padding:0 7px;background:var(--dk);color:#fff;border-radius:6px;font:700 12px/1.6 var(--c);font-variant-numeric:tabular-nums}
 .tag{position:absolute;top:8px;left:8px;padding:2px 8px;background:var(--o);color:var(--dk);border:2px solid var(--dk);border-radius:var(--r);font:400 12px/1.5 var(--f)}
 .tc .pic{aspect-ratio:16/9;margin-bottom:0}
 .tp{position:relative;margin:-38px 0 0 12%;padding:10px 12px;background:var(--surf);border:3px solid var(--line);border-radius:var(--r);box-shadow:4px 4px 0 var(--line)}
@@ -141,7 +142,7 @@ footer{background:var(--bg);padding:22px 0 48px;font:400 14px var(--c);border-to
 <footer><div class="wrap" id="foot"></div></footer>
 
 <script>
-const PAGE = 16, TYPES = ["Essais vidéo", "Découverte & avis"];
+const PAGE = 16, TYPES = [];
 let ALL = [], SOURCES = {}, site = null, type = null, shown = PAGE;
 const $ = id => document.getElementById(id);
 const root = document.documentElement;
@@ -198,13 +199,14 @@ function renderChips() {
   ALL.forEach(a => { bySite[a.source] = (bySite[a.source] || 0) + 1; byType[a.type] = (byType[a.type] || 0) + 1; });
   const t = TYPES.map(n => { const b = chip(n, byType[n] || 0, type === n, () => { type = type === n ? null : n; }); b.classList.add("rub"); return b; });
   const s = Object.keys(SOURCES).map(n => chip(n, bySite[n] || 0, site === n, () => { site = site === n ? null : n; }));
-  $("chips").replaceChildren(chip("Tout", ALL.length, !type && !site, () => { type = site = null; }), ...t, el("span", { className: "sep" }), ...s);
+  $("chips").replaceChildren(chip("Tout", ALL.length, !type && !site, () => { type = site = null; }), ...t, ...(t.length ? [el("span", { className: "sep" })] : []), ...s);
 }
 
 const home = () => !type && !site && !$("q").value.trim();
 // une vidéo par chaîne à tour de rôle : plus de diversité
 const mix = l => { const g = {}; l.forEach(a => (g[a.source] = g[a.source] || []).push(a)); const q = Object.values(g), o = []; for (let i = 0; q.some(x => i < x.length); i++) q.forEach(x => x[i] && o.push(x[i])); return o; };
 const anim = (c, d) => { if (d >= 0) { c.classList.add("pop"); c.style.setProperty("--d", Math.min(d, 6)); } return c; };
+const dur = s => { const h = Math.floor(s / 3600), m = Math.floor(s % 3600 / 60), x = String(s % 60).padStart(2, "0"); return h ? h + ":" + String(m).padStart(2, "0") + ":" + x : m + ":" + x; };
 const nf = new Intl.NumberFormat("fr-FR", { notation: "compact", maximumFractionDigits: 1 });
 
 function pic(a, i) {
@@ -221,7 +223,7 @@ const sec = label => el("div", { className: "sec" }, [el("h3", { textContent: la
 // carte vidéo : un clic sur l'image lance la lecture dans la carte
 function vc(a, i, d) {
   const fresh = Date.now() - new Date(a.date) < 48 * 36e5;
-  const p = el("span", { className: "pic vpic" }, [pic(a, i), el("span", { className: "play", textContent: "▶" }), ...(fresh ? [el("span", { className: "tag", textContent: "Nouveau" })] : [])]);
+  const p = el("span", { className: "pic vpic" }, [pic(a, i), el("span", { className: "play", textContent: "▶" }), ...(fresh ? [el("span", { className: "tag", textContent: "Nouveau" })] : []), ...(a.duration ? [el("span", { className: "dur", textContent: dur(a.duration) })] : [])]);
   const meta = el("div", { className: "meta" }, [el("span", { className: "src", textContent: a.source }), el("time", { textContent: ago(a.date), dateTime: a.date }), ...(a.views ? [el("span", { className: "vw", textContent: nf.format(a.views) + " vues" })] : [])]);
   const c = anim(el("div", { className: "hc hv" }, [p, el("h2", {}, [el("a", { href: a.link, target: "_blank", rel: "noopener", textContent: a.title })]), meta]), d);
   p.tabIndex = 0; p.setAttribute("role", "button"); p.setAttribute("aria-label", "Lire la vidéo : " + a.title);

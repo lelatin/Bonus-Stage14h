@@ -1,6 +1,6 @@
 [
-  { "name": "Loudic",                  "handle": "Loudic",                "category": "Découverte & avis" },
-  { "name": "Playmoo",                 "handle": "Playmoo",               "category": "Découverte & avis" },
-  { "name": "At0mium",                 "handle": "At0mium_VOD",           "category": "Découverte & avis" },
-  { "name": "Press Start",             "handle": "PressStart-JV",         "category": "Découverte & avis" }
+  { "name": "Loudic",   "handle": "Loudic",      "category": "Découverte & avis" },
+  { "name": "Playmoo",  "handle": "Playmoo",     "category": "Découverte & avis" },
+  { "name": "At0mium",  "handle": "At0mium_VOD", "category": "Découverte & avis" },
+  { "name": "Origami",  "handle": "Origatube",   "category": "Découverte & avis" }
 ]
