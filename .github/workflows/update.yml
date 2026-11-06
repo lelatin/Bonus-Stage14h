@@ -1,4 +1,4 @@
-name: Mise à jour des articles
+name: Mise à jour des vidéos
 on:
   push:
     branches: [main]
@@ -16,8 +16,10 @@ jobs:
         with:
           python-version: "3.12"
       - run: python update.py
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
       - run: |
-          git config user.name "hebdo14h-bot"
+          git config user.name "bonusstage-bot"
           git config user.email "bot@users.noreply.github.com"
           git add data.json
-          git diff --staged --quiet || (git commit -m "maj articles" && git push)
+          git diff --staged --quiet || (git commit -m "maj vidéos" && git push)
