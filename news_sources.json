@@ -1,0 +1,6 @@
+[
+  { "name": "Xboxygen",   "url": "https://www.xboxygen.com/",
+    "feeds": ["https://www.xboxygen.com/rss/", "https://www.xboxygen.com/feed/", "https://www.xboxygen.com/rss.xml", "https://www.xboxygen.com/spip.php?page=backend"] },
+  { "name": "ActuGaming", "url": "https://www.actugaming.net/",
+    "feeds": ["https://www.actugaming.net/feed/", "https://www.actugaming.net/rss/"] }
+]
