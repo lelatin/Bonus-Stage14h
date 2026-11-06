@@ -116,25 +116,56 @@ footer{background:var(--bg);padding:22px 0 48px;font:400 14px var(--c);border-to
 @media(max-width:620px){.sticker{display:none}}
 @media(max-width:620px){.hero,.tests{grid-template-columns:1fr}}
 @media(prefers-reduced-motion:reduce){.pop{animation-name:fade;animation-delay:0s}@keyframes fade{from{opacity:0}}.knob,.card,.chip,.more,.switch,.play,.hc,.tc,.ct{transition-property:background-color,color,opacity}.card:hover,.card:active,.hc:hover,.hc:active,.tc:hover,.tc:active,.ct:hover,.ct:active,.chip:hover,.chip:active,.switch:active,.more:active,.vid:hover .play{transform:none}}
+
+/* ===== Mise en page « portail » : en-tête avec navigation, grille de 4 vidéos ===== */
+:root{--mute:#6b6b75;--veil:rgba(255,255,255,.86)}
+:root[data-theme=dark]{--mute:#a3a3ad;--veil:rgba(26,26,26,.88)}
+.top{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:2px solid var(--line);transition:background-color .25s}
+.nav{display:flex;align-items:center;gap:24px;padding-block:10px}
+h1{display:block;flex:none;font:400 clamp(20px,2.3vw,28px)/1 var(--f);letter-spacing:0;white-space:nowrap;color:var(--o)}
+.chips{flex:1;min-width:0;display:flex;gap:2px;overflow-x:auto;padding:0;scrollbar-width:none}
+.chip{background:none;border:0;border-radius:var(--r);box-shadow:none;padding:12px 14px;font:700 16px/1 var(--c);color:var(--ink);transition:color .15s,box-shadow .15s}
+.chip small{display:none}
+.chip:active{transform:scale(.97);box-shadow:none}
+.chip[aria-pressed=true]{background:none;color:var(--o);box-shadow:inset 0 -3px 0 var(--o)}
+.tools{display:flex;align-items:center;gap:4px;flex:none}
+.ico,:root[data-theme] .switch{position:static;display:grid;place-items:center;flex:none;width:44px;height:44px;padding:0;border:0;border-radius:50%;background:transparent;box-shadow:none;color:var(--ink);cursor:pointer;transition:background-color .15s,transform .16s var(--ease)}
+:root[data-theme] .knob{position:static;display:grid;place-items:center;width:24px;height:24px;border:0;background:none;transform:none;transition:none}
+.ico:active,:root[data-theme] .switch:active{transform:scale(.92)}
+.ico:focus-visible{outline:3px solid var(--o);outline-offset:2px}
+.srch{padding-bottom:12px}
+#grid{gap:22px;padding:26px 0 18px}
+.sec{margin:0}
+.sec h3{font:700 clamp(22px,2.4vw,32px)/1.2 var(--c);padding:0;background:none;border:0;box-shadow:none;color:var(--ink)}
+.hero{grid-template-columns:repeat(4,1fr);gap:34px 22px}
+.pic{border:0;box-shadow:none;border-radius:14px;margin-bottom:12px}
+.hero .hc h2{font-size:clamp(16px,1.2vw,18px);line-height:1.35;-webkit-line-clamp:2;min-height:2.7em}
+.hero .hc .meta{display:flex;flex-wrap:nowrap;align-items:center;gap:10px;margin-top:8px;color:var(--mute)}
+.hero .meta time,.hero .vw{padding:0;border:0;background:none;border-radius:0;font:600 14px/1.5 var(--c);color:var(--mute);white-space:nowrap}
+.hero .vw::before{content:"· "}
+.hero .src{order:3;margin-left:auto;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;padding:1px 10px;border:0;border-radius:999px;background:rgba(127,127,127,.2);color:var(--ink);font:600 12px/1.7 var(--c)}
+.vpic .play{width:52px;height:52px;font-size:18px}
+@media(hover:hover){.chip:hover{color:var(--o)}.ico:hover,:root[data-theme] .switch:hover{background:rgba(127,127,127,.2)}}
+@media(max-width:1100px){.hero{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:760px){.hero{grid-template-columns:repeat(2,1fr);gap:28px 14px}.nav{flex-wrap:wrap;gap:0 12px}.chips{order:3;flex:1 0 100%}.tools{margin-left:auto}}
+@media(max-width:480px){.hero{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
 <div class="bgfx" id="bgfx" aria-hidden="true"></div>
-<div class="top"><div class="wrap">
-  <header>
+<div class="top">
+  <div class="wrap nav">
     <h1>Bonus Stage14h</h1>
+    <nav class="chips" id="chips" aria-label="Filtrer par chaîne"></nav>
     <div class="tools">
-      <div class="sticker" id="sticker" hidden><b id="n">0</b><span id="nl">vidéos à voir</span></div>
+      <button class="ico" id="sb" type="button" aria-label="Rechercher" aria-expanded="false" aria-controls="sr"><svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></button>
       <button class="switch" id="theme" type="button" role="switch" aria-checked="false" aria-label="Mode sombre"><span class="knob" id="knob"></span></button>
     </div>
-  </header>
-</div></div>
-<div class="bar"><div class="wrap">
-  <div class="search">
+  </div>
+  <div class="wrap srch" id="sr" hidden>
     <input id="q" type="search" placeholder="Cherche un jeu, une chaîne, un sujet…" aria-label="Rechercher une vidéo" autocomplete="off" enterkeyhint="search">
   </div>
-  <div class="chips" id="chips" role="group" aria-label="Filtrer par rubrique ou par chaîne"></div>
-</div></div>
+</div>
 <main class="wrap">
   <div class="grid" id="grid"><p class="msg">Chargement des articles…</p></div>
   <button class="more" id="more" hidden>Voir plus de vidéos</button>
@@ -235,15 +266,15 @@ function vc(a, i, d) {
 }
 
 let rendered = 0;
+const heading = () => site || ($("q").value.trim() ? "Résultats de la recherche" : "Les dernières vidéos");
 function render(mode) {
   const list = filtered(), g = $("grid");
   if (!list.length) { rendered = 0; $("more").hidden = true; g.replaceChildren(el("p", { className: "msg", textContent: ALL.length ? "Rien trouvé. Essaie un mot plus court ou change de chaîne." : "Rien à regarder pour l'instant ! La prochaine mise à jour remplira la page." })); return; }
-  const h = home(), feat = h ? mix(list).slice(0, 2) : [], rest = list.filter(a => !feat.includes(a)), first = mode === "first";
-  const cards = (l, base, an) => l.map((a, j) => vc(a, base + j, an ? j : -1)), box = c => el("div", { className: "hero" }, c);
-  const n = Math.min(shown, rest.length);
-  if (mode === "more" && rendered && rendered < n) g.lastElementChild.append(...cards(rest.slice(rendered, n), rendered + 2, true));
-  else g.replaceChildren(...(h ? [sec("À la une"), box(cards(feat, 0, first)), sec("Dernières vidéos")] : []), box(cards(rest.slice(0, n), 2, first)));
-  rendered = n; $("more").hidden = rest.length <= n;
+  const n = Math.min(shown, list.length), first = mode === "first";
+  const cards = (l, base, an) => l.map((a, j) => vc(a, base + j, an ? j : -1));
+  if (mode === "more" && rendered && rendered < n) g.lastElementChild.append(...cards(list.slice(rendered, n), rendered, true));
+  else g.replaceChildren(sec(heading()), el("div", { className: "hero" }, cards(list.slice(0, n), 0, first)));
+  rendered = n; $("more").hidden = list.length <= n;
 }
 
 async function init() {
@@ -255,13 +286,14 @@ async function init() {
   } catch (e) { ALL = []; }
   ALL.forEach(a => a.type = a.category || "Vidéo");
   ALL.sort((a, b) => new Date(b.date) - new Date(a.date)); // du plus récent au plus ancien
-  $("n").textContent = ALL.length; $("nl").textContent = new Intl.PluralRules("fr").select(ALL.length) === "one" ? "vidéo à voir" : "vidéos à voir"; $("sticker").hidden = !ALL.length;
+  
   renderChips(); render("first");
 }
 
+const ic = p => '<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' + p + "</svg>";
 function applyTheme(t) {
   root.dataset.theme = t;
-  $("knob").textContent = t === "dark" ? "🌙" : "☀️";
+  $("knob").innerHTML = t === "dark" ? ic('<path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/>') : ic('<circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/>');
   $("theme").setAttribute("aria-checked", t === "dark");
 }
 $("theme").onclick = () => { const t = root.dataset.theme === "dark" ? "light" : "dark"; applyTheme(t); try { localStorage.setItem("theme", t); } catch (e) {} };
@@ -270,6 +302,8 @@ applyTheme(root.dataset.theme || "light");
 let tm;
 $("q").oninput = () => { clearTimeout(tm); tm = setTimeout(() => { shown = PAGE; render(); }, 120); };
 $("more").onclick = () => { shown += PAGE; render("more"); };
+$("sb").onclick = () => { const r = $("sr"), open = r.hidden; r.hidden = !open; $("sb").setAttribute("aria-expanded", open); if (open) $("q").focus(); else if ($("q").value) { $("q").value = ""; shown = PAGE; render(); } };
+$("q").onkeydown = e => { if (e.key === "Escape") $("sb").click(); };
 init();
 </script>
 </body>
