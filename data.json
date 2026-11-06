@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T15:47:43+00:00",
+ "updated": "2026-11-06T15:59:50+00:00",
  "sources": [
   {
    "name": "Loudic",
@@ -30,6 +30,7 @@
    "url": "https://www.youtube.com/@Origatube"
   }
  ],
+ "news_sources": [],
  "articles": [
   {
    "title": "LE CRAQUAGE DE BOUT EN BOUT | The Legend of Zelda Ocarina of Time - LET'S PLAY FR #3",
@@ -40,7 +41,7 @@
    "video": "2K27Va5C-lc",
    "image": "https://i.ytimg.com/vi/2K27Va5C-lc/hq720.jpg",
    "duration": 4432,
-   "views": 987
+   "views": 993
   },
   {
    "title": "LE GROS TWIST | Castlevania Belmont's Curse - LET'S PLAY FR #7",
@@ -51,7 +52,7 @@
    "video": "n-N1nFYMiXM",
    "image": "https://i.ytimg.com/vi/n-N1nFYMiXM/hq720.jpg",
    "duration": 3920,
-   "views": 4565
+   "views": 4693
   },
   {
    "title": "ÇA DEVIENT DÉJÀ LÉGENDAIRE | The Legend of Zelda Ocarina of Time - LET'S PLAY FR #2",
@@ -62,7 +63,7 @@
    "video": "N7KgZ4Lkd80",
    "image": "https://i.ytimg.com/vi/N7KgZ4Lkd80/hq720.jpg",
    "duration": 4753,
-   "views": 20590
+   "views": 20677
   },
   {
    "title": "ALORS, CE REMAKE DE OCARINA OF TIME ? | The Legend of Zelda Ocarina of Time | LET'S PLAY FR #1",
@@ -73,7 +74,7 @@
    "video": "USwdksqhsMo",
    "image": "https://i.ytimg.com/vi/USwdksqhsMo/hq720.jpg",
    "duration": 3539,
-   "views": 58613
+   "views": 58867
   },
   {
    "title": "LA REDEMPTION DU MASQUE D'OR | Phantom Blade Zero - LET'S PLAY FR #7",
@@ -84,7 +85,7 @@
    "video": "FjbuYNggw30",
    "image": "https://i.ytimg.com/vi/FjbuYNggw30/hq720.jpg",
    "duration": 3378,
-   "views": 14566
+   "views": 14582
   },
   {
    "title": "Vendre Arkane à Ubisoft ?",
@@ -95,7 +96,7 @@
    "video": "jNRqq4aRLXw",
    "image": "https://i.ytimg.com/vi/jNRqq4aRLXw/hq720.jpg",
    "duration": 1701,
-   "views": 19293
+   "views": 19335
   },
   {
    "title": "LA DERNIÈRE PORTE | Mortal Shell 2 - LET'S PLAY FR #12",
@@ -106,7 +107,7 @@
    "video": "rZGNGSjY0CM",
    "image": "https://i.ytimg.com/vi/rZGNGSjY0CM/hq720.jpg",
    "duration": 4470,
-   "views": 10105
+   "views": 10123
   },
   {
    "title": "LA MAIN DE PIERRE | Phantom Blade Zero - LET'S PLAY FR #6",
@@ -128,7 +129,7 @@
    "video": "DQOwbtKV6BQ",
    "image": "https://i.ytimg.com/vi/DQOwbtKV6BQ/hq720.jpg",
    "duration": 4414,
-   "views": 10833
+   "views": 10845
   },
   {
    "title": "FINAL FANTASY RESONANCE peut-il vous plaire ?",
@@ -139,7 +140,7 @@
    "video": "eOSAJ5Qn5Qo",
    "image": "https://i.ytimg.com/vi/eOSAJ5Qn5Qo/hq720.jpg",
    "duration": 5780,
-   "views": 29007
+   "views": 29011
   },
   {
    "title": "DOUBLE BOSS, DOUBLE CLAQUE | Phantom Blade Zero - LET'S PLAY FR #5",
@@ -164,17 +165,6 @@
    "views": 43138
   },
   {
-   "title": "C'EST DEJA FINI ? | Castlevania Belmont's Curse - LET'S PLAY FR #6",
-   "link": "https://www.youtube.com/watch?v=e4MOlEkhvHY",
-   "date": "2026-11-01T16:00:16Z",
-   "source": "At0mium",
-   "category": "Découverte & avis",
-   "video": "e4MOlEkhvHY",
-   "image": "https://i.ytimg.com/vi/e4MOlEkhvHY/hq720.jpg",
-   "duration": 3323,
-   "views": 17334
-  },
-  {
    "title": "STOP GTA ! Joue plutôt à ÇA en NOVEMBRE 2026 | #WISHLIST",
    "link": "https://www.youtube.com/watch?v=ij_rZT03Kns",
    "date": "2026-11-01T09:37:17Z",
@@ -183,7 +173,7 @@
    "video": "ij_rZT03Kns",
    "image": "https://i.ytimg.com/vi/ij_rZT03Kns/hq720.jpg",
    "duration": 1083,
-   "views": 24274
+   "views": 24300
   },
   {
    "title": "Candidat au GOTY ? Nos avis sur Virtue and a Sledgegammer, Silver Pines et Endless Legend 2",
@@ -194,51 +184,7 @@
    "video": "YV9lxVayFWA",
    "image": "https://i.ytimg.com/vi/YV9lxVayFWA/hq720.jpg",
    "duration": 7496,
-   "views": 21363
-  },
-  {
-   "title": "DUEL CONTRE LE MASQUE D'OR | Phantom Blade Zero - LET'S PLAY FR #4",
-   "link": "https://www.youtube.com/watch?v=R1VjTOuEtDs",
-   "date": "2026-11-01T07:31:53Z",
-   "source": "At0mium",
-   "category": "Découverte & avis",
-   "video": "R1VjTOuEtDs",
-   "image": "https://i.ytimg.com/vi/R1VjTOuEtDs/hq720.jpg",
-   "duration": 3304,
-   "views": 27888
-  },
-  {
-   "title": "Ce RPG a compris FROM SOFTWARE (Queen's Domain)",
-   "link": "https://www.youtube.com/watch?v=P9rhlfDiztw",
-   "date": "2026-10-31T17:00:25Z",
-   "source": "At0mium",
-   "category": "Découverte & avis",
-   "video": "P9rhlfDiztw",
-   "image": "https://i.ytimg.com/vi/P9rhlfDiztw/hq720.jpg",
-   "duration": 4745,
-   "views": 48968
-  },
-  {
-   "title": "QUE LE SPECTACLE COMMENCE | Phantom Blade Zero - LET'S PLAY FR #3",
-   "link": "https://www.youtube.com/watch?v=7yvKiYnDOhY",
-   "date": "2026-10-31T08:00:16Z",
-   "source": "At0mium",
-   "category": "Découverte & avis",
-   "video": "7yvKiYnDOhY",
-   "image": "https://i.ytimg.com/vi/7yvKiYnDOhY/hq720.jpg",
-   "duration": 3312,
-   "views": 25392
-  },
-  {
-   "title": "DÉJÀ UN BOSS QUI RÉGALE | Phantom Blade Zero - LET'S PLAY FR #2",
-   "link": "https://www.youtube.com/watch?v=8X5QT9Kae9o",
-   "date": "2026-10-30T08:39:34Z",
-   "source": "At0mium",
-   "category": "Découverte & avis",
-   "video": "8X5QT9Kae9o",
-   "image": "https://i.ytimg.com/vi/8X5QT9Kae9o/hq720.jpg",
-   "duration": 5330,
-   "views": 37640
+   "views": 21369
   },
   {
    "title": "Découverte de Phantom Blade Zero : ça à l'air pas mal du tout (Mode Difficile)",
@@ -249,7 +195,7 @@
    "video": "ciWic6E5Y1s",
    "image": "https://i.ytimg.com/vi/ciWic6E5Y1s/hq720.jpg",
    "duration": 6753,
-   "views": 19276
+   "views": 19293
   },
   {
    "title": "EA sacrifie BioWare : fermeture d'un studio de légende",
@@ -271,7 +217,7 @@
    "video": "aWUITDJpxe0",
    "image": "https://i.ytimg.com/vi/aWUITDJpxe0/hq720.jpg",
    "duration": 11121,
-   "views": 36387
+   "views": 36397
   },
   {
    "title": "Retour aux sources pour Final Fantasy ? On a testé FF Resonance.",
@@ -282,7 +228,7 @@
    "video": "cvgCO6JOH-g",
    "image": "https://i.ytimg.com/vi/cvgCO6JOH-g/hq720.jpg",
    "duration": 6422,
-   "views": 26557
+   "views": 26565
   },
   {
    "title": "VALOR MORTIS | Chapitre FINAL : La Prison & les Deux derniers Boss !",
@@ -293,7 +239,7 @@
    "video": "qlu8mw_0HFE",
    "image": "https://i.ytimg.com/vi/qlu8mw_0HFE/hq720.jpg",
    "duration": 5152,
-   "views": 9096
+   "views": 9093
   },
   {
    "title": "VALOR MORTIS | Chapitre 10 : La Forteresse & conclusion Quête des Assermentés",
@@ -348,7 +294,7 @@
    "video": "2U5jU9TblFM",
    "image": "https://i.ytimg.com/vi/2U5jU9TblFM/hq720.jpg",
    "duration": 6513,
-   "views": 7768
+   "views": 7767
   },
   {
    "title": "RESONANCE est l'œuvre somme de FINAL FANTASY !",
@@ -359,7 +305,7 @@
    "video": "Ypn58CkxgPo",
    "image": "https://i.ytimg.com/vi/Ypn58CkxgPo/hq720.jpg",
    "duration": 1143,
-   "views": 26845
+   "views": 26832
   },
   {
    "title": "VALOR MORTIS | Chapitre 8 : La Ville des Orphelins & les Égouts",
@@ -381,7 +327,7 @@
    "video": "bx2EtWDmR1o",
    "image": "https://i.ytimg.com/vi/bx2EtWDmR1o/hq720.jpg",
    "duration": 4462,
-   "views": 8527
+   "views": 8528
   },
   {
    "title": "Un grand cru Castlevania ? On a testé Belmont's Curse !",
@@ -392,7 +338,7 @@
    "video": "F3N51CiSaM4",
    "image": "https://i.ytimg.com/vi/F3N51CiSaM4/hq720.jpg",
    "duration": 6200,
-   "views": 30594
+   "views": 30595
   },
   {
    "title": "VALOR MORTIS | Chapitre 6 : Le Vallon Maudit & Boss Anna la Mariée",
@@ -403,7 +349,7 @@
    "video": "_WaxV_OUNVw",
    "image": "https://i.ytimg.com/vi/_WaxV_OUNVw/hq720.jpg",
    "duration": 6463,
-   "views": 9472
+   "views": 9473
   },
   {
    "title": "VALOR MORTIS | Chapitre 5 : La Vallée de la Colère avec un Boss Surprenant !",
@@ -414,7 +360,7 @@
    "video": "bKAUQY0z_tU",
    "image": "https://i.ytimg.com/vi/bKAUQY0z_tU/hq720.jpg",
    "duration": 7550,
-   "views": 11109
+   "views": 11107
   },
   {
    "title": "Créer des jeux quand le monde brûle ?",
@@ -428,61 +374,6 @@
    "views": 12515
   },
   {
-   "title": "VALOR MORTIS | Chapitre 4 : Les Cavernes & un très bon Boss !",
-   "link": "https://www.youtube.com/watch?v=Oh8p5olBsFw",
-   "date": "2026-10-15T15:00:20Z",
-   "source": "Playmoo",
-   "category": "Découverte & avis",
-   "video": "Oh8p5olBsFw",
-   "image": "https://i.ytimg.com/vi/Oh8p5olBsFw/hq720.jpg",
-   "duration": 6296,
-   "views": 12530
-  },
-  {
-   "title": "VALOR MORTIS | Chapitre 3 : Le Bourg Occupé, il faut sauver Louis Moreau !",
-   "link": "https://www.youtube.com/watch?v=qC7yyGP7ZcA",
-   "date": "2026-10-14T15:00:44Z",
-   "source": "Playmoo",
-   "category": "Découverte & avis",
-   "video": "qC7yyGP7ZcA",
-   "image": "https://i.ytimg.com/vi/qC7yyGP7ZcA/hq720.jpg",
-   "duration": 5635,
-   "views": 13444
-  },
-  {
-   "title": "Epic Games mise tout sur l'IA générative",
-   "link": "https://www.youtube.com/watch?v=T2JpiDV9ixA",
-   "date": "2026-10-14T12:46:43Z",
-   "source": "Origami",
-   "category": "Découverte & avis",
-   "video": "T2JpiDV9ixA",
-   "image": "https://i.ytimg.com/vi/T2JpiDV9ixA/hq720.jpg",
-   "duration": 1269,
-   "views": 25205
-  },
-  {
-   "title": "VALOR MORTIS | Chapitre 1 & 2 : Le Champ de Bataille, La Vallée des Cendres & Boss Général Lothaire",
-   "link": "https://www.youtube.com/watch?v=s4N8qi5iwdE",
-   "date": "2026-10-13T17:00:28Z",
-   "source": "Playmoo",
-   "category": "Découverte & avis",
-   "video": "s4N8qi5iwdE",
-   "image": "https://i.ytimg.com/vi/s4N8qi5iwdE/hq720.jpg",
-   "duration": 7300,
-   "views": 32905
-  },
-  {
-   "title": "J'ai adoré VALOR MORTIS, un très bon 1er Souls Like avec les habituels défauts de jeunesse (TEST PC)",
-   "link": "https://www.youtube.com/watch?v=B2qOdFaz7r8",
-   "date": "2026-10-12T13:36:05Z",
-   "source": "Playmoo",
-   "category": "Découverte & avis",
-   "video": "B2qOdFaz7r8",
-   "image": "https://i.ytimg.com/vi/B2qOdFaz7r8/hq720.jpg",
-   "duration": 971,
-   "views": 70656
-  },
-  {
    "title": "VALOR MORTIS est un Souls-Like UNIQUE en son genre !",
    "link": "https://www.youtube.com/watch?v=32icze8rd0Q",
    "date": "2026-10-12T13:31:25Z",
@@ -491,18 +382,7 @@
    "video": "32icze8rd0Q",
    "image": "https://i.ytimg.com/vi/32icze8rd0Q/hq720.jpg",
    "duration": 1056,
-   "views": 45815
-  },
-  {
-   "title": "Grosse année pour les jeux Star Wars ? 💌 L'HEBDO",
-   "link": "https://www.youtube.com/watch?v=eLjK7ThaioM",
-   "date": "2026-10-11T07:24:10Z",
-   "source": "Origami",
-   "category": "Découverte & avis",
-   "video": "eLjK7ThaioM",
-   "image": "https://i.ytimg.com/vi/eLjK7ThaioM/hq720.jpg",
-   "duration": 7915,
-   "views": 29754
+   "views": 45819
   },
   {
    "title": "DRAGON'S DOGMA 2 Dark Arisen mérite tout votre AMOUR !",
@@ -513,51 +393,7 @@
    "video": "GAb2HD9FhaY",
    "image": "https://i.ytimg.com/vi/GAb2HD9FhaY/hq720.jpg",
    "duration": 1198,
-   "views": 36625
-  },
-  {
-   "title": "Les jeux vidéo appartiennent aux fangirls",
-   "link": "https://www.youtube.com/watch?v=WkkNZ5XClrs",
-   "date": "2026-10-08T08:00:00Z",
-   "source": "Origami",
-   "category": "Découverte & avis",
-   "video": "WkkNZ5XClrs",
-   "image": "https://i.ytimg.com/vi/WkkNZ5XClrs/hq720.jpg",
-   "duration": 5729,
-   "views": 11034
-  },
-  {
-   "title": "TROP de jeux vidéo ! 🎮️🎮️🎮️ Jouez plutôt à ÇA en octobre 2026 | #WISHLIST",
-   "link": "https://www.youtube.com/watch?v=yGOmr0CNcEw",
-   "date": "2026-10-07T15:45:18Z",
-   "source": "Origami",
-   "category": "Découverte & avis",
-   "video": "yGOmr0CNcEw",
-   "image": "https://i.ytimg.com/vi/yGOmr0CNcEw/hq720.jpg",
-   "duration": 1291,
-   "views": 27335
-  },
-  {
-   "title": "Ninja Theory licencie et enterre Senua",
-   "link": "https://www.youtube.com/watch?v=9dU1xVrMyyk",
-   "date": "2026-10-07T13:15:53Z",
-   "source": "Origami",
-   "category": "Découverte & avis",
-   "video": "9dU1xVrMyyk",
-   "image": "https://i.ytimg.com/vi/9dU1xVrMyyk/hq720.jpg",
-   "duration": 1478,
-   "views": 18354
-  },
-  {
-   "title": "GUNS of ESCHATON, un Souls Like FPS au concept très cool mais à la mise en pratique compliquée !",
-   "link": "https://www.youtube.com/watch?v=wk3T5PgMEHc",
-   "date": "2026-10-05T11:54:52Z",
-   "source": "Playmoo",
-   "category": "Découverte & avis",
-   "video": "wk3T5PgMEHc",
-   "image": "https://i.ytimg.com/vi/wk3T5PgMEHc/hq720.jpg",
-   "duration": 6114,
-   "views": 26651
+   "views": 36627
   },
   {
    "title": "ACE COMBAT 8 est une addiction, mais j'en attendais BIEN plus...",
@@ -568,7 +404,7 @@
    "video": "XI0jf-9qI3I",
    "image": "https://i.ytimg.com/vi/XI0jf-9qI3I/hq720.jpg",
    "duration": 1161,
-   "views": 16733
+   "views": 16730
   },
   {
    "title": "L'HISTOIRE de CONTROL • Analyse et explications",
@@ -579,7 +415,7 @@
    "video": "XGVP42-Xt_g",
    "image": "https://i.ytimg.com/vi/XGVP42-Xt_g/hq720.jpg",
    "duration": 4114,
-   "views": 62208
+   "views": 62211
   },
   {
    "title": "Le jeu le plus BRILLANT de l'année",
@@ -634,62 +470,8 @@
    "video": "5SqebwyVtcs",
    "image": "https://i.ytimg.com/vi/5SqebwyVtcs/hq720.jpg",
    "duration": 1315,
-   "views": 46825
-  },
-  {
-   "title": "L'HISTOIRE complexe de SAROS • Analyse & Explications",
-   "link": "https://www.youtube.com/watch?v=hm7Htw6zJlU",
-   "date": "2026-06-21T16:00:52Z",
-   "source": "Loudic",
-   "category": "Découverte & avis",
-   "video": "hm7Htw6zJlU",
-   "image": "https://i.ytimg.com/vi/hm7Htw6zJlU/hq720.jpg",
-   "duration": 5720,
-   "views": 16989
-  },
-  {
-   "title": "Pourquoi les SOULS-LIKE sont-ils si mal notés ?",
-   "link": "https://www.youtube.com/watch?v=BiD1YA6QemI",
-   "date": "2026-05-05T16:31:36Z",
-   "source": "Loudic",
-   "category": "Découverte & avis",
-   "video": "BiD1YA6QemI",
-   "image": "https://i.ytimg.com/vi/BiD1YA6QemI/hq720.jpg",
-   "duration": 1963,
-   "views": 21822
-  },
-  {
-   "title": "PRAGMATA livre ce qu'on attend de lui, et même un peu plus !",
-   "link": "https://www.youtube.com/watch?v=IGIVKukDwJM",
-   "date": "2026-04-13T15:00:36Z",
-   "source": "Loudic",
-   "category": "Découverte & avis",
-   "video": "IGIVKukDwJM",
-   "image": "https://i.ytimg.com/vi/IGIVKukDwJM/hq720.jpg",
-   "duration": 733,
-   "views": 4778
-  },
-  {
-   "title": "MORTAL SHELL 2 a juste l'air INCROYABLE !",
-   "link": "https://www.youtube.com/watch?v=LA2qr1uOcU4",
-   "date": "2026-04-06T16:00:34Z",
-   "source": "Loudic",
-   "category": "Découverte & avis",
-   "video": "LA2qr1uOcU4",
-   "image": "https://i.ytimg.com/vi/LA2qr1uOcU4/hq720.jpg",
-   "duration": 893,
-   "views": 7757
-  },
-  {
-   "title": "ELDEN RING • Le Podcast l'Intégrale avec @ALT236 , @1TLAU et @outerheavenFR",
-   "link": "https://www.youtube.com/watch?v=-feQeCEfIXo",
-   "date": "2026-03-16T17:01:19Z",
-   "source": "Loudic",
-   "category": "Découverte & avis",
-   "video": "-feQeCEfIXo",
-   "image": "https://i.ytimg.com/vi/-feQeCEfIXo/hq720.jpg",
-   "duration": 6447,
-   "views": 19277
+   "views": 46821
   }
- ]
+ ],
+ "news": []
 }
