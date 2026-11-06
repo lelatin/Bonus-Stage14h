@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T15:59:50+00:00",
+ "updated": "2026-11-06T16:01:09+00:00",
  "sources": [
   {
    "name": "Loudic",
@@ -30,7 +30,16 @@
    "url": "https://www.youtube.com/@Origatube"
   }
  ],
- "news_sources": [],
+ "news_sources": [
+  {
+   "name": "Xboxygen",
+   "url": "https://www.xboxygen.com/"
+  },
+  {
+   "name": "ActuGaming",
+   "url": "https://www.actugaming.net/"
+  }
+ ],
  "articles": [
   {
    "title": "LE CRAQUAGE DE BOUT EN BOUT | The Legend of Zelda Ocarina of Time - LET'S PLAY FR #3",
@@ -151,7 +160,7 @@
    "video": "Ts8NjP1v_aU",
    "image": "https://i.ytimg.com/vi/Ts8NjP1v_aU/hq720.jpg",
    "duration": 3994,
-   "views": 24042
+   "views": 24036
   },
   {
    "title": "Un message pour vous",
@@ -228,7 +237,7 @@
    "video": "cvgCO6JOH-g",
    "image": "https://i.ytimg.com/vi/cvgCO6JOH-g/hq720.jpg",
    "duration": 6422,
-   "views": 26565
+   "views": 26566
   },
   {
    "title": "VALOR MORTIS | Chapitre FINAL : La Prison & les Deux derniers Boss !",
@@ -261,7 +270,7 @@
    "video": "LhTAKHoyq7c",
    "image": "https://i.ytimg.com/vi/LhTAKHoyq7c/hq720.jpg",
    "duration": 6436,
-   "views": 9928
+   "views": 9951
   },
   {
    "title": "Découverte de ReBlade The Death Spiral : Quand Hades rencontre Stellar Blade !",
@@ -382,7 +391,7 @@
    "video": "32icze8rd0Q",
    "image": "https://i.ytimg.com/vi/32icze8rd0Q/hq720.jpg",
    "duration": 1056,
-   "views": 45819
+   "views": 45815
   },
   {
    "title": "DRAGON'S DOGMA 2 Dark Arisen mérite tout votre AMOUR !",
@@ -393,7 +402,7 @@
    "video": "GAb2HD9FhaY",
    "image": "https://i.ytimg.com/vi/GAb2HD9FhaY/hq720.jpg",
    "duration": 1198,
-   "views": 36627
+   "views": 36625
   },
   {
    "title": "ACE COMBAT 8 est une addiction, mais j'en attendais BIEN plus...",
@@ -404,7 +413,7 @@
    "video": "XI0jf-9qI3I",
    "image": "https://i.ytimg.com/vi/XI0jf-9qI3I/hq720.jpg",
    "duration": 1161,
-   "views": 16730
+   "views": 16733
   },
   {
    "title": "L'HISTOIRE de CONTROL • Analyse et explications",
@@ -415,7 +424,7 @@
    "video": "XGVP42-Xt_g",
    "image": "https://i.ytimg.com/vi/XGVP42-Xt_g/hq720.jpg",
    "duration": 4114,
-   "views": 62211
+   "views": 62208
   },
   {
    "title": "Le jeu le plus BRILLANT de l'année",
@@ -470,8 +479,184 @@
    "video": "5SqebwyVtcs",
    "image": "https://i.ytimg.com/vi/5SqebwyVtcs/hq720.jpg",
    "duration": 1315,
-   "views": 46821
+   "views": 46825
   }
  ],
- "news": []
+ "news": [
+  {
+   "title": "Saison 22 de Sea of Thieves : un nouveau mode, une mécanique supprimée et des malédictions inédites",
+   "link": "https://www.xboxygen.com/News/373323-saison-22-de-sea-of-thieves-un-nouveau-mode-une-mecanique-supprimee-et-des-maledictions-inedites",
+   "date": "2026-11-06T14:42:44+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2025/10/Sea-of-Thieves-bateau.jpg"
+  },
+  {
+   "title": "PlayStation Plus : Sony propose désormais des avantages sur d’autres services, à l’image du Xbox Game Pass",
+   "link": "https://www.xboxygen.com/News/373317-playstation-plus-sony-propose-desormais-des-avantages-sur-dautres-services-a-limage-du-xbox-game-pass",
+   "date": "2026-11-06T14:11:48+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2025/08/playstation-plus-xbox.jpg"
+  },
+  {
+   "title": "Black Friday 2026 : la Commande TV Xboxygen est lancée, LG, Samsung, Sony, TCL, Philips… à prix cassés",
+   "link": "https://www.xboxygen.com/News/black-friday-2026-commande-groupee-tv-xboxygen",
+   "date": "2026-11-06T11:15:39+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/05/commande-groupee-tv-2026-xboxygen.jpg"
+  },
+  {
+   "title": "Test – Razer Wolverine V4 Pro – Une manette qui gagne en maturité",
+   "link": "https://www.xboxygen.com/Tests/373275-test-razer-wolverine-v4-pro-une-manette-qui-gagne-en-maturite",
+   "date": "2026-11-06T11:00:00+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/Test-Razer-Wolverine-V4-Pro.jpg"
+  },
+  {
+   "title": "Le Xbox Cloud Gaming s’améliore avec deux nouveautés : le téléphone-manette et le Wi‑Fi direct",
+   "link": "https://www.xboxygen.com/News/373268-le-xbox-cloud-gaming-sameliore-avec-deux-nouveautes-le-telephone-manette-et-le-wi-fi-direct",
+   "date": "2026-11-06T09:59:44+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2024/02/xbox_cloud_gaming_-_pc_streaming_1_.jpg"
+  },
+  {
+   "title": "World of Warcraft: Forever réussit son lancement avec des serveurs solides et un gros pic sur Twitch",
+   "link": "https://www.xboxygen.com/News/373262-world-of-warcraft-forever-reussit-son-lancement-avec-des-serveurs-solides-et-un-gros-pic-sur-twitch",
+   "date": "2026-11-06T09:12:24+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/09/World-of-Warcraft-Forever.jpg"
+  },
+  {
+   "title": "Call of Duty MW4 et Warzone : la Saison 1 est disponible, voici toutes les nouveautés et les patch notes",
+   "link": "https://www.xboxygen.com/News/373252-call-of-duty-mw4-et-warzone-la-saison-1-est-disponible-voici-toutes-les-nouveautes-et-les-patch-notes",
+   "date": "2026-11-06T08:40:22+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/10/Call-of-Duty-Modern-Warfare-4-Saison-1-1.jpg"
+  },
+  {
+   "title": "8 jeux Xbox sont gratuits ce week-end pour les Free Play Days, dont Crime Boss: Rockay City",
+   "link": "https://www.xboxygen.com/News/8-jeux-xbox-sont-gratuits-ce-week-end-pour-les-free-play-days-dont-crime-boss-rockay-city",
+   "date": "2026-11-06T08:37:02+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2023/06/motoff4286.jpg"
+  },
+  {
+   "title": "Sauver Mass Effect coûterait plus de 200 millions de dollars : un cofondateur de BioWare prévient les fans",
+   "link": "https://www.xboxygen.com/News/373249-sauver-mass-effect-couterait-plus-de-200-millions-de-dollars-un-cofondateur-de-bioware-previent-les-fans",
+   "date": "2026-11-06T08:09:29+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2025/11/mass-effect-krogan-civil-war.jpg"
+  },
+  {
+   "title": "Votre prochain PC gaming pourrait coûter 30 € de plus en France à cause de la taxe copie privée",
+   "link": "https://www.xboxygen.com/News/373245-votre-prochain-pc-gaming-pourrait-couter-30-e-de-plus-en-france-a-cause-de-la-taxe-copie-privee",
+   "date": "2026-11-06T07:49:46+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/pc-gaming-taxe.jpg"
+  },
+  {
+   "title": "Test – The Wolf Among Us Remastered – Fableville se refait une beauté",
+   "link": "https://www.xboxygen.com/Tests/372890-test-the-wolf-among-us-remastered-fableville-se-refait-une-beaute",
+   "date": "2026-11-06T07:00:00+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/the-wolf-among-us-remastered-pc-steam-cover.jpg"
+  },
+  {
+   "title": "Xbox accélère enfin son application PC : jusqu’à 60 % plus rapide et plusieurs grosses nouveautés",
+   "link": "https://www.xboxygen.com/News/373230-xbox-accelere-enfin-son-application-pc-jusqua-60-plus-rapide-et-plusieurs-grosses-nouveautes",
+   "date": "2026-11-05T17:57:52+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/xbox-nouvelle-interface-pc-2.jpg"
+  },
+  {
+   "title": "007 First Light gratuit : IO Interactive offre le début de l’aventure de James Bond",
+   "link": "https://www.xboxygen.com/News/007-first-light-gratuit-io-interactive-offre-le-debut-de-laventure-de-james-bond",
+   "date": "2026-11-05T16:42:51+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/10/007-First-Light.jpg"
+  },
+  {
+   "title": "Stardew Valley 1.7 pourrait être la plus grande mise à jour jamais réalisée, avec une sortie envisagée en 2027",
+   "link": "https://www.xboxygen.com/News/373221-stardew-valley-1-7-pourrait-etre-la-plus-grande-mise-a-jour-jamais-realisee-avec-une-sortie-envisagee-en-2027",
+   "date": "2026-11-05T16:15:25+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2024/11/stardew_valley-2.jpg"
+  },
+  {
+   "title": "GTA 6 : 39 nouvelles images magnifiques pour patienter jusqu’au lancement",
+   "link": "https://www.xboxygen.com/News/373175-gta-6-39-nouvelles-images-magnifiques-pour-patienter-jusquau-lancement",
+   "date": "2026-11-05T15:24:09+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/GTA-6-Jason-musculation.jpg"
+  },
+  {
+   "title": "GTA 6 : Obbe Vermeij, ex-directeur technique chez Rockstar North, pense que le jeu arrivera rapidement sur PC à cause de l’IA générative",
+   "link": "https://www.actugaming.net/gta-6-obbe-vermeij-ex-directeur-technique-rockstar-north-sortie-pc-ia-generative-832693/",
+   "date": "2026-11-06T15:47:41+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/11/GTA-6-11.jpeg"
+  },
+  {
+   "title": "Ratchet & Clank: Ranger Rumble, free-to-play sorti sur mobiles, fermera dès le 1er mai 2027",
+   "link": "https://www.actugaming.net/ratchet-clank-ranger-rumble-free-to-play-mobiles-fermera-1er-mai-2027-832715/",
+   "date": "2026-11-06T15:30:48+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/07/Ratchet-Clank-Ranger-Rumble.jpg"
+  },
+  {
+   "title": "Si Bloodborne 2 n’a toujours pas vu le jour, c’est surtout à cause d’une question de droits partagés selon Shawn Layden",
+   "link": "https://www.actugaming.net/si-bloodborne-2-na-toujours-pas-vu-le-jour-cest-surtout-a-cause-dune-question-de-droits-partages-selon-shawn-layden-832706/",
+   "date": "2026-11-06T15:15:06+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2016/03/bloodborne1.jpg"
+  },
+  {
+   "title": "Acornia: Mirror Worlds révèle au cours d’un trailer de gameplay inédit qu’il servira ses pâtisseries au printemps 2027",
+   "link": "https://www.actugaming.net/acornia-mirror-worlds-gameplay-inedit-servira-ses-patisseries-printemps-2027-832697/",
+   "date": "2026-11-06T15:00:37+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/08/acornia-mirror-worlds-key-art-no-logo-scaled.jpg"
+  },
+  {
+   "title": "Prime Gaming : Voici les jeux ajoutés au service, Mixtape et Kingdom Come Deliverance arrivent aussi sur Luna",
+   "link": "https://www.actugaming.net/prime-gaming-voici-les-jeux-ajoutes-au-service-mixtape-et-kingdom-come-deliverance-arrivent-aussi-sur-luna-832696/",
+   "date": "2026-11-06T14:45:13+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/05/kingdom-come-deliverance-2.webp"
+  },
+  {
+   "title": "Bethesda va mettre du temps à sortir The Elder Scrolls VI: Sentinel, mais il se presse déjà pour sortir des produits dérivés",
+   "link": "https://www.actugaming.net/bethesda-va-mettre-du-temps-a-sortir-the-elder-scrolls-vi-sentinel-mais-il-se-presse-deja-pour-sortir-des-produits-derives-832689/",
+   "date": "2026-11-06T14:30:45+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/11/the-elder-scrolls-vi-sentinel.jpg"
+  },
+  {
+   "title": "Sony annonce les PlayStation Perks, des avantages supplémentaires mais timides pour les abonnés PS Plus",
+   "link": "https://www.actugaming.net/sony-annonce-playstation-perks-avantages-supplementaires-abonnes-ps-plus-832654/",
+   "date": "2026-11-06T14:00:36+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2022/03/ps-plus.jpg"
+  },
+  {
+   "title": "Selon Eiji Aonuma, si Nintendo vire peu de gens, c’est parce qu’il est plus simple de travailler avec les mêmes personnes",
+   "link": "https://www.actugaming.net/selon-eiji-aonuma-si-nintendo-vire-peu-de-gens-cest-parce-quil-est-plus-simple-de-travailler-avec-les-memes-personnes-832686/",
+   "date": "2026-11-06T13:53:05+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/10/zelda-ocarina-of-time-remake-preview-14.jpg"
+  },
+  {
+   "title": "Test Toy Story 3 Complete Edition – Un remaster sympathique qui sent un peu le renfermé",
+   "link": "https://www.actugaming.net/test-toy-story-3-complete-edition-review-830977/",
+   "date": "2026-11-06T12:00:50+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/06/Toy-Story-3-Complete-Edition_2026_06-02-26_009-1920x2400.jpg-1.jpeg"
+  },
+  {
+   "title": "EA a l’extrême audace de fêter le N7 Day avec des nouveaux goodies alors qu’il vient de tuer la licence Mass Effect",
+   "link": "https://www.actugaming.net/ea-a-lextreme-audace-de-feter-le-n7-day-avec-des-nouveaux-goodies-alors-quil-vient-de-tuer-la-licence-mass-effect-832643/",
+   "date": "2026-11-06T09:35:57+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/10/mass-effect-universe.jpg"
+  }
+ ]
 }
