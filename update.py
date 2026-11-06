@@ -5,17 +5,18 @@ Deux méthodes :
   1. l'API officielle YouTube Data v3 (fiable depuis GitHub Actions), si la variable YOUTUBE_API_KEY est définie ;
   2. à défaut, les flux RSS de YouTube (gratuits, mais souvent bloqués ou instables depuis les serveurs GitHub).
 Aucune dépendance externe."""
-import json, os, re, time, urllib.error, urllib.parse, urllib.request
+import email.utils, html, json, os, re, time, urllib.error, urllib.parse, urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
       "Accept-Language": "fr-FR,fr;q=0.9", "Cookie": "CONSENT=YES+1; SOCS=CAI"}
 API_KEY = os.environ.get("YOUTUBE_API_KEY", "").strip()
-PER_SOURCE = 15     # vidéos gardées par chaîne (modifiable par chaîne avec "count" dans sources.json)
-MAX_TOTAL = 60      # nombre total de vidéos écrites dans data.json
+PER_SOURCE = 10     # vidéos gardées par chaîne (modifiable par chaîne avec "count" dans sources.json)
+MAX_TOTAL = 40      # nombre total de vidéos écrites dans data.json
+NEWS_PER_SITE = 15  # articles gardés par site d'actualités (news_sources.json)
 MIN_SECONDS = 180   # sous cette durée, on considère que c'est un Short (appliqué seulement si la playlist « sans Shorts » est indisponible)
-NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015", "m": "http://search.yahoo.com/mrss/"}
+NS = {"c": "http://purl.org/rss/1.0/modules/content/", "a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015", "m": "http://search.yahoo.com/mrss/"}
 
 
 def get(url, tries=3):
@@ -141,6 +142,88 @@ def resolve(handle):
     raise ValueError("identifiant introuvable pour @" + handle)
 
 
+# ---------- actualités (flux RSS / Atom des sites) ----------
+def clean(t):
+    return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", "", t or ""))).strip()
+
+
+def iso(s):
+    s = (s or "").strip()
+    try:
+        d = email.utils.parsedate_to_datetime(s)
+    except Exception:
+        try:
+            d = datetime.fromisoformat(s.replace("Z", "+00:00"))
+        except Exception:
+            return ""
+    if d.tzinfo is None:
+        d = d.replace(tzinfo=timezone.utc)
+    return d.astimezone(timezone.utc).isoformat(timespec="seconds")
+
+
+def parse_news(root, src):
+    out = []
+    for e in root.findall(".//item") or root.findall(".//a:entry", NS):
+        title = clean(e.findtext("title") or e.findtext("a:title", namespaces=NS))
+        link = (e.findtext("link") or "").strip()
+        if not link:
+            l = e.find("a:link", NS)
+            link = l.get("href", "") if l is not None else ""
+        date = iso(e.findtext("pubDate") or e.findtext("a:published", namespaces=NS) or e.findtext("a:updated", namespaces=NS)
+                   or e.findtext("{http://purl.org/dc/elements/1.1/}date"))
+        image = ""
+        for tag in ("m:content", "m:thumbnail", "m:group/m:content"):
+            x = e.find(tag, NS)
+            if x is not None and x.get("url"):
+                image = x.get("url"); break
+        if not image:
+            enc = e.find("enclosure")
+            if enc is not None and enc.get("url") and "image" in (enc.get("type") or "image"):
+                image = enc.get("url")
+        if not image:
+            m = re.search(r'<img[^>]+src=["\']([^"\']+)', (e.findtext("c:encoded", namespaces=NS) or "") + (e.findtext("description") or ""))
+            image = m.group(1) if m else ""
+        if title and link:
+            out.append({"title": title, "link": link, "date": date, "source": src["name"], "image": image})
+    out.sort(key=lambda a: a["date"] or "", reverse=True)
+    return out
+
+
+def discover(url):
+    """Cherche les flux annoncés dans le <head> de la page d'accueil."""
+    page = get(url).decode("utf-8", "replace")
+    found = []
+    for tag in re.findall(r"<link[^>]+>", page, re.I):
+        if re.search(r"(rss|atom)\+xml", tag, re.I):
+            m = re.search(r'href=["\']([^"\']+)', tag)
+            if m:
+                found.append(urllib.parse.urljoin(url, html.unescape(m.group(1))))
+    return found
+
+
+def read_news(src):
+    errors, tried = [], set()
+    candidates = list(src.get("feeds", []))
+    for step in range(2):
+        for u in candidates:
+            if u in tried:
+                continue
+            tried.add(u)
+            try:
+                items = parse_news(ET.fromstring(get(u, tries=2)), src)
+            except Exception as ex:
+                errors.append("%s → %s" % (u, ex)); continue
+            if items:
+                return items[: src.get("count", NEWS_PER_SITE)]
+            errors.append(u + " → flux vide")
+        if step == 0:
+            try:
+                candidates = discover(src["url"])  # 2e tour : flux trouvés automatiquement
+            except Exception as ex:
+                errors.append("découverte → %s" % ex); break
+    raise RuntimeError(" ; ".join(errors))
+
+
 def main():
     sources, old = load("sources.json", []), load("data.json", {})
     ids = {s["name"]: s.get("channel_id") for s in old.get("sources", [])}
@@ -171,7 +254,18 @@ def main():
     for a in sorted(articles, key=lambda a: a["date"] or "", reverse=True):
         if a["video"] not in seen:
             seen.add(a["video"]); uniq.append(a)
-    data = {"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "sources": meta, "articles": uniq[:MAX_TOTAL]}
+    news, nmeta = [], []
+    for src in load("news_sources.json", []):
+        try:
+            items = read_news(src)
+            print("OK  ", src["name"], len(items), "articles")
+        except Exception as ex:
+            print("ERR ", src["name"], "→", ex)
+            items = [a for a in old.get("news", []) if a.get("source") == src["name"]]  # on garde l'ancien contenu
+        news += items
+        nmeta.append({"name": src["name"], "url": src["url"]})
+    data = {"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "sources": meta, "news_sources": nmeta,
+            "articles": uniq[:MAX_TOTAL], "news": news}
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
     print("Résultat :", ok, "chaîne(s) lue(s) sur", len(sources), "—", len(data["articles"]), "vidéos")
