@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T02:08:59+00:00",
+ "updated": "2026-11-08T09:22:43+00:00",
  "sources": [
   {
    "name": "Loudic",
@@ -42,6 +42,28 @@
  ],
  "articles": [
   {
+   "title": "L'HEBDO 💌 WoW Forever, Phantom Blade Zero et Forever Ago",
+   "link": "https://www.youtube.com/watch?v=2UvuTx2k0x4",
+   "date": "2026-11-08T08:45:17Z",
+   "source": "Origami",
+   "category": "Découverte & avis",
+   "video": "2UvuTx2k0x4",
+   "image": "https://i.ytimg.com/vi/2UvuTx2k0x4/hq720.jpg",
+   "duration": 7394,
+   "views": 664
+  },
+  {
+   "title": "LES MEILLEURS BOSS POUR LA FIN (et de loin) | Mortal Shell 2 - LET'S PLAY FR #13",
+   "link": "https://www.youtube.com/watch?v=lmKFBe6_16w",
+   "date": "2026-11-08T07:00:00Z",
+   "source": "At0mium",
+   "category": "Découverte & avis",
+   "video": "lmKFBe6_16w",
+   "image": "https://i.ytimg.com/vi/lmKFBe6_16w/hq720.jpg",
+   "duration": 5511,
+   "views": 632
+  },
+  {
    "title": "ON ENCHAINE LES BOSS | Phantom Blade Zero - LET'S PLAY FR #9",
    "link": "https://www.youtube.com/watch?v=luPVasJmN8A",
    "date": "2026-11-07T16:19:04Z",
@@ -50,7 +72,7 @@
    "video": "luPVasJmN8A",
    "image": "https://i.ytimg.com/vi/luPVasJmN8A/hq720.jpg",
    "duration": 5844,
-   "views": 7637
+   "views": 9104
   },
   {
    "title": "LA CARTOUCHE DE BONHEUR | The Legend of Zelda Ocarina of Time - LET'S PLAY FR #4",
@@ -61,7 +83,7 @@
    "video": "yBEof6oTSs8",
    "image": "https://i.ytimg.com/vi/yBEof6oTSs8/hq720.jpg",
    "duration": 5172,
-   "views": 17567
+   "views": 18939
   },
   {
    "title": "ELLE VOULAIT NOUS DÉTRUIRE | Phantom Blade Zero - LET'S PLAY FR #8",
@@ -72,7 +94,7 @@
    "video": "aRoaTYNWl8I",
    "image": "https://i.ytimg.com/vi/aRoaTYNWl8I/hq720.jpg",
    "duration": 6016,
-   "views": 13459
+   "views": 13884
   },
   {
    "title": "LA SURPRISE DU CHEF | The Legend of Zelda Ocarina of Time - LET'S PLAY FR #3",
@@ -83,7 +105,7 @@
    "video": "2K27Va5C-lc",
    "image": "https://i.ytimg.com/vi/2K27Va5C-lc/hq720.jpg",
    "duration": 4432,
-   "views": 21647
+   "views": 22197
   },
   {
    "title": "LE GROS TWIST | Castlevania Belmont's Curse - LET'S PLAY FR #7",
@@ -94,7 +116,7 @@
    "video": "n-N1nFYMiXM",
    "image": "https://i.ytimg.com/vi/n-N1nFYMiXM/hq720.jpg",
    "duration": 3920,
-   "views": 10890
+   "views": 11070
   },
   {
    "title": "ÇA DEVIENT DÉJÀ LÉGENDAIRE | The Legend of Zelda Ocarina of Time - LET'S PLAY FR #2",
@@ -105,7 +127,7 @@
    "video": "N7KgZ4Lkd80",
    "image": "https://i.ytimg.com/vi/N7KgZ4Lkd80/hq720.jpg",
    "duration": 4753,
-   "views": 35241
+   "views": 35999
   },
   {
    "title": "ALORS, CE REMAKE DE OCARINA OF TIME ? | The Legend of Zelda Ocarina of Time | LET'S PLAY FR #1",
@@ -116,7 +138,7 @@
    "video": "USwdksqhsMo",
    "image": "https://i.ytimg.com/vi/USwdksqhsMo/hq720.jpg",
    "duration": 3539,
-   "views": 86396
+   "views": 87822
   },
   {
    "title": "LA REDEMPTION DU MASQUE D'OR | Phantom Blade Zero - LET'S PLAY FR #7",
@@ -127,7 +149,7 @@
    "video": "FjbuYNggw30",
    "image": "https://i.ytimg.com/vi/FjbuYNggw30/hq720.jpg",
    "duration": 3378,
-   "views": 16484
+   "views": 16629
   },
   {
    "title": "Et si Ubisoft achetait Arkane ?",
@@ -138,7 +160,7 @@
    "video": "jNRqq4aRLXw",
    "image": "https://i.ytimg.com/vi/jNRqq4aRLXw/hq720.jpg",
    "duration": 1701,
-   "views": 21787
+   "views": 21901
   },
   {
    "title": "LA DERNIÈRE PORTE | Mortal Shell 2 - LET'S PLAY FR #12",
@@ -149,18 +171,7 @@
    "video": "rZGNGSjY0CM",
    "image": "https://i.ytimg.com/vi/rZGNGSjY0CM/hq720.jpg",
    "duration": 4470,
-   "views": 11155
-  },
-  {
-   "title": "LA MAIN DE PIERRE | Phantom Blade Zero - LET'S PLAY FR #6",
-   "link": "https://www.youtube.com/watch?v=l_4ONGonHbI",
-   "date": "2026-11-03T16:33:49Z",
-   "source": "At0mium",
-   "category": "Découverte & avis",
-   "video": "l_4ONGonHbI",
-   "image": "https://i.ytimg.com/vi/l_4ONGonHbI/hq720.jpg",
-   "duration": 3658,
-   "views": 18643
+   "views": 11278
   },
   {
    "title": "Découverte de Queen's Domain : c'est une merveille à mi chemin entre King's Field et Zelda !",
@@ -171,7 +182,7 @@
    "video": "DQOwbtKV6BQ",
    "image": "https://i.ytimg.com/vi/DQOwbtKV6BQ/hq720.jpg",
    "duration": 4414,
-   "views": 12628
+   "views": 12792
   },
   {
    "title": "STOP GTA ! Joue plutôt à ÇA en NOVEMBRE 2026 | #WISHLIST",
@@ -182,7 +193,7 @@
    "video": "ij_rZT03Kns",
    "image": "https://i.ytimg.com/vi/ij_rZT03Kns/hq720.jpg",
    "duration": 1083,
-   "views": 25955
+   "views": 26399
   },
   {
    "title": "Candidat au GOTY ? Nos avis sur Virtue and a Sledgegammer, Silver Pines et Endless Legend 2",
@@ -193,7 +204,7 @@
    "video": "YV9lxVayFWA",
    "image": "https://i.ytimg.com/vi/YV9lxVayFWA/hq720.jpg",
    "duration": 7496,
-   "views": 22488
+   "views": 22572
   },
   {
    "title": "Découverte de Phantom Blade Zero : ça à l'air pas mal du tout (Mode Difficile)",
@@ -204,7 +215,7 @@
    "video": "ciWic6E5Y1s",
    "image": "https://i.ytimg.com/vi/ciWic6E5Y1s/hq720.jpg",
    "duration": 6753,
-   "views": 19808
+   "views": 19852
   },
   {
    "title": "EA sacrifie BioWare : fermeture d'un studio de légende",
@@ -215,7 +226,7 @@
    "video": "ktOTJfhzm_s",
    "image": "https://i.ytimg.com/vi/ktOTJfhzm_s/hq720.jpg",
    "duration": 1810,
-   "views": 24462
+   "views": 24478
   },
   {
    "title": "En attendant GTA VI : nos clones de GTA préférés - Super Vieux Jeux",
@@ -226,7 +237,7 @@
    "video": "aWUITDJpxe0",
    "image": "https://i.ytimg.com/vi/aWUITDJpxe0/hq720.jpg",
    "duration": 11121,
-   "views": 37992
+   "views": 38173
   },
   {
    "title": "Retour aux sources pour Final Fantasy ? On a testé FF Resonance.",
@@ -237,7 +248,7 @@
    "video": "cvgCO6JOH-g",
    "image": "https://i.ytimg.com/vi/cvgCO6JOH-g/hq720.jpg",
    "duration": 6422,
-   "views": 26863
+   "views": 26905
   },
   {
    "title": "VALOR MORTIS | Chapitre FINAL : La Prison & les Deux derniers Boss !",
@@ -248,7 +259,7 @@
    "video": "qlu8mw_0HFE",
    "image": "https://i.ytimg.com/vi/qlu8mw_0HFE/hq720.jpg",
    "duration": 5152,
-   "views": 9387
+   "views": 9403
   },
   {
    "title": "VALOR MORTIS | Chapitre 10 : La Forteresse & conclusion Quête des Assermentés",
@@ -259,7 +270,7 @@
    "video": "IXFQbz-qBOY",
    "image": "https://i.ytimg.com/vi/IXFQbz-qBOY/hq720.jpg",
    "duration": 6863,
-   "views": 8016
+   "views": 8048
   },
   {
    "title": "Les technofascistes sont-ils JALOUX de ta mère ?",
@@ -270,7 +281,7 @@
    "video": "LhTAKHoyq7c",
    "image": "https://i.ytimg.com/vi/LhTAKHoyq7c/hq720.jpg",
    "duration": 6436,
-   "views": 10079
+   "views": 10086
   },
   {
    "title": "Découverte de ReBlade The Death Spiral : Quand Hades rencontre Stellar Blade !",
@@ -281,7 +292,7 @@
    "video": "SGhW37RKDcI",
    "image": "https://i.ytimg.com/vi/SGhW37RKDcI/hq720.jpg",
    "duration": 3191,
-   "views": 17332
+   "views": 17346
   },
   {
    "title": "Beyond Good & Evil 2 : nouvelles d'un développement sans fin",
@@ -292,7 +303,7 @@
    "video": "72hXTxLCw4A",
    "image": "https://i.ytimg.com/vi/72hXTxLCw4A/hq720.jpg",
    "duration": 1882,
-   "views": 26169
+   "views": 26184
   },
   {
    "title": "VALOR MORTIS | Chapitre 9 : La Faculté et Boss L'Orphelin",
@@ -303,7 +314,7 @@
    "video": "2U5jU9TblFM",
    "image": "https://i.ytimg.com/vi/2U5jU9TblFM/hq720.jpg",
    "duration": 6513,
-   "views": 7970
+   "views": 7994
   },
   {
    "title": "RESONANCE est l'œuvre somme de FINAL FANTASY !",
@@ -314,7 +325,7 @@
    "video": "Ypn58CkxgPo",
    "image": "https://i.ytimg.com/vi/Ypn58CkxgPo/hq720.jpg",
    "duration": 1143,
-   "views": 26946
+   "views": 26966
   },
   {
    "title": "VALOR MORTIS | Chapitre 8 : La Ville des Orphelins & les Égouts",
@@ -325,7 +336,7 @@
    "video": "EQamnKXq-wY",
    "image": "https://i.ytimg.com/vi/EQamnKXq-wY/hq720.jpg",
    "duration": 7044,
-   "views": 8196
+   "views": 8225
   },
   {
    "title": "VALOR MORTIS | Chapitre 7 : Les Abords de la Ville & Boss Expérience 83",
@@ -336,7 +347,7 @@
    "video": "bx2EtWDmR1o",
    "image": "https://i.ytimg.com/vi/bx2EtWDmR1o/hq720.jpg",
    "duration": 4462,
-   "views": 8639
+   "views": 8655
   },
   {
    "title": "Un grand cru Castlevania ? On a testé Belmont's Curse !",
@@ -347,7 +358,7 @@
    "video": "F3N51CiSaM4",
    "image": "https://i.ytimg.com/vi/F3N51CiSaM4/hq720.jpg",
    "duration": 6200,
-   "views": 30730
+   "views": 30744
   },
   {
    "title": "VALOR MORTIS | Chapitre 6 : Le Vallon Maudit & Boss Anna la Mariée",
@@ -358,7 +369,7 @@
    "video": "_WaxV_OUNVw",
    "image": "https://i.ytimg.com/vi/_WaxV_OUNVw/hq720.jpg",
    "duration": 6463,
-   "views": 9596
+   "views": 9609
   },
   {
    "title": "VALOR MORTIS | Chapitre 5 : La Vallée de la Colère avec un Boss Surprenant !",
@@ -369,18 +380,7 @@
    "video": "bKAUQY0z_tU",
    "image": "https://i.ytimg.com/vi/bKAUQY0z_tU/hq720.jpg",
    "duration": 7550,
-   "views": 11286
-  },
-  {
-   "title": "Créer des jeux quand le monde brûle ?",
-   "link": "https://www.youtube.com/watch?v=ne5xdgl6t44",
-   "date": "2026-10-16T12:30:36Z",
-   "source": "Origami",
-   "category": "Découverte & avis",
-   "video": "ne5xdgl6t44",
-   "image": "https://i.ytimg.com/vi/ne5xdgl6t44/hq720.jpg",
-   "duration": 2001,
-   "views": 12569
+   "views": 11304
   },
   {
    "title": "VALOR MORTIS est un Souls-Like UNIQUE en son genre !",
@@ -391,7 +391,7 @@
    "video": "32icze8rd0Q",
    "image": "https://i.ytimg.com/vi/32icze8rd0Q/hq720.jpg",
    "duration": 1056,
-   "views": 45962
+   "views": 45988
   },
   {
    "title": "DRAGON'S DOGMA 2 Dark Arisen mérite tout votre AMOUR !",
@@ -402,7 +402,7 @@
    "video": "GAb2HD9FhaY",
    "image": "https://i.ytimg.com/vi/GAb2HD9FhaY/hq720.jpg",
    "duration": 1198,
-   "views": 36812
+   "views": 36843
   },
   {
    "title": "ACE COMBAT 8 est une addiction, mais j'en attendais BIEN plus...",
@@ -413,7 +413,7 @@
    "video": "XI0jf-9qI3I",
    "image": "https://i.ytimg.com/vi/XI0jf-9qI3I/hq720.jpg",
    "duration": 1161,
-   "views": 16774
+   "views": 16789
   },
   {
    "title": "L'HISTOIRE de CONTROL • Analyse et explications",
@@ -424,7 +424,7 @@
    "video": "XGVP42-Xt_g",
    "image": "https://i.ytimg.com/vi/XGVP42-Xt_g/hq720.jpg",
    "duration": 4114,
-   "views": 62353
+   "views": 62391
   },
   {
    "title": "Le jeu le plus BRILLANT de l'année",
@@ -435,7 +435,7 @@
    "video": "DJDS_3Hawww",
    "image": "https://i.ytimg.com/vi/DJDS_3Hawww/hq720.jpg",
    "duration": 1088,
-   "views": 8776
+   "views": 8777
   },
   {
    "title": "ONIMUSHA: WAY OF THE SWORD est aussi fascinant que désolant...",
@@ -446,7 +446,7 @@
    "video": "e8gZl76KMn8",
    "image": "https://i.ytimg.com/vi/e8gZl76KMn8/hq720.jpg",
    "duration": 1166,
-   "views": 17893
+   "views": 17895
   },
   {
    "title": "A Plague Tale Resonance, la SURPRISE du chef !",
@@ -457,7 +457,7 @@
    "video": "r7IcKcDcwA4",
    "image": "https://i.ytimg.com/vi/r7IcKcDcwA4/hq720.jpg",
    "duration": 1092,
-   "views": 9164
+   "views": 9165
   },
   {
    "title": "Mon avis rapide sur la TARNISHED EDITION d'Elden Ring !",
@@ -468,7 +468,7 @@
    "video": "KIj1zw0h0d4",
    "image": "https://i.ytimg.com/vi/KIj1zw0h0d4/hq720.jpg",
    "duration": 737,
-   "views": 27678
+   "views": 27679
   },
   {
    "title": "MORTAL SHELL 2 est à deux doigts de la PERFECTION !",
@@ -479,10 +479,38 @@
    "video": "5SqebwyVtcs",
    "image": "https://i.ytimg.com/vi/5SqebwyVtcs/hq720.jpg",
    "duration": 1315,
-   "views": 46914
+   "views": 46934
   }
  ],
  "news": [
+  {
+   "title": "Sorties Xbox : voici les 8 gros jeux attendus la semaine prochaine, avec 5 sorties day one dans le Game Pass",
+   "link": "https://www.xboxygen.com/News/373306-sorties-xbox-voici-les-8-gros-jeux-attendus-la-semaine-prochaine-avec-5-sorties-day-one-dans-le-game-pass",
+   "date": "2026-11-08T08:16:58+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/sorties-xbox-9-novembre-2026.jpg"
+  },
+  {
+   "title": "Après Electronic Arts, le PIF et Silver Lake veulent rachheter Unity pour 25 milliards de dollars",
+   "link": "https://www.xboxygen.com/News/373331-apres-electronic-arts-le-pif-et-silver-lake-visent-unity-a-25-milliards-de-dollars",
+   "date": "2026-11-08T08:04:04+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2023/09/unity_2_.jpg"
+  },
+  {
+   "title": "Ruptures de Xbox Series X avant GTA 6 : la console est de retour en stock dans certaines enseignes",
+   "link": "https://www.xboxygen.com/News/369121-la-xbox-series-x-devient-difficile-a-trouver-ruptures-de-stock-et-prix-qui-senvolent",
+   "date": "2026-11-08T07:59:09+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/09/xbox-series-x-stock.jpg"
+  },
+  {
+   "title": "Deux nouveaux Assassin’s Creed seraient en préparation : Rome et Jérusalem en ligne de mire",
+   "link": "https://www.xboxygen.com/News/373389-deux-nouveaux-assassins-creed-seraient-en-preparation-rome-et-jerusalem-en-ligne-de-mire",
+   "date": "2026-11-08T07:51:35+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/assassins-creed-jerusalem.jpg"
+  },
   {
    "title": "WoW: Forever pulvérise les records : Blizzard signe le plus gros lancement de toute l’histoire de World of Warcraft",
    "link": "https://www.xboxygen.com/News/373370-wow-forever-pulverise-les-records-blizzard-signe-le-plus-gros-lancement-de-toute-lhistoire-de-world-of-warcraft",
@@ -561,32 +589,11 @@
    "image": "https://www.xboxygen.com/wp-content/uploads/2026/09/World-of-Warcraft-Forever.jpg"
   },
   {
-   "title": "Call of Duty MW4 et Warzone : la Saison 1 est disponible, voici toutes les nouveautés et les patch notes",
-   "link": "https://www.xboxygen.com/News/373252-call-of-duty-mw4-et-warzone-la-saison-1-est-disponible-voici-toutes-les-nouveautes-et-les-patch-notes",
-   "date": "2026-11-06T08:40:22+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/10/Call-of-Duty-Modern-Warfare-4-Saison-1-1.jpg"
-  },
-  {
-   "title": "8 jeux Xbox sont gratuits ce week-end pour les Free Play Days, dont Crime Boss: Rockay City",
-   "link": "https://www.xboxygen.com/News/8-jeux-xbox-sont-gratuits-ce-week-end-pour-les-free-play-days-dont-crime-boss-rockay-city",
-   "date": "2026-11-06T08:37:02+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2023/06/motoff4286.jpg"
-  },
-  {
-   "title": "Sauver Mass Effect coûterait plus de 200 millions de dollars : un cofondateur de BioWare prévient les fans",
-   "link": "https://www.xboxygen.com/News/373249-sauver-mass-effect-couterait-plus-de-200-millions-de-dollars-un-cofondateur-de-bioware-previent-les-fans",
-   "date": "2026-11-06T08:09:29+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2025/11/mass-effect-krogan-civil-war.jpg"
-  },
-  {
-   "title": "Votre prochain PC gaming pourrait coûter 30 € de plus en France à cause de la taxe copie privée",
-   "link": "https://www.xboxygen.com/News/373245-votre-prochain-pc-gaming-pourrait-couter-30-e-de-plus-en-france-a-cause-de-la-taxe-copie-privee",
-   "date": "2026-11-06T07:49:46+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/pc-gaming-taxe.jpg"
+   "title": "Denshattack! : L’une des meilleures bandes-son de l’année aura droit à son triple vinyle en 2027 et c’est en précommande",
+   "link": "https://www.actugaming.net/denshattack-lune-des-meilleures-bandes-son-de-lannee-aura-droit-a-son-triple-vinyle-en-2027-et-cest-en-precommande-832797/",
+   "date": "2026-11-08T07:30:34+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/11/denshattack-musique-vinyle.webp"
   },
   {
    "title": "Zelda Ocarina of Time Switch 2 : où l’acheter au meilleur prix ?",
@@ -650,13 +657,6 @@
    "date": "2026-11-06T15:47:41+00:00",
    "source": "ActuGaming",
    "image": "https://static.actugaming.net/media/2026/11/GTA-6-11.jpeg"
-  },
-  {
-   "title": "Ratchet & Clank: Ranger Rumble, free-to-play sorti sur mobiles, fermera dès le 1er mai 2027",
-   "link": "https://www.actugaming.net/ratchet-clank-ranger-rumble-free-to-play-mobiles-fermera-1er-mai-2027-832715/",
-   "date": "2026-11-06T15:30:48+00:00",
-   "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/07/Ratchet-Clank-Ranger-Rumble.jpg"
   }
  ]
 }
