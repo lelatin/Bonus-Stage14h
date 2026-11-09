@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T07:45:15+00:00",
+ "updated": "2026-11-09T18:31:38+00:00",
  "sources": [
   {
    "name": "Loudic",
@@ -42,6 +42,28 @@
  ],
  "articles": [
   {
+   "title": "JE N'EN REVIENS PAS | The Legend of Zelda Ocarina of Time - LET'S PLAY FR #6",
+   "link": "https://www.youtube.com/watch?v=_dKkg2lmtS0",
+   "date": "2026-11-09T18:05:05Z",
+   "source": "At0mium",
+   "category": "Découverte & avis",
+   "video": "_dKkg2lmtS0",
+   "image": "https://i.ytimg.com/vi/_dKkg2lmtS0/hq720.jpg",
+   "duration": 4170,
+   "views": 435
+  },
+  {
+   "title": "FACE À FACE AVEC LA MORT | Castlevania Belmont's Curse - LET'S PLAY FR #8",
+   "link": "https://www.youtube.com/watch?v=Xsnczszm81g",
+   "date": "2026-11-09T07:53:47Z",
+   "source": "At0mium",
+   "category": "Découverte & avis",
+   "video": "Xsnczszm81g",
+   "image": "https://i.ytimg.com/vi/Xsnczszm81g/hq720.jpg",
+   "duration": 3765,
+   "views": 5716
+  },
+  {
    "title": "DANS LE VENTRE DU JABU JABU | The Legend of Zelda Ocarina of Time - LET'S PLAY FR #5",
    "link": "https://www.youtube.com/watch?v=07rnR-xcTm0",
    "date": "2026-11-08T17:35:49Z",
@@ -50,7 +72,7 @@
    "video": "07rnR-xcTm0",
    "image": "https://i.ytimg.com/vi/07rnR-xcTm0/hq720.jpg",
    "duration": 3992,
-   "views": 12348
+   "views": 16505
   },
   {
    "title": "PHANTOM BLADE ZERO, mon avis après 50h : C'est Spectaculaire mais le rythme est inégal (Test PC)",
@@ -61,7 +83,7 @@
    "video": "5qv-E5-fbQM",
    "image": "https://i.ytimg.com/vi/5qv-E5-fbQM/hq720.jpg",
    "duration": 1682,
-   "views": 11222
+   "views": 16386
   },
   {
    "title": "L'HEBDO 💌 WoW Forever, Phantom Blade Zero et Forever Ago",
@@ -72,7 +94,7 @@
    "video": "2UvuTx2k0x4",
    "image": "https://i.ytimg.com/vi/2UvuTx2k0x4/hq720.jpg",
    "duration": 7394,
-   "views": 14877
+   "views": 18222
   },
   {
    "title": "LES MEILLEURS BOSS POUR LA FIN (et de loin) | Mortal Shell 2 - LET'S PLAY FR #13",
@@ -83,7 +105,7 @@
    "video": "lmKFBe6_16w",
    "image": "https://i.ytimg.com/vi/lmKFBe6_16w/hq720.jpg",
    "duration": 5511,
-   "views": 10445
+   "views": 11618
   },
   {
    "title": "ON ENCHAINE LES BOSS | Phantom Blade Zero - LET'S PLAY FR #9",
@@ -94,7 +116,7 @@
    "video": "luPVasJmN8A",
    "image": "https://i.ytimg.com/vi/luPVasJmN8A/hq720.jpg",
    "duration": 5844,
-   "views": 13567
+   "views": 14529
   },
   {
    "title": "LA CARTOUCHE DE BONHEUR | The Legend of Zelda Ocarina of Time - LET'S PLAY FR #4",
@@ -105,7 +127,7 @@
    "video": "yBEof6oTSs8",
    "image": "https://i.ytimg.com/vi/yBEof6oTSs8/hq720.jpg",
    "duration": 5172,
-   "views": 24345
+   "views": 25840
   },
   {
    "title": "ELLE VOULAIT NOUS DÉTRUIRE | Phantom Blade Zero - LET'S PLAY FR #8",
@@ -116,7 +138,7 @@
    "video": "aRoaTYNWl8I",
    "image": "https://i.ytimg.com/vi/aRoaTYNWl8I/hq720.jpg",
    "duration": 6016,
-   "views": 15794
+   "views": 16344
   },
   {
    "title": "LA SURPRISE DU CHEF | The Legend of Zelda Ocarina of Time - LET'S PLAY FR #3",
@@ -127,7 +149,7 @@
    "video": "2K27Va5C-lc",
    "image": "https://i.ytimg.com/vi/2K27Va5C-lc/hq720.jpg",
    "duration": 4432,
-   "views": 25469
+   "views": 26417
   },
   {
    "title": "LE GROS TWIST | Castlevania Belmont's Curse - LET'S PLAY FR #7",
@@ -138,7 +160,7 @@
    "video": "n-N1nFYMiXM",
    "image": "https://i.ytimg.com/vi/n-N1nFYMiXM/hq720.jpg",
    "duration": 3920,
-   "views": 11943
+   "views": 12302
   },
   {
    "title": "ÇA DEVIENT DÉJÀ LÉGENDAIRE | The Legend of Zelda Ocarina of Time - LET'S PLAY FR #2",
@@ -149,29 +171,7 @@
    "video": "N7KgZ4Lkd80",
    "image": "https://i.ytimg.com/vi/N7KgZ4Lkd80/hq720.jpg",
    "duration": 4753,
-   "views": 39633
-  },
-  {
-   "title": "JE DÉCOUVRE ENFIN CE CHEF D'OEUVRE | The Legend of Zelda Ocarina of Time - LET'S PLAY FR #1",
-   "link": "https://www.youtube.com/watch?v=USwdksqhsMo",
-   "date": "2026-11-05T13:18:13Z",
-   "source": "At0mium",
-   "category": "Découverte & avis",
-   "video": "USwdksqhsMo",
-   "image": "https://i.ytimg.com/vi/USwdksqhsMo/hq720.jpg",
-   "duration": 3539,
-   "views": 95746
-  },
-  {
-   "title": "LA REDEMPTION DU MASQUE D'OR | Phantom Blade Zero - LET'S PLAY FR #7",
-   "link": "https://www.youtube.com/watch?v=FjbuYNggw30",
-   "date": "2026-11-04T17:30:00Z",
-   "source": "At0mium",
-   "category": "Découverte & avis",
-   "video": "FjbuYNggw30",
-   "image": "https://i.ytimg.com/vi/FjbuYNggw30/hq720.jpg",
-   "duration": 3378,
-   "views": 17406
+   "views": 40704
   },
   {
    "title": "Et si Ubisoft achetait Arkane ?",
@@ -182,7 +182,7 @@
    "video": "jNRqq4aRLXw",
    "image": "https://i.ytimg.com/vi/jNRqq4aRLXw/hq720.jpg",
    "duration": 1701,
-   "views": 23089
+   "views": 23873
   },
   {
    "title": "Découverte de Queen's Domain : c'est une merveille à mi chemin entre King's Field et Zelda !",
@@ -193,7 +193,7 @@
    "video": "DQOwbtKV6BQ",
    "image": "https://i.ytimg.com/vi/DQOwbtKV6BQ/hq720.jpg",
    "duration": 4414,
-   "views": 13999
+   "views": 14540
   },
   {
    "title": "STOP GTA ! Joue plutôt à ÇA en NOVEMBRE 2026 | #WISHLIST",
@@ -204,7 +204,7 @@
    "video": "ij_rZT03Kns",
    "image": "https://i.ytimg.com/vi/ij_rZT03Kns/hq720.jpg",
    "duration": 1083,
-   "views": 27172
+   "views": 27420
   },
   {
    "title": "Candidat au GOTY ? Nos avis sur Virtue and a Sledgegammer, Silver Pines et Endless Legend 2",
@@ -215,7 +215,7 @@
    "video": "YV9lxVayFWA",
    "image": "https://i.ytimg.com/vi/YV9lxVayFWA/hq720.jpg",
    "duration": 7496,
-   "views": 23070
+   "views": 23228
   },
   {
    "title": "Découverte de Phantom Blade Zero : ça à l'air pas mal du tout (Mode Difficile)",
@@ -226,7 +226,7 @@
    "video": "ciWic6E5Y1s",
    "image": "https://i.ytimg.com/vi/ciWic6E5Y1s/hq720.jpg",
    "duration": 6753,
-   "views": 20053
+   "views": 20102
   },
   {
    "title": "EA sacrifie BioWare : fermeture d'un studio de légende",
@@ -237,7 +237,7 @@
    "video": "ktOTJfhzm_s",
    "image": "https://i.ytimg.com/vi/ktOTJfhzm_s/hq720.jpg",
    "duration": 1810,
-   "views": 24599
+   "views": 24627
   },
   {
    "title": "En attendant GTA VI : nos clones de GTA préférés - Super Vieux Jeux",
@@ -248,7 +248,7 @@
    "video": "aWUITDJpxe0",
    "image": "https://i.ytimg.com/vi/aWUITDJpxe0/hq720.jpg",
    "duration": 11121,
-   "views": 39087
+   "views": 39352
   },
   {
    "title": "Retour aux sources pour Final Fantasy ? On a testé FF Resonance.",
@@ -259,7 +259,7 @@
    "video": "cvgCO6JOH-g",
    "image": "https://i.ytimg.com/vi/cvgCO6JOH-g/hq720.jpg",
    "duration": 6422,
-   "views": 27015
+   "views": 27062
   },
   {
    "title": "VALOR MORTIS | Chapitre FINAL : La Prison & les Deux derniers Boss !",
@@ -270,7 +270,7 @@
    "video": "qlu8mw_0HFE",
    "image": "https://i.ytimg.com/vi/qlu8mw_0HFE/hq720.jpg",
    "duration": 5152,
-   "views": 9626
+   "views": 9669
   },
   {
    "title": "VALOR MORTIS | Chapitre 10 : La Forteresse & conclusion Quête des Assermentés",
@@ -281,10 +281,10 @@
    "video": "IXFQbz-qBOY",
    "image": "https://i.ytimg.com/vi/IXFQbz-qBOY/hq720.jpg",
    "duration": 6863,
-   "views": 8220
+   "views": 8265
   },
   {
-   "title": "Les technofascistes sont-ils JALOUX de ta mère ?",
+   "title": "Les IA vont-elles remplacer nos mères ?",
    "link": "https://www.youtube.com/watch?v=LhTAKHoyq7c",
    "date": "2026-10-22T08:21:27Z",
    "source": "Origami",
@@ -292,7 +292,7 @@
    "video": "LhTAKHoyq7c",
    "image": "https://i.ytimg.com/vi/LhTAKHoyq7c/hq720.jpg",
    "duration": 6436,
-   "views": 10159
+   "views": 10186
   },
   {
    "title": "Découverte de ReBlade The Death Spiral : Quand Hades rencontre Stellar Blade !",
@@ -303,7 +303,7 @@
    "video": "SGhW37RKDcI",
    "image": "https://i.ytimg.com/vi/SGhW37RKDcI/hq720.jpg",
    "duration": 3191,
-   "views": 17393
+   "views": 17417
   },
   {
    "title": "Beyond Good & Evil 2 : nouvelles d'un développement sans fin",
@@ -314,7 +314,7 @@
    "video": "72hXTxLCw4A",
    "image": "https://i.ytimg.com/vi/72hXTxLCw4A/hq720.jpg",
    "duration": 1882,
-   "views": 26259
+   "views": 26276
   },
   {
    "title": "VALOR MORTIS | Chapitre 9 : La Faculté et Boss L'Orphelin",
@@ -325,7 +325,7 @@
    "video": "2U5jU9TblFM",
    "image": "https://i.ytimg.com/vi/2U5jU9TblFM/hq720.jpg",
    "duration": 6513,
-   "views": 8121
+   "views": 8164
   },
   {
    "title": "RESONANCE est l'œuvre somme de FINAL FANTASY !",
@@ -336,7 +336,7 @@
    "video": "Ypn58CkxgPo",
    "image": "https://i.ytimg.com/vi/Ypn58CkxgPo/hq720.jpg",
    "duration": 1143,
-   "views": 27063
+   "views": 27093
   },
   {
    "title": "VALOR MORTIS | Chapitre 8 : La Ville des Orphelins & les Égouts",
@@ -347,7 +347,7 @@
    "video": "EQamnKXq-wY",
    "image": "https://i.ytimg.com/vi/EQamnKXq-wY/hq720.jpg",
    "duration": 7044,
-   "views": 8361
+   "views": 8383
   },
   {
    "title": "VALOR MORTIS | Chapitre 7 : Les Abords de la Ville & Boss Expérience 83",
@@ -358,7 +358,7 @@
    "video": "bx2EtWDmR1o",
    "image": "https://i.ytimg.com/vi/bx2EtWDmR1o/hq720.jpg",
    "duration": 4462,
-   "views": 8734
+   "views": 8748
   },
   {
    "title": "Un grand cru Castlevania ? On a testé Belmont's Curse !",
@@ -369,7 +369,7 @@
    "video": "F3N51CiSaM4",
    "image": "https://i.ytimg.com/vi/F3N51CiSaM4/hq720.jpg",
    "duration": 6200,
-   "views": 30842
+   "views": 30869
   },
   {
    "title": "VALOR MORTIS | Chapitre 6 : Le Vallon Maudit & Boss Anna la Mariée",
@@ -380,7 +380,7 @@
    "video": "_WaxV_OUNVw",
    "image": "https://i.ytimg.com/vi/_WaxV_OUNVw/hq720.jpg",
    "duration": 6463,
-   "views": 9702
+   "views": 9717
   },
   {
    "title": "VALOR MORTIS est un Souls-Like UNIQUE en son genre !",
@@ -391,7 +391,7 @@
    "video": "32icze8rd0Q",
    "image": "https://i.ytimg.com/vi/32icze8rd0Q/hq720.jpg",
    "duration": 1056,
-   "views": 46065
+   "views": 46089
   },
   {
    "title": "DRAGON'S DOGMA 2 Dark Arisen mérite tout votre AMOUR !",
@@ -402,7 +402,7 @@
    "video": "GAb2HD9FhaY",
    "image": "https://i.ytimg.com/vi/GAb2HD9FhaY/hq720.jpg",
    "duration": 1198,
-   "views": 37017
+   "views": 37096
   },
   {
    "title": "ACE COMBAT 8 est une addiction, mais j'en attendais BIEN plus...",
@@ -413,7 +413,7 @@
    "video": "XI0jf-9qI3I",
    "image": "https://i.ytimg.com/vi/XI0jf-9qI3I/hq720.jpg",
    "duration": 1161,
-   "views": 16818
+   "views": 16823
   },
   {
    "title": "L'HISTOIRE de CONTROL • Analyse et explications",
@@ -424,7 +424,7 @@
    "video": "XGVP42-Xt_g",
    "image": "https://i.ytimg.com/vi/XGVP42-Xt_g/hq720.jpg",
    "duration": 4114,
-   "views": 62524
+   "views": 62549
   },
   {
    "title": "Le jeu le plus BRILLANT de l'année",
@@ -457,7 +457,7 @@
    "video": "r7IcKcDcwA4",
    "image": "https://i.ytimg.com/vi/r7IcKcDcwA4/hq720.jpg",
    "duration": 1092,
-   "views": 9172
+   "views": 9175
   },
   {
    "title": "Mon avis rapide sur la TARNISHED EDITION d'Elden Ring !",
@@ -468,7 +468,7 @@
    "video": "KIj1zw0h0d4",
    "image": "https://i.ytimg.com/vi/KIj1zw0h0d4/hq720.jpg",
    "duration": 737,
-   "views": 27683
+   "views": 27685
   },
   {
    "title": "MORTAL SHELL 2 est à deux doigts de la PERFECTION !",
@@ -479,184 +479,184 @@
    "video": "5SqebwyVtcs",
    "image": "https://i.ytimg.com/vi/5SqebwyVtcs/hq720.jpg",
    "duration": 1315,
-   "views": 46981
+   "views": 46998
   }
  ],
  "news": [
   {
-   "title": "45 € par mois pour tricher à Call of Duty : bienvenue dans un business qui pèse des milliards",
-   "link": "https://www.xboxygen.com/News/45-e-par-mois-pour-tricher-a-call-of-duty-bienvenue-dans-un-business-qui-pese-des-milliards",
-   "date": "2026-11-08T19:24:11+00:00",
+   "title": "FragPunk bascule dans le PvPvE avec Farlands : livraisons, factions et trahisons au programme",
+   "link": "https://www.xboxygen.com/News/373503-fragpunk-bascule-dans-le-pvpve-avec-farlands-livraisons-factions-et-trahisons-au-programme",
+   "date": "2026-11-09T16:57:16+00:00",
    "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/09/triche-jeux-video-dossier-chiffres.jpg"
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/FragPunk-Farlands-1.jpg"
   },
   {
-   "title": "GTA 6 est énorme : prévoyez plus de 225 Go d’espace sur votre Xbox Series X|S",
-   "link": "https://www.xboxygen.com/News/373408-gta-6-est-enorme-prevoyez-plus-de-225-go-despace-sur-votre-xbox-series-xs",
-   "date": "2026-11-08T14:19:57+00:00",
+   "title": "Skydance coupe dans ses effectifs jeux vidéo, Warner Bros. Games sous surveillance",
+   "link": "https://www.xboxygen.com/News/373499-skydance-coupe-dans-ses-effectifs-jeux-video-warner-bros-games-sous-surveillance",
+   "date": "2026-11-09T16:23:08+00:00",
    "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/GTA-6-size-xbox-ssd.jpg"
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/Skydance.jpg"
   },
   {
-   "title": "Sorties Xbox : voici les 8 gros jeux attendus la semaine prochaine, avec 5 sorties day one dans le Game Pass",
-   "link": "https://www.xboxygen.com/News/373306-sorties-xbox-voici-les-8-gros-jeux-attendus-la-semaine-prochaine-avec-5-sorties-day-one-dans-le-game-pass",
-   "date": "2026-11-08T08:16:58+00:00",
+   "title": "Banni de Battlefield 6, il affirme avoir attaqué EA en justice et obtenu gain de cause",
+   "link": "https://www.xboxygen.com/News/373497-banni-de-battlefield-6-il-affirme-avoir-attaque-ea-en-justice-et-obtenu-gain-de-cause",
+   "date": "2026-11-09T16:00:22+00:00",
    "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/sorties-xbox-9-novembre-2026.jpg"
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/08/battlefield-6-wake-island.jpg"
   },
   {
-   "title": "Après Electronic Arts, le PIF et Silver Lake veulent rachheter Unity pour 25 milliards de dollars",
-   "link": "https://www.xboxygen.com/News/373331-apres-electronic-arts-le-pif-et-silver-lake-visent-unity-a-25-milliards-de-dollars",
-   "date": "2026-11-08T08:04:04+00:00",
+   "title": "GTA 6 : un possible mode 120 Hz repéré dans les fichiers du jeu",
+   "link": "https://www.xboxygen.com/News/373495-gta-6-un-possible-mode-120-hz-repere-dans-les-fichiers-du-jeu",
+   "date": "2026-11-09T15:05:22+00:00",
    "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2023/09/unity_2_.jpg"
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/10/GTA-6-jason-nu.jpg"
   },
   {
-   "title": "Ruptures de Xbox Series X avant GTA 6 : la console est de retour en stock dans certaines enseignes",
-   "link": "https://www.xboxygen.com/News/369121-la-xbox-series-x-devient-difficile-a-trouver-ruptures-de-stock-et-prix-qui-senvolent",
-   "date": "2026-11-08T07:59:09+00:00",
+   "title": "GTA VI célèbre sa sortie avec un festival de musique à Miami : Travis Scott, Cardi B et Justice à l’affiche",
+   "link": "https://www.xboxygen.com/News/373491-gta-vi-celebre-sa-sortie-avec-un-festival-de-musique-a-miami-travis-scott-cardi-b-et-justice-a-laffiche",
+   "date": "2026-11-09T14:27:31+00:00",
    "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/09/xbox-series-x-stock.jpg"
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/GTA-VI-The-Festival.jpg"
   },
   {
-   "title": "Deux nouveaux Assassin’s Creed seraient en préparation : Rome et Jérusalem en ligne de mire",
-   "link": "https://www.xboxygen.com/News/373389-deux-nouveaux-assassins-creed-seraient-en-preparation-rome-et-jerusalem-en-ligne-de-mire",
-   "date": "2026-11-08T07:51:35+00:00",
+   "title": "The Elder Scrolls VI: Sentinel reste mystérieux, mais Bethesda vend déjà des vêtements et pourrait préparer des jouets",
+   "link": "https://www.xboxygen.com/News/373486-the-elder-scrolls-vi-sentinel-reste-mysterieux-mais-bethesda-vend-deja-des-vetements-et-pourrait-preparer-des-jouets",
+   "date": "2026-11-09T14:06:52+00:00",
    "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/assassins-creed-jerusalem.jpg"
+   "image": "https://www.xboxygen.com/wp-content/uploads/2018/06/The-Elder-Scrolls-VI-Sentinel-4.jpg"
   },
   {
-   "title": "WoW: Forever pulvérise les records : Blizzard signe le plus gros lancement de toute l’histoire de World of Warcraft",
-   "link": "https://www.xboxygen.com/News/373370-wow-forever-pulverise-les-records-blizzard-signe-le-plus-gros-lancement-de-toute-lhistoire-de-world-of-warcraft",
-   "date": "2026-11-07T15:39:39+00:00",
+   "title": "Assassin’s Creed HEXE aurait pris un an de retard et ne sortirait qu’en 2028",
+   "link": "https://www.xboxygen.com/News/373483-assassins-creed-hexe-aurait-pris-un-an-de-retard-et-ne-sortirait-quen-2028",
+   "date": "2026-11-09T13:38:18+00:00",
    "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/09/wow-forever.jpg"
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/02/Assassins-Creed-Codename-HEXE.jpg"
   },
   {
-   "title": "GTA 6 ou vraie vie ? Ces nouvelles images des voitures sont bluffantes",
-   "link": "https://www.xboxygen.com/News/373357-gta-6-ou-vraie-vie-ces-nouvelles-images-des-voitures-sont-bluffantes",
-   "date": "2026-11-07T15:25:38+00:00",
+   "title": "Gears of War: E-Day affaiblit trois armes puissantes, mais la communauté attend d’autres nerfs",
+   "link": "https://www.xboxygen.com/News/373456-gears-of-war-e-day-affaiblit-trois-armes-puissantes-mais-la-communaute-attend-dautres-nerfs",
+   "date": "2026-11-09T11:00:24+00:00",
    "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/GTA-6-vs-real-life.jpg"
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/Gears-of-War-E-Day-Striga.jpg"
   },
   {
-   "title": "Xbox Game Pass : 14 jeux débarquent la semaine prochaine dans le service, dont 8 pour les abonnés Essential",
-   "link": "https://www.xboxygen.com/News/373315-xbox-game-pass-14-jeux-debarquent-la-semaine-prochaine-dans-le-service-dont-8-pour-les-abonnes-essential",
-   "date": "2026-11-07T14:51:00+00:00",
+   "title": "Black Friday : Modern Warfare 4 édition Coffre d’armes Xbox/PC tombe à seulement 73 € au lieu de 110 €",
+   "link": "https://www.xboxygen.com/News/370241-call-of-duty-modern-warfare-4-ledition-coffre-darmes-xbox-pc-passe-a-seulement-77-au-lieu-de-110",
+   "date": "2026-11-09T10:59:04+00:00",
    "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/TANUKI-Pons-Summer.jpg"
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/10/Call-of-Duty-Modern-Warfare-4-Edition-Coffre-darmes.jpg"
   },
   {
-   "title": "Modern Warfare 4 impressionne Digital Foundry sur Xbox Series X|S, tandis que le PSSR pose problème sur PS5 Pro",
-   "link": "https://www.xboxygen.com/News/373351-modern-warfare-4-impressionne-digital-foundry-sur-xbox-series-xs-tandis-que-le-pssr-pose-probleme-sur-ps5-pro",
-   "date": "2026-11-07T06:52:46+00:00",
+   "title": "Black Friday : Modern Warfare 4 tombe à seulement 53 € sur Xbox & PC au lieu de 80 €",
+   "link": "https://www.xboxygen.com/News/370249-call-of-duty-modern-warfare-4-a-seulement-55-e-en-precommande-sur-xbox-pc-au-lieu-de-80-e",
+   "date": "2026-11-09T10:58:47+00:00",
    "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/10/modern-warfare-4-campaign.jpg"
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/10/Call-of-Duty-Modern-Warfare-4.jpg"
   },
   {
-   "title": "Xbox Game Pass : les 10 meilleurs jeux PvP multijoueur à découvrir",
-   "link": "https://www.xboxygen.com/News/31896-xbox-game-pass-les-10-meilleurs-jeux-multijoueur-en-ligne-pvp",
-   "date": "2026-11-06T16:50:14+00:00",
+   "title": "GTA 6 : la collection Selfridges prise d’assaut, des produits déjà épuisés avec une veste à 3000 €",
+   "link": "https://www.xboxygen.com/News/373457-gta-6-la-collection-selfridges-prise-dassaut-des-produits-deja-epuises-avec-une-veste-a-3000-e",
+   "date": "2026-11-09T10:35:45+00:00",
    "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2024/12/xbox-game-pass-meilleurs-jeux-multi-pvp.jpg"
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/GTA-6-selfridges-voiture.jpg"
   },
   {
-   "title": "Saison 22 de Sea of Thieves : un nouveau mode, une mécanique supprimée et des malédictions inédites",
-   "link": "https://www.xboxygen.com/News/373323-saison-22-de-sea-of-thieves-un-nouveau-mode-une-mecanique-supprimee-et-des-maledictions-inedites",
-   "date": "2026-11-06T14:42:44+00:00",
+   "title": "GTA 6 Online : les métadonnées PS5 semblent confirmer l’existence d’un mode multijoueur",
+   "link": "https://www.xboxygen.com/News/373453-gta-6-online-les-metadonnees-ps5-semblent-confirmer-lexistence-dun-mode-multijoueur",
+   "date": "2026-11-09T10:22:41+00:00",
    "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2025/10/Sea-of-Thieves-bateau.jpg"
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/06/gta-6-kit-modification-gradano.jpg"
   },
   {
-   "title": "PlayStation Plus : Sony propose désormais des avantages sur d’autres services, à l’image du Xbox Game Pass",
-   "link": "https://www.xboxygen.com/News/373317-playstation-plus-sony-propose-desormais-des-avantages-sur-dautres-services-a-limage-du-xbox-game-pass",
-   "date": "2026-11-06T14:11:48+00:00",
+   "title": "Le jeu annulé par Xbox chez World’s Edge en septembre 2026 était bien un nouveau Age of Empires",
+   "link": "https://www.xboxygen.com/News/373442-le-jeu-annule-par-xbox-chez-worlds-edge-en-septembre-2026-etait-bien-un-nouveau-age-of-empires",
+   "date": "2026-11-09T09:50:00+00:00",
    "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2025/08/playstation-plus-xbox.jpg"
+   "image": "https://www.xboxygen.com/wp-content/uploads/2025/10/Age-of-Empires-2-Return-of-Rome.jpg"
   },
   {
-   "title": "Black Friday 2026 : la Commande TV Xboxygen est lancée, LG, Samsung, Sony, TCL, Philips… à prix cassés",
-   "link": "https://www.xboxygen.com/News/black-friday-2026-commande-groupee-tv-xboxygen",
-   "date": "2026-11-06T11:15:39+00:00",
+   "title": "HITMAN : une mise à jour retirée en urgence aurait révélé un crossover avec Lenny Kravitz",
+   "link": "https://www.xboxygen.com/News/373435-hitman-une-mise-a-jour-retiree-en-urgence-aurait-revele-un-crossover-avec-lenny-kravitz",
+   "date": "2026-11-09T09:14:28+00:00",
    "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/05/commande-groupee-tv-2026-xboxygen.jpg"
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/007-First-Light-Bawma-Lenny-Kravitz.jpg"
   },
   {
-   "title": "Test – Razer Wolverine V4 Pro – Une manette qui gagne en maturité",
-   "link": "https://www.xboxygen.com/Tests/373275-test-razer-wolverine-v4-pro-une-manette-qui-gagne-en-maturite",
-   "date": "2026-11-06T11:00:00+00:00",
+   "title": "Black Friday : le catalogue Leclerc frappe fort sur les jeux PS5 et Xbox, FC 27 tombe à 40 €",
+   "link": "https://www.xboxygen.com/News/373426-black-friday-le-catalogue-leclerc-frappe-fort-sur-les-jeux-ps5-et-xbox-fc-27-tombe-a-40-e",
+   "date": "2026-11-09T09:11:22+00:00",
    "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/Test-Razer-Wolverine-V4-Pro.jpg"
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/leclerc-catalogue-black-friday.jpg"
   },
   {
-   "title": "Les sorties jeux vidéo de la semaine du 9 novembre (Warhammer Survivors, Tanuki: Pon’s Summer, After the Wane…)",
-   "link": "https://www.actugaming.net/les-sorties-jeux-video-de-la-semaine-du-9-novembre-warhammer-survivors-tanuki-pons-summer-after-the-wane-832813/",
-   "date": "2026-11-09T07:00:38+00:00",
+   "title": "Warhammer 40.000: Dark Heresy abattra la volonté de l’Empereur le 28 janvier 2027",
+   "link": "https://www.actugaming.net/warhammer-40-000-dark-heresy-28-janvier-2027-832976/",
+   "date": "2026-11-09T17:30:43+00:00",
    "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/11/after-the-wane-key-art-no-logo.jpg"
+   "image": "https://static.actugaming.net/media/2025/05/Warhammer-40000-Dark-Heresy-1.jpg"
   },
   {
-   "title": "Denshattack! : L’une des meilleures bandes-son de l’année aura droit à son triple vinyle en 2027 et c’est en précommande",
-   "link": "https://www.actugaming.net/denshattack-lune-des-meilleures-bandes-son-de-lannee-aura-droit-a-son-triple-vinyle-en-2027-et-cest-en-precommande-832797/",
-   "date": "2026-11-08T07:30:34+00:00",
+   "title": "Sea of Remnants vous invitera à prendre le large avec une bêta fermée dès le mois prochain",
+   "link": "https://www.actugaming.net/sea-of-remnants-vous-invitera-a-prendre-le-large-avec-une-beta-fermee-des-le-mois-prochain-832973/",
+   "date": "2026-11-09T16:31:45+00:00",
    "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/11/denshattack-musique-vinyle.webp"
+   "image": "https://static.actugaming.net/media/2025/06/sea-of-remnants-key-art-no-logo.jpg"
   },
   {
-   "title": "Zelda Ocarina of Time Switch 2 : où l’acheter au meilleur prix ?",
-   "link": "https://www.actugaming.net/zelda-ocarina-of-time-switch-2-ou-lacheter-au-meilleur-prix-832771/",
-   "date": "2026-11-07T15:00:33+00:00",
+   "title": "Mélodies Zelda Ocarina of Time : Notes, effets, liste complète et où apprendre les 13 chants",
+   "link": "https://www.actugaming.net/melodies-zelda-ocarina-of-time-832931/",
+   "date": "2026-11-09T16:30:06+00:00",
    "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/11/zelda-ocarina-of-time-remake.jpg"
+   "image": "https://static.actugaming.net/media/2026/11/zelda-ocarina-of-time-musiques-1.jpg"
   },
   {
-   "title": "Comment obtenir Epona dans Zelda: Ocarina of Time sur Switch 2",
-   "link": "https://www.actugaming.net/obtenir-epona-zelda-ocarina-of-time-switch-2-832776/",
-   "date": "2026-11-07T14:25:10+00:00",
+   "title": "Comment augmenter sa bourse dans Zelda Ocarina of Time et transporter plus de rubis ?",
+   "link": "https://www.actugaming.net/bourse-zelda-ocarina-of-time-832953/",
+   "date": "2026-11-09T16:21:00+00:00",
    "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/11/zelda-ocarina-of-time-test-4.jpg"
+   "image": "https://static.actugaming.net/media/2026/10/zelda-ocarina-of-time-remake-preview-6.jpg"
   },
   {
-   "title": "The Legend of Zelda: Ocarina of Time (Switch 2) | Guide complet",
-   "link": "https://www.actugaming.net/the-legend-of-zelda-ocarina-of-time-guide-complet-832766/",
-   "date": "2026-11-07T11:19:53+00:00",
+   "title": "Petit Planet : Tout savoir sur le jeu cosy de HoYoverse (gameplay, microtransactions, Switch 2, multijoueur)",
+   "link": "https://www.actugaming.net/petit-planet-tout-savoir-switch-2-microtransactions-interview-832860/",
+   "date": "2026-11-09T16:15:26+00:00",
    "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/06/the-legend-of-zelda-ocarina-of-time-remake-key-art.jpg"
+   "image": "https://static.actugaming.net/media/2026/11/petit-planet-preview-2-4.jpg"
   },
   {
-   "title": "Durée de vie Zelda Ocarina of Time Switch 2 : combien de temps pour finir le jeu ?",
-   "link": "https://www.actugaming.net/duree-de-vie-zelda-ocarina-of-time-switch-2-832760/",
-   "date": "2026-11-07T06:00:24+00:00",
+   "title": "Masahiro Sakurai (Super Smash Bros, Kirby Air Riders) déclare travailler sans IA générative mais la juge inévitable",
+   "link": "https://www.actugaming.net/masahiro-sakurai-super-smash-bros-kirby-air-riders-travailler-sans-ia-generative-mais-juge-inevitable-832896/",
+   "date": "2026-11-09T16:14:12+00:00",
    "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/11/the-legend-of-zelda-ocarina-of-time-switch-2.jpg"
+   "image": "https://static.actugaming.net/media/2026/11/masahiro-sakurai-2026.jpg"
   },
   {
-   "title": "Niveau du monde 5 The Seven Deadly Sins Origin : comment le débloquer et comment fonctionne la frénésie ?",
-   "link": "https://www.actugaming.net/guide-monde-5-corruption-the-seven-deadly-sins-origin-832742/",
-   "date": "2026-11-06T20:40:29+00:00",
+   "title": "Skydance : Après le rachat de Warner Bros, les licenciements commencent dans la division jeu vidéo",
+   "link": "https://www.actugaming.net/skydance-apres-le-rachat-de-warner-bros-les-licenciements-commencent-dans-la-division-jeu-video-832909/",
+   "date": "2026-11-09T16:00:46+00:00",
    "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/03/the-seven-deadly-sins-origin.jpg"
+   "image": "https://static.actugaming.net/media/2026/11/the-walking-dead-saints-sinners.webp"
   },
   {
-   "title": "EA Sports FC 27 dévoile l’équipe Road To The Knockouts",
-   "link": "https://www.actugaming.net/ea-sports-fc-27-devoile-lequipe-road-to-the-knockouts-832718/",
-   "date": "2026-11-06T19:39:35+00:00",
+   "title": "World of Warcraft: Forever enregistre un sacré record pour le MMO et rameute beaucoup d’anciens joueurs",
+   "link": "https://www.actugaming.net/world-of-warcraft-forever-enregistre-un-sacre-record-pour-le-mmo-et-rameute-beaucoup-danciens-joueurs-832899/",
+   "date": "2026-11-09T15:00:15+00:00",
    "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/11/ea-sports-fc-27-road-to-the-knockouts-affiche.jpg"
+   "image": "https://static.actugaming.net/media/2026/09/WoW-Forever-Cinematic-Still-10-e1789295388100.jpg"
   },
   {
-   "title": "NieR Automata : Une erreur fait passer le poids du jeu à 366 Go sur Steam, le studio enquête sur le problème",
-   "link": "https://www.actugaming.net/nier-automata-une-erreur-fait-passer-le-poids-du-jeu-a-366-go-sur-steam-le-studio-enquete-sur-le-probleme-832740/",
-   "date": "2026-11-06T16:34:06+00:00",
+   "title": "GTA 6 : Un grand concert avec plusieurs artistes comme Justice et Cardi B aura lieu le 21 novembre",
+   "link": "https://www.actugaming.net/gta-6-un-grand-concert-avec-plusieurs-artistes-comme-justice-et-cardi-b-aura-lieu-le-21-novembre-832895/",
+   "date": "2026-11-09T14:39:35+00:00",
    "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2017/02/NiERAutomata.jpg"
+   "image": "https://static.actugaming.net/media/2026/06/gta.jpg"
   },
   {
-   "title": "Stranger Than Heaven attire beaucoup de personnes n’ayant jamais joué à Yakuza, SEGA s’attend à un succès",
-   "link": "https://www.actugaming.net/stranger-than-heaven-attire-beaucoup-de-personnes-nayant-jamais-joue-a-yakuza-sega-sattend-a-un-succes-832735/",
-   "date": "2026-11-06T16:07:05+00:00",
+   "title": "Voltibond Aniimo, où trouver la créature pour l’événement à durée limitée « Découverte d’Aniimo » ?",
+   "link": "https://www.actugaming.net/localisation-voltibond-aniimo-evenement-832874/",
+   "date": "2026-11-09T13:53:39+00:00",
    "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/06/STRANGER-THAN-HEAVEN-1.jpg"
+   "image": "https://static.actugaming.net/media/2026/11/aniimo-voltibond-evenement-3.jpeg"
   }
  ]
 }
