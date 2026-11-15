@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T10:41:26+00:00",
+ "updated": "2026-11-15T17:37:21+00:00",
  "sources": [
   {
    "name": "Loudic",
@@ -42,7 +42,29 @@
  ],
  "articles": [
   {
-   "title": "Zelda Ocarina of Time Remake, Dreadmoor et Funeral For The Sun 💌 L'HEBDO",
+   "title": "DE SURPRISES EN SURPRISES | Phantom Blade Zero - LET'S PLAY FR #12",
+   "link": "https://www.youtube.com/watch?v=T6VyQwhgUZg",
+   "date": "2026-11-15T17:00:37Z",
+   "source": "At0mium",
+   "category": "Découverte & avis",
+   "video": "T6VyQwhgUZg",
+   "image": "https://i.ytimg.com/vi/T6VyQwhgUZg/hq720.jpg",
+   "duration": 7762,
+   "views": 261
+  },
+  {
+   "title": "PHANTOM BLADE ZERO | #4 : La Forêt Rouge (part2) & Boss Bai Chilian & Masque d'Or",
+   "link": "https://www.youtube.com/watch?v=CX4X-fEfpZY",
+   "date": "2026-11-15T16:00:25Z",
+   "source": "Playmoo",
+   "category": "Découverte & avis",
+   "video": "CX4X-fEfpZY",
+   "image": "https://i.ytimg.com/vi/CX4X-fEfpZY/hq720.jpg",
+   "duration": 5807,
+   "views": 71
+  },
+  {
+   "title": "Un remake parfait par Nintendo ? On a testé Ocarina of Time.",
    "link": "https://www.youtube.com/watch?v=GMHZVObQ1T0",
    "date": "2026-11-15T08:32:02Z",
    "source": "Origami",
@@ -50,7 +72,7 @@
    "video": "GMHZVObQ1T0",
    "image": "https://i.ytimg.com/vi/GMHZVObQ1T0/hq720.jpg",
    "duration": 8056,
-   "views": 973
+   "views": 10709
   },
   {
    "title": "LE DERNIER REMPART | The Legend of Zelda Ocarina of Time - LET'S PLAY FR #12",
@@ -61,7 +83,7 @@
    "video": "SMkOov-EUf4",
    "image": "https://i.ytimg.com/vi/SMkOov-EUf4/hq720.jpg",
    "duration": 4407,
-   "views": 1606
+   "views": 8980
   },
   {
    "title": "PHANTOM BLADE ZERO | #3 : La Forêt Rouge (part1) & Boss Hua Qianxiao",
@@ -72,7 +94,7 @@
    "video": "iHIPOnpkTB8",
    "image": "https://i.ytimg.com/vi/iHIPOnpkTB8/hq720.jpg",
    "duration": 7276,
-   "views": 2715
+   "views": 3414
   },
   {
    "title": "LA VALLÉE DES GERUDO | The Legend of Zelda Ocarina of Time - LET'S PLAY FR #11",
@@ -83,7 +105,7 @@
    "video": "d1FOUs7oR8A",
    "image": "https://i.ytimg.com/vi/d1FOUs7oR8A/hq720.jpg",
    "duration": 6494,
-   "views": 16110
+   "views": 17678
   },
   {
    "title": "PHANTOM BLADE ZERO | #2 : Base de la Tour Sha-Chi, Boss Hua la Fiancée Mortelle & Hunt",
@@ -94,7 +116,7 @@
    "video": "Dk95QkGAkg0",
    "image": "https://i.ytimg.com/vi/Dk95QkGAkg0/hq720.jpg",
    "duration": 6835,
-   "views": 4517
+   "views": 4784
   },
   {
    "title": "LE COUP DE COEUR ULTIME | The Legend of Zelda Ocarina of Time - LET'S PLAY FR #10",
@@ -105,7 +127,7 @@
    "video": "K_kx2SLz5Ic",
    "image": "https://i.ytimg.com/vi/K_kx2SLz5Ic/hq720.jpg",
    "duration": 3856,
-   "views": 18308
+   "views": 19028
   },
   {
    "title": "ILS N'ONT AUCUNE LIMITE | Phantom Blade Zero - LET'S PLAY FR #11",
@@ -116,7 +138,7 @@
    "video": "Lt9kgyTXPs8",
    "image": "https://i.ytimg.com/vi/Lt9kgyTXPs8/hq720.jpg",
    "duration": 4398,
-   "views": 16395
+   "views": 16844
   },
   {
    "title": "TOUT FEU TOUT FLAMME | The Legend of Zelda Ocarina of Time - LET'S PLAY FR #9",
@@ -127,7 +149,7 @@
    "video": "jX2uQOfv-Xc",
    "image": "https://i.ytimg.com/vi/jX2uQOfv-Xc/hq720.jpg",
    "duration": 6147,
-   "views": 20829
+   "views": 21284
   },
   {
    "title": "Les ados ont toujours raison (sur internet)",
@@ -138,7 +160,7 @@
    "video": "uyVRwh09a50",
    "image": "https://i.ytimg.com/vi/uyVRwh09a50/hq720.jpg",
    "duration": 7259,
-   "views": 6237
+   "views": 6448
   },
   {
    "title": "PHANTOM BLADE ZERO | #1 : Bienvenue dans le Wulin, Vallée du Ruisseau & Boss Peng Meng",
@@ -149,7 +171,7 @@
    "video": "seGVCaC6WcM",
    "image": "https://i.ytimg.com/vi/seGVCaC6WcM/hq720.jpg",
    "duration": 8182,
-   "views": 7079
+   "views": 7206
   },
   {
    "title": "LE DONJON DU TRAUMA | The Legend of Zelda Ocarina of Time - LET'S PLAY FR #8",
@@ -160,7 +182,7 @@
    "video": "4KXtNcISG4g",
    "image": "https://i.ytimg.com/vi/4KXtNcISG4g/hq720.jpg",
    "duration": 5007,
-   "views": 23238
+   "views": 23598
   },
   {
    "title": "Actus Rétro 🕹️ Queen’s Domain, Tenebris Somnia ou The Traveler’s Sight",
@@ -171,7 +193,7 @@
    "video": "jwQ6kd0nOqU",
    "image": "https://i.ytimg.com/vi/jwQ6kd0nOqU/hq720.jpg",
    "duration": 4099,
-   "views": 20330
+   "views": 20659
   },
   {
    "title": "LA VRAIE MASTERCLASS | Phantom Blade Zero - LET'S PLAY FR #10",
@@ -182,7 +204,7 @@
    "video": "lyu6E51P5d8",
    "image": "https://i.ytimg.com/vi/lyu6E51P5d8/hq720.jpg",
    "duration": 5215,
-   "views": 21473
+   "views": 21725
   },
   {
    "title": "LE TEMPLE DE LA FORET | The Legend of Zelda Ocarina of Time - LET'S PLAY FR #7",
@@ -193,7 +215,7 @@
    "video": "iZchJdu2vvk",
    "image": "https://i.ytimg.com/vi/iZchJdu2vvk/hq720.jpg",
    "duration": 6065,
-   "views": 25832
+   "views": 26216
   },
   {
    "title": "JE N'EN REVIENS PAS | The Legend of Zelda Ocarina of Time - LET'S PLAY FR #6",
@@ -204,18 +226,7 @@
    "video": "_dKkg2lmtS0",
    "image": "https://i.ytimg.com/vi/_dKkg2lmtS0/hq720.jpg",
    "duration": 4170,
-   "views": 34198
-  },
-  {
-   "title": "FACE À FACE AVEC LA MORT | Castlevania Belmont's Curse - LET'S PLAY FR #8",
-   "link": "https://www.youtube.com/watch?v=Xsnczszm81g",
-   "date": "2026-11-09T07:53:47Z",
-   "source": "At0mium",
-   "category": "Découverte & avis",
-   "video": "Xsnczszm81g",
-   "image": "https://i.ytimg.com/vi/Xsnczszm81g/hq720.jpg",
-   "duration": 3765,
-   "views": 12781
+   "views": 34489
   },
   {
    "title": "PHANTOM BLADE ZERO, mon avis après 50h : C'est Spectaculaire mais le rythme est inégal (Test PC)",
@@ -226,7 +237,7 @@
    "video": "5qv-E5-fbQM",
    "image": "https://i.ytimg.com/vi/5qv-E5-fbQM/hq720.jpg",
    "duration": 1682,
-   "views": 30378
+   "views": 30758
   },
   {
    "title": "L'HEBDO 💌 WoW Forever, Phantom Blade Zero et Forever Ago",
@@ -237,7 +248,7 @@
    "video": "2UvuTx2k0x4",
    "image": "https://i.ytimg.com/vi/2UvuTx2k0x4/hq720.jpg",
    "duration": 7394,
-   "views": 26396
+   "views": 26560
   },
   {
    "title": "Et si Ubisoft achetait Arkane ?",
@@ -248,7 +259,7 @@
    "video": "jNRqq4aRLXw",
    "image": "https://i.ytimg.com/vi/jNRqq4aRLXw/hq720.jpg",
    "duration": 1701,
-   "views": 27894
+   "views": 27918
   },
   {
    "title": "Découverte de Queen's Domain : c'est une merveille à mi chemin entre King's Field et Zelda !",
@@ -259,7 +270,7 @@
    "video": "DQOwbtKV6BQ",
    "image": "https://i.ytimg.com/vi/DQOwbtKV6BQ/hq720.jpg",
    "duration": 4414,
-   "views": 17790
+   "views": 17903
   },
   {
    "title": "STOP GTA ! Joue plutôt à ÇA en NOVEMBRE 2026 | #WISHLIST",
@@ -270,7 +281,7 @@
    "video": "ij_rZT03Kns",
    "image": "https://i.ytimg.com/vi/ij_rZT03Kns/hq720.jpg",
    "duration": 1083,
-   "views": 28873
+   "views": 28922
   },
   {
    "title": "Candidat au GOTY ? Nos avis sur Virtue and a Sledgegammer, Silver Pines et Endless Legend 2",
@@ -281,7 +292,7 @@
    "video": "YV9lxVayFWA",
    "image": "https://i.ytimg.com/vi/YV9lxVayFWA/hq720.jpg",
    "duration": 7496,
-   "views": 24772
+   "views": 24813
   },
   {
    "title": "Découverte de Phantom Blade Zero : ça à l'air pas mal du tout (Mode Difficile)",
@@ -292,7 +303,7 @@
    "video": "ciWic6E5Y1s",
    "image": "https://i.ytimg.com/vi/ciWic6E5Y1s/hq720.jpg",
    "duration": 6753,
-   "views": 20581
+   "views": 20594
   },
   {
    "title": "EA sacrifie BioWare : fermeture d'un studio de légende",
@@ -303,7 +314,7 @@
    "video": "ktOTJfhzm_s",
    "image": "https://i.ytimg.com/vi/ktOTJfhzm_s/hq720.jpg",
    "duration": 1810,
-   "views": 24972
+   "views": 24981
   },
   {
    "title": "En attendant GTA VI : nos clones de GTA préférés - Super Vieux Jeux",
@@ -314,7 +325,7 @@
    "video": "aWUITDJpxe0",
    "image": "https://i.ytimg.com/vi/aWUITDJpxe0/hq720.jpg",
    "duration": 11121,
-   "views": 42503
+   "views": 42585
   },
   {
    "title": "Retour aux sources pour Final Fantasy ? On a testé FF Resonance.",
@@ -325,7 +336,7 @@
    "video": "cvgCO6JOH-g",
    "image": "https://i.ytimg.com/vi/cvgCO6JOH-g/hq720.jpg",
    "duration": 6422,
-   "views": 27475
+   "views": 27494
   },
   {
    "title": "VALOR MORTIS | Chapitre FINAL : La Prison & les Deux derniers Boss !",
@@ -336,7 +347,7 @@
    "video": "qlu8mw_0HFE",
    "image": "https://i.ytimg.com/vi/qlu8mw_0HFE/hq720.jpg",
    "duration": 5152,
-   "views": 10315
+   "views": 10369
   },
   {
    "title": "VALOR MORTIS | Chapitre 10 : La Forteresse & conclusion Quête des Assermentés",
@@ -347,7 +358,7 @@
    "video": "IXFQbz-qBOY",
    "image": "https://i.ytimg.com/vi/IXFQbz-qBOY/hq720.jpg",
    "duration": 6863,
-   "views": 8918
+   "views": 8965
   },
   {
    "title": "Découverte de ReBlade The Death Spiral : Quand Hades rencontre Stellar Blade !",
@@ -358,18 +369,7 @@
    "video": "SGhW37RKDcI",
    "image": "https://i.ytimg.com/vi/SGhW37RKDcI/hq720.jpg",
    "duration": 3191,
-   "views": 17610
-  },
-  {
-   "title": "VALOR MORTIS | Chapitre 9 : La Faculté et Boss L'Orphelin",
-   "link": "https://www.youtube.com/watch?v=2U5jU9TblFM",
-   "date": "2026-10-20T15:00:03Z",
-   "source": "Playmoo",
-   "category": "Découverte & avis",
-   "video": "2U5jU9TblFM",
-   "image": "https://i.ytimg.com/vi/2U5jU9TblFM/hq720.jpg",
-   "duration": 6513,
-   "views": 8661
+   "views": 17617
   },
   {
    "title": "RESONANCE est l'œuvre somme de FINAL FANTASY !",
@@ -380,7 +380,7 @@
    "video": "Ypn58CkxgPo",
    "image": "https://i.ytimg.com/vi/Ypn58CkxgPo/hq720.jpg",
    "duration": 1143,
-   "views": 27375
+   "views": 27382
   },
   {
    "title": "VALOR MORTIS est un Souls-Like UNIQUE en son genre !",
@@ -391,7 +391,7 @@
    "video": "32icze8rd0Q",
    "image": "https://i.ytimg.com/vi/32icze8rd0Q/hq720.jpg",
    "duration": 1056,
-   "views": 46515
+   "views": 46552
   },
   {
    "title": "DRAGON'S DOGMA 2 Dark Arisen mérite tout votre AMOUR !",
@@ -402,7 +402,7 @@
    "video": "GAb2HD9FhaY",
    "image": "https://i.ytimg.com/vi/GAb2HD9FhaY/hq720.jpg",
    "duration": 1198,
-   "views": 37777
+   "views": 37810
   },
   {
    "title": "ACE COMBAT 8 est une addiction, mais j'en attendais BIEN plus...",
@@ -413,7 +413,7 @@
    "video": "XI0jf-9qI3I",
    "image": "https://i.ytimg.com/vi/XI0jf-9qI3I/hq720.jpg",
    "duration": 1161,
-   "views": 16960
+   "views": 16970
   },
   {
    "title": "L'HISTOIRE de CONTROL • Analyse et explications",
@@ -424,7 +424,7 @@
    "video": "XGVP42-Xt_g",
    "image": "https://i.ytimg.com/vi/XGVP42-Xt_g/hq720.jpg",
    "duration": 4114,
-   "views": 63032
+   "views": 63052
   },
   {
    "title": "Le jeu le plus BRILLANT de l'année",
@@ -435,7 +435,7 @@
    "video": "DJDS_3Hawww",
    "image": "https://i.ytimg.com/vi/DJDS_3Hawww/hq720.jpg",
    "duration": 1088,
-   "views": 8789
+   "views": 8790
   },
   {
    "title": "ONIMUSHA: WAY OF THE SWORD est aussi fascinant que désolant...",
@@ -446,7 +446,7 @@
    "video": "e8gZl76KMn8",
    "image": "https://i.ytimg.com/vi/e8gZl76KMn8/hq720.jpg",
    "duration": 1166,
-   "views": 17937
+   "views": 17939
   },
   {
    "title": "A Plague Tale Resonance, la SURPRISE du chef !",
@@ -457,7 +457,7 @@
    "video": "r7IcKcDcwA4",
    "image": "https://i.ytimg.com/vi/r7IcKcDcwA4/hq720.jpg",
    "duration": 1092,
-   "views": 9219
+   "views": 9220
   },
   {
    "title": "Mon avis rapide sur la TARNISHED EDITION d'Elden Ring !",
@@ -468,7 +468,7 @@
    "video": "KIj1zw0h0d4",
    "image": "https://i.ytimg.com/vi/KIj1zw0h0d4/hq720.jpg",
    "duration": 737,
-   "views": 27726
+   "views": 27727
   },
   {
    "title": "MORTAL SHELL 2 est à deux doigts de la PERFECTION !",
@@ -479,7 +479,7 @@
    "video": "5SqebwyVtcs",
    "image": "https://i.ytimg.com/vi/5SqebwyVtcs/hq720.jpg",
    "duration": 1315,
-   "views": 47392
+   "views": 47405
   }
  ],
  "news": [
@@ -589,6 +589,13 @@
    "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/Xbox-Retrocompatibilite-PC.jpg"
   },
   {
+   "title": "Pêche Soulframe : comment la débloquer et comment ça marche ?",
+   "link": "https://www.actugaming.net/peche-soulframe-poissons-833479/",
+   "date": "2026-11-15T10:57:46+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/11/soulframe-peche-vignette.jpg"
+  },
+  {
    "title": "Avant la sortie de GTA VI, retour sur GTA IV et la concrétisation d’une vision",
    "link": "https://www.actugaming.net/gta-iv-la-concretisation-dune-vision-707217/",
    "date": "2026-11-14T08:00:05+00:00",
@@ -650,13 +657,6 @@
    "date": "2026-11-13T13:35:02+00:00",
    "source": "ActuGaming",
    "image": "https://static.actugaming.net/media/2026/06/senua-official-screenshot-1.jpg"
-  },
-  {
-   "title": "Le programme de rétrocompatibilité de Xbox s’étend à 21 jeux supplémentaires, avec Star Wars KOTOR et Morrowind",
-   "link": "https://www.actugaming.net/le-programme-de-retrocompatibilite-de-xbox-setend-a-21-jeux-supplementaires-avec-star-wars-kotor-et-morrowind-833416/",
-   "date": "2026-11-13T13:15:29+00:00",
-   "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/11/xbox-retrocompatibilite.jpg"
   }
  ]
 }
