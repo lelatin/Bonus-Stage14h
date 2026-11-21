@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T14:52:48+00:00",
+ "updated": "2026-11-21T20:50:05+00:00",
  "sources": [
   {
    "name": "Loudic",
@@ -42,6 +42,17 @@
  ],
  "articles": [
   {
+   "title": "BURNING SWORD Death Sun est sorti en early access et c'est loin d'être convaincant !",
+   "link": "https://www.youtube.com/watch?v=jiv1Aapi5hw",
+   "date": "2026-11-21T16:00:05Z",
+   "source": "Playmoo",
+   "category": "Découverte & avis",
+   "video": "jiv1Aapi5hw",
+   "image": "https://i.ytimg.com/vi/jiv1Aapi5hw/hq720.jpg",
+   "duration": 4141,
+   "views": 1663
+  },
+  {
    "title": "LA MONTAGNE DE LA MORT | The Legend of Zelda Twilight Princess - LET'S PLAY FR #4",
    "link": "https://www.youtube.com/watch?v=RvXCKyNSNA8",
    "date": "2026-11-21T07:30:32Z",
@@ -50,7 +61,7 @@
    "video": "RvXCKyNSNA8",
    "image": "https://i.ytimg.com/vi/RvXCKyNSNA8/hq720.jpg",
    "duration": 4553,
-   "views": 4873
+   "views": 8486
   },
   {
    "title": "PHANTOM BLADE ZERO | #9 : Pangzhen (part3), Boss Chang Hong & Flamme Danse Du Lion",
@@ -61,7 +72,7 @@
    "video": "SnTMTWVRwVg",
    "image": "https://i.ytimg.com/vi/SnTMTWVRwVg/hq720.jpg",
    "duration": 7005,
-   "views": 1647
+   "views": 1789
   },
   {
    "title": "LE SUCCESSEUR DE ANIMAL WELL | Monomoon - GAMEPLAY FR",
@@ -72,7 +83,7 @@
    "video": "YMHRGMteoso",
    "image": "https://i.ytimg.com/vi/YMHRGMteoso/hq720.jpg",
    "duration": 2115,
-   "views": 10783
+   "views": 12654
   },
   {
    "title": "Les petits jeux sont-ils le futur du jeu vidéo ?",
@@ -83,7 +94,7 @@
    "video": "s7p7vnM1Rek",
    "image": "https://i.ytimg.com/vi/s7p7vnM1Rek/hq720.jpg",
    "duration": 1959,
-   "views": 6592
+   "views": 7372
   },
   {
    "title": "LES SECRETS DU CHATEAU | Castlevania Belmont's Curse - LET'S PLAY FR #10",
@@ -94,7 +105,7 @@
    "video": "ukPKBsr5wvg",
    "image": "https://i.ytimg.com/vi/ukPKBsr5wvg/hq720.jpg",
    "duration": 4274,
-   "views": 8218
+   "views": 8738
   },
   {
    "title": "LE PLAISIR C'EST MAINTENANT | The Legend of Zelda Twilight Princess - LET'S PLAY FR #3",
@@ -105,7 +116,7 @@
    "video": "laSZ7g6O1eI",
    "image": "https://i.ytimg.com/vi/laSZ7g6O1eI/hq720.jpg",
    "duration": 4168,
-   "views": 14220
+   "views": 14673
   },
   {
    "title": "PHANTOM BLADE ZERO | #8 : Pangzhen (part2), Boss Marionnette Aberrante & Gu Wanyue",
@@ -116,7 +127,7 @@
    "video": "yIzyyFlQWhU",
    "image": "https://i.ytimg.com/vi/yIzyyFlQWhU/hq720.jpg",
    "duration": 7209,
-   "views": 2318
+   "views": 2378
   },
   {
    "title": "NE MANQUEZ PAS CE BONBON | Milki Delivery - GAMEPLAY FR",
@@ -127,7 +138,7 @@
    "video": "-_DsIU1q8Lc",
    "image": "https://i.ytimg.com/vi/-_DsIU1q8Lc/hq720.jpg",
    "duration": 2492,
-   "views": 12902
+   "views": 13631
   },
   {
    "title": "IL N'A PAS BESOIN DE REMAKE | The Legend of Zelda Twilight Princess - LET'S PLAY FR #2",
@@ -138,7 +149,7 @@
    "video": "OcmLaOGmYw4",
    "image": "https://i.ytimg.com/vi/OcmLaOGmYw4/hq720.jpg",
    "duration": 6526,
-   "views": 19831
+   "views": 20278
   },
   {
    "title": "PHANTOM BLADE ZERO | #7 : Pangzhen (part1), Boss Brasier & Tranche-Cavaliers",
@@ -149,7 +160,7 @@
    "video": "ew6a0b1xelU",
    "image": "https://i.ytimg.com/vi/ew6a0b1xelU/hq720.jpg",
    "duration": 7185,
-   "views": 2391
+   "views": 2459
   },
   {
    "title": "GTA VI et le retour de la monoculture",
@@ -160,7 +171,7 @@
    "video": "dM4kICMm9Hw",
    "image": "https://i.ytimg.com/vi/dM4kICMm9Hw/hq720.jpg",
    "duration": 1627,
-   "views": 28533
+   "views": 28992
   },
   {
    "title": "CETTE ZONE EST INFINIE | Phantom Blade Zero - LET'S PLAY FR #13",
@@ -171,7 +182,7 @@
    "video": "DQtasWtCtI4",
    "image": "https://i.ytimg.com/vi/DQtasWtCtI4/hq720.jpg",
    "duration": 4151,
-   "views": 12562
+   "views": 12722
   },
   {
    "title": "LA VERSION ULTIME DE TWILIGHT PRINCESS | The Legend of Zelda Twilight Princess - LET'S PLAY FR #1",
@@ -182,7 +193,7 @@
    "video": "etE17sy9v6E",
    "image": "https://i.ytimg.com/vi/etE17sy9v6E/hq720.jpg",
    "duration": 4726,
-   "views": 50017
+   "views": 50564
   },
   {
    "title": "PHANTOM BLADE ZERO | #6 : Village de Lu (part2), Boss Soir & Mu Xiaokui",
@@ -193,7 +204,7 @@
    "video": "6VxxzO24FOA",
    "image": "https://i.ytimg.com/vi/6VxxzO24FOA/hq720.jpg",
    "duration": 7571,
-   "views": 3267
+   "views": 3326
   },
   {
    "title": "LA FIN D'UN MONUMENT | The Legend of Zelda Ocarina of Time - LET'S PLAY FR #13",
@@ -204,7 +215,7 @@
    "video": "VhbHkdragYw",
    "image": "https://i.ytimg.com/vi/VhbHkdragYw/hq720.jpg",
    "duration": 5863,
-   "views": 24208
+   "views": 24505
   },
   {
    "title": "PHANTOM BLADE ZERO | #5 : Village de Lu (part1), Boss Zhuo Bi & Maître Bi Yuan",
@@ -215,7 +226,7 @@
    "video": "U5Oibylws2I",
    "image": "https://i.ytimg.com/vi/U5Oibylws2I/hq720.jpg",
    "duration": 7599,
-   "views": 3732
+   "views": 3768
   },
   {
    "title": "LE ROI DE VERRE | Castlevania Belmont's Curse - LET'S PLAY FR #9",
@@ -226,7 +237,7 @@
    "video": "Q5d-BWvYQzE",
    "image": "https://i.ytimg.com/vi/Q5d-BWvYQzE/hq720.jpg",
    "duration": 2651,
-   "views": 11899
+   "views": 11920
   },
   {
    "title": "PHANTOM BLADE ZERO | #4 : La Forêt Rouge (part2) & Boss Bai Chilian & Masque d'Or",
@@ -237,7 +248,7 @@
    "video": "CX4X-fEfpZY",
    "image": "https://i.ytimg.com/vi/CX4X-fEfpZY/hq720.jpg",
    "duration": 5807,
-   "views": 3606
+   "views": 3645
   },
   {
    "title": "Un remake PARFAIT ? On a testé Ocarina of Time, le retour du Zelda légendaire",
@@ -248,7 +259,7 @@
    "video": "GMHZVObQ1T0",
    "image": "https://i.ytimg.com/vi/GMHZVObQ1T0/hq720.jpg",
    "duration": 8056,
-   "views": 33253
+   "views": 33555
   },
   {
    "title": "PHANTOM BLADE ZERO | #3 : La Forêt Rouge (part1) & Boss Hua Qianxiao",
@@ -259,7 +270,7 @@
    "video": "iHIPOnpkTB8",
    "image": "https://i.ytimg.com/vi/iHIPOnpkTB8/hq720.jpg",
    "duration": 7276,
-   "views": 5395
+   "views": 5437
   },
   {
    "title": "PHANTOM BLADE ZERO | #2 : Base de la Tour Sha-Chi, Boss Hua la Fiancée Mortelle & Hunt",
@@ -270,7 +281,7 @@
    "video": "Dk95QkGAkg0",
    "image": "https://i.ytimg.com/vi/Dk95QkGAkg0/hq720.jpg",
    "duration": 6835,
-   "views": 6242
+   "views": 6280
   },
   {
    "title": "Les ados ont toujours raison (sur internet)",
@@ -281,7 +292,7 @@
    "video": "uyVRwh09a50",
    "image": "https://i.ytimg.com/vi/uyVRwh09a50/hq720.jpg",
    "duration": 7259,
-   "views": 8142
+   "views": 8204
   },
   {
    "title": "PHANTOM BLADE ZERO | #1 : Bienvenue dans le Wulin, Vallée du Ruisseau & Boss Peng Meng",
@@ -292,7 +303,7 @@
    "video": "seGVCaC6WcM",
    "image": "https://i.ytimg.com/vi/seGVCaC6WcM/hq720.jpg",
    "duration": 8182,
-   "views": 8561
+   "views": 8585
   },
   {
    "title": "Actus Rétro 🕹️ Queen’s Domain, Tenebris Somnia ou The Traveler’s Sight",
@@ -303,18 +314,7 @@
    "video": "jwQ6kd0nOqU",
    "image": "https://i.ytimg.com/vi/jwQ6kd0nOqU/hq720.jpg",
    "duration": 4099,
-   "views": 23585
-  },
-  {
-   "title": "PHANTOM BLADE ZERO, mon avis après 50h : C'est Spectaculaire mais le rythme est inégal (Test PC)",
-   "link": "https://www.youtube.com/watch?v=5qv-E5-fbQM",
-   "date": "2026-11-08T16:00:01Z",
-   "source": "Playmoo",
-   "category": "Découverte & avis",
-   "video": "5qv-E5-fbQM",
-   "image": "https://i.ytimg.com/vi/5qv-E5-fbQM/hq720.jpg",
-   "duration": 1682,
-   "views": 33515
+   "views": 23715
   },
   {
    "title": "L'HEBDO 💌 WoW Forever, Phantom Blade Zero et Forever Ago",
@@ -325,7 +325,7 @@
    "video": "2UvuTx2k0x4",
    "image": "https://i.ytimg.com/vi/2UvuTx2k0x4/hq720.jpg",
    "duration": 7394,
-   "views": 27663
+   "views": 27705
   },
   {
    "title": "Et si Ubisoft achetait Arkane ?",
@@ -336,7 +336,7 @@
    "video": "jNRqq4aRLXw",
    "image": "https://i.ytimg.com/vi/jNRqq4aRLXw/hq720.jpg",
    "duration": 1701,
-   "views": 28303
+   "views": 28320
   },
   {
    "title": "STOP GTA ! Joue plutôt à ÇA en NOVEMBRE 2026 | #WISHLIST",
@@ -347,7 +347,7 @@
    "video": "ij_rZT03Kns",
    "image": "https://i.ytimg.com/vi/ij_rZT03Kns/hq720.jpg",
    "duration": 1083,
-   "views": 29404
+   "views": 29429
   },
   {
    "title": "Candidat au GOTY ? Nos avis sur Virtue and a Sledgegammer, Silver Pines et Endless Legend 2",
@@ -358,7 +358,7 @@
    "video": "YV9lxVayFWA",
    "image": "https://i.ytimg.com/vi/YV9lxVayFWA/hq720.jpg",
    "duration": 7496,
-   "views": 25401
+   "views": 25432
   },
   {
    "title": "EA sacrifie BioWare : fermeture d'un studio de légende",
@@ -369,7 +369,7 @@
    "video": "ktOTJfhzm_s",
    "image": "https://i.ytimg.com/vi/ktOTJfhzm_s/hq720.jpg",
    "duration": 1810,
-   "views": 25202
+   "views": 25206
   },
   {
    "title": "RESONANCE est l'œuvre somme de FINAL FANTASY !",
@@ -380,7 +380,7 @@
    "video": "Ypn58CkxgPo",
    "image": "https://i.ytimg.com/vi/Ypn58CkxgPo/hq720.jpg",
    "duration": 1143,
-   "views": 27570
+   "views": 27578
   },
   {
    "title": "VALOR MORTIS est un Souls-Like UNIQUE en son genre !",
@@ -391,7 +391,7 @@
    "video": "32icze8rd0Q",
    "image": "https://i.ytimg.com/vi/32icze8rd0Q/hq720.jpg",
    "duration": 1056,
-   "views": 46869
+   "views": 46878
   },
   {
    "title": "DRAGON'S DOGMA 2 Dark Arisen mérite tout votre AMOUR !",
@@ -402,7 +402,7 @@
    "video": "GAb2HD9FhaY",
    "image": "https://i.ytimg.com/vi/GAb2HD9FhaY/hq720.jpg",
    "duration": 1198,
-   "views": 38316
+   "views": 38353
   },
   {
    "title": "ACE COMBAT 8 est une addiction, mais j'en attendais BIEN plus...",
@@ -413,7 +413,7 @@
    "video": "XI0jf-9qI3I",
    "image": "https://i.ytimg.com/vi/XI0jf-9qI3I/hq720.jpg",
    "duration": 1161,
-   "views": 17067
+   "views": 17078
   },
   {
    "title": "L'HISTOIRE de CONTROL • Analyse et explications",
@@ -424,7 +424,7 @@
    "video": "XGVP42-Xt_g",
    "image": "https://i.ytimg.com/vi/XGVP42-Xt_g/hq720.jpg",
    "duration": 4114,
-   "views": 63519
+   "views": 63545
   },
   {
    "title": "Le jeu le plus BRILLANT de l'année",
@@ -435,7 +435,7 @@
    "video": "DJDS_3Hawww",
    "image": "https://i.ytimg.com/vi/DJDS_3Hawww/hq720.jpg",
    "duration": 1088,
-   "views": 8799
+   "views": 8800
   },
   {
    "title": "ONIMUSHA: WAY OF THE SWORD est aussi fascinant que désolant...",
@@ -446,7 +446,7 @@
    "video": "e8gZl76KMn8",
    "image": "https://i.ytimg.com/vi/e8gZl76KMn8/hq720.jpg",
    "duration": 1166,
-   "views": 17971
+   "views": 17974
   },
   {
    "title": "A Plague Tale Resonance, la SURPRISE du chef !",
@@ -457,7 +457,7 @@
    "video": "r7IcKcDcwA4",
    "image": "https://i.ytimg.com/vi/r7IcKcDcwA4/hq720.jpg",
    "duration": 1092,
-   "views": 9252
+   "views": 9253
   },
   {
    "title": "Mon avis rapide sur la TARNISHED EDITION d'Elden Ring !",
@@ -468,7 +468,7 @@
    "video": "KIj1zw0h0d4",
    "image": "https://i.ytimg.com/vi/KIj1zw0h0d4/hq720.jpg",
    "duration": 737,
-   "views": 27754
+   "views": 27756
   },
   {
    "title": "MORTAL SHELL 2 est à deux doigts de la PERFECTION !",
@@ -479,7 +479,7 @@
    "video": "5SqebwyVtcs",
    "image": "https://i.ytimg.com/vi/5SqebwyVtcs/hq720.jpg",
    "duration": 1315,
-   "views": 47727
+   "views": 47738
   }
  ],
  "news": [
@@ -589,6 +589,27 @@
    "image": "https://www.xboxygen.com/wp-content/uploads/2025/08/ubisoft_nomme_son_fils_pdg.jpg"
   },
   {
+   "title": "Prologue GTA 6 : soluce et peut-on échapper à la police ?",
+   "link": "https://www.actugaming.net/soluce-prologue-gta-6-834466/",
+   "date": "2026-11-21T20:49:08+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/11/gta-6-prologue-couverture-.jpg"
+  },
+  {
+   "title": "Chapitre 1 GTA 6 (Un goût de paradis) : Soluce des 22 missions",
+   "link": "https://www.actugaming.net/soluce-chapitre-1-gta-6-834461/",
+   "date": "2026-11-21T19:31:02+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/11/gta-6-chapitre-1-illustration.jpg"
+  },
+  {
+   "title": "GTA 6 impressionne les grands noms du jeu vidéo : Naughty Dog, CD Projekt et Larian réagissent",
+   "link": "https://www.actugaming.net/gta-6-reactions-developpeurs-naughty-dog-cd-projekt-834589/",
+   "date": "2026-11-21T16:11:08+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/08/gta-6-official-screenshot-aout-2026-3.jpg"
+  },
+  {
    "title": "Radios GTA 6 : liste complète des stations et des musiques",
    "link": "https://www.actugaming.net/radios-musiques-gta-6-834386/",
    "date": "2026-11-21T07:00:34+00:00",
@@ -636,27 +657,6 @@
    "date": "2026-11-20T14:29:46+00:00",
    "source": "ActuGaming",
    "image": "https://static.actugaming.net/media/2026/11/meditation-gta6.jpg"
-  },
-  {
-   "title": "Zenless Zone Zero : Tout ce qu’il faut savoir sur la mise à jour 3.4 (Dame de l’Aurore, collaboration avec Honkai Star Rail…)",
-   "link": "https://www.actugaming.net/zenless-zone-zero-tout-ce-quil-faut-savoir-sur-la-mise-a-jour-3-4-dame-de-laurore-collaboration-avec-honkai-star-rail-834357/",
-   "date": "2026-11-20T14:21:48+00:00",
-   "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/11/zenless-zone-zero-43.jpg"
-  },
-  {
-   "title": "Dragon Ball Daima sur Gulli : les nouvelles aventures de Goku aussi jouables en jeu vidéo",
-   "link": "https://www.actugaming.net/dragon-ball-daima-gulli-jeux-video-832940/",
-   "date": "2026-11-20T13:44:19+00:00",
-   "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/11/dragon-ball-daima-1.jpg"
-  },
-  {
-   "title": "Assassin’s Creed Jade est toujours en vie, Ubisoft fusionne ses Creative Houses 3 et 5 pour faire avancer les choses",
-   "link": "https://www.actugaming.net/assassins-creed-jade-est-toujours-en-vie-ubisoft-fusionne-ses-creative-houses-3-et-5-pour-faire-avancer-les-choses-834354/",
-   "date": "2026-11-20T13:13:56+00:00",
-   "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2023/08/assassins-creed-jade-screenshots-7.jpg"
   }
  ]
 }
