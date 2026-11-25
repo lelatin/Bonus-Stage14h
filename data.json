@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T04:00:17+00:00",
+ "updated": "2026-11-25T14:48:54+00:00",
  "sources": [
   {
    "name": "Loudic",
@@ -42,6 +42,17 @@
  ],
  "articles": [
   {
+   "title": "Ni Blueprints ni C++ : comment Unreal Engine 6 veut tout changer",
+   "link": "https://www.youtube.com/watch?v=_D6bi_M2tHo",
+   "date": "2026-11-25T14:36:21Z",
+   "source": "Origami",
+   "category": "Découverte & avis",
+   "video": "_D6bi_M2tHo",
+   "image": "https://i.ytimg.com/vi/_D6bi_M2tHo/hq720.jpg",
+   "duration": 1568,
+   "views": 40
+  },
+  {
    "title": "LE TEMPLE ABYSSAL | The Legend of Zelda Twilight Princess - LET'S PLAY FR #7",
    "link": "https://www.youtube.com/watch?v=r9new2DwhZ0",
    "date": "2026-11-24T16:00:22Z",
@@ -50,7 +61,7 @@
    "video": "r9new2DwhZ0",
    "image": "https://i.ytimg.com/vi/r9new2DwhZ0/hq720.jpg",
    "duration": 4301,
-   "views": 8071
+   "views": 10153
   },
   {
    "title": "PHANTOM BLADE ZERO | #11 : Campement du Mandat (part2), Boss Disciples 7 étoiles & Yubi Marionnette",
@@ -61,7 +72,7 @@
    "video": "o6ehnvH_y4M",
    "image": "https://i.ytimg.com/vi/o6ehnvH_y4M/hq720.jpg",
    "duration": 6653,
-   "views": 1293
+   "views": 1750
   },
   {
    "title": "DE L'AUTRE COTÉ DU MIROIR | The Legend of Zelda Twilight Princess - LET'S PLAY FR #6",
@@ -72,7 +83,7 @@
    "video": "YveMy80us6k",
    "image": "https://i.ytimg.com/vi/YveMy80us6k/hq720.jpg",
    "duration": 3656,
-   "views": 11388
+   "views": 11964
   },
   {
    "title": "Pourquoi l'Allemagne ADORE les jeux de simulation ?",
@@ -83,7 +94,7 @@
    "video": "hhzLlmXwL2A",
    "image": "https://i.ytimg.com/vi/hhzLlmXwL2A/hq720.jpg",
    "duration": 405,
-   "views": 6402
+   "views": 6895
   },
   {
    "title": "DEUX BOSS QUI DÉFONCENT | Phantom Blade Zero - LET'S PLAY FR #14",
@@ -94,7 +105,7 @@
    "video": "KLX_wZS8uZg",
    "image": "https://i.ytimg.com/vi/KLX_wZS8uZg/hq720.jpg",
    "duration": 4699,
-   "views": 11975
+   "views": 12317
   },
   {
    "title": "PHANTOM BLADE ZERO | #10 : Campement du Mandat (part1), Boss Acolyte Lei Ting & Wan Ju Brise-Cuivre",
@@ -105,7 +116,7 @@
    "video": "1dHQ-BrQ0x0",
    "image": "https://i.ytimg.com/vi/1dHQ-BrQ0x0/hq720.jpg",
    "duration": 6260,
-   "views": 2590
+   "views": 2651
   },
   {
    "title": "L'HEBDO 💌 Queen's Domain, Monomoon et une surprise !",
@@ -116,7 +127,7 @@
    "video": "QHUUUZvB7Mk",
    "image": "https://i.ytimg.com/vi/QHUUUZvB7Mk/hq720.jpg",
    "duration": 5594,
-   "views": 26079
+   "views": 26904
   },
   {
    "title": "MAIS QUELLE CLAQUE | The Legend of Zelda Twilight Princess - LET'S PLAY FR #5",
@@ -127,7 +138,7 @@
    "video": "hCxqP9AiOz8",
    "image": "https://i.ytimg.com/vi/hCxqP9AiOz8/hq720.jpg",
    "duration": 4905,
-   "views": 14271
+   "views": 14528
   },
   {
    "title": "BURNING SWORD Death Sun est sorti en early access et c'est loin d'être convaincant !",
@@ -138,7 +149,7 @@
    "video": "jiv1Aapi5hw",
    "image": "https://i.ytimg.com/vi/jiv1Aapi5hw/hq720.jpg",
    "duration": 4141,
-   "views": 8119
+   "views": 8278
   },
   {
    "title": "LA MONTAGNE DE LA MORT | The Legend of Zelda Twilight Princess - LET'S PLAY FR #4",
@@ -149,7 +160,7 @@
    "video": "RvXCKyNSNA8",
    "image": "https://i.ytimg.com/vi/RvXCKyNSNA8/hq720.jpg",
    "duration": 4553,
-   "views": 16394
+   "views": 16661
   },
   {
    "title": "PHANTOM BLADE ZERO | #9 : Pangzhen (part3), Boss Chang Hong & Flamme Danse Du Lion",
@@ -160,7 +171,7 @@
    "video": "SnTMTWVRwVg",
    "image": "https://i.ytimg.com/vi/SnTMTWVRwVg/hq720.jpg",
    "duration": 7005,
-   "views": 2536
+   "views": 2567
   },
   {
    "title": "ABSOLUMENT MAGISTRAL | Monomoon - GAMEPLAY FR",
@@ -171,7 +182,7 @@
    "video": "YMHRGMteoso",
    "image": "https://i.ytimg.com/vi/YMHRGMteoso/hq720.jpg",
    "duration": 2115,
-   "views": 21508
+   "views": 22000
   },
   {
    "title": "Les petits jeux sont-ils le futur du jeu vidéo ?",
@@ -182,7 +193,7 @@
    "video": "s7p7vnM1Rek",
    "image": "https://i.ytimg.com/vi/s7p7vnM1Rek/hq720.jpg",
    "duration": 1959,
-   "views": 10427
+   "views": 10604
   },
   {
    "title": "LES SECRETS DU CHATEAU | Castlevania Belmont's Curse - LET'S PLAY FR #10",
@@ -193,7 +204,7 @@
    "video": "ukPKBsr5wvg",
    "image": "https://i.ytimg.com/vi/ukPKBsr5wvg/hq720.jpg",
    "duration": 4274,
-   "views": 10692
+   "views": 10776
   },
   {
    "title": "LE PLAISIR C'EST MAINTENANT | The Legend of Zelda Twilight Princess - LET'S PLAY FR #3",
@@ -204,7 +215,7 @@
    "video": "laSZ7g6O1eI",
    "image": "https://i.ytimg.com/vi/laSZ7g6O1eI/hq720.jpg",
    "duration": 4168,
-   "views": 17983
+   "views": 18168
   },
   {
    "title": "PHANTOM BLADE ZERO | #8 : Pangzhen (part2), Boss Marionnette Aberrante & Gu Wanyue",
@@ -215,7 +226,7 @@
    "video": "yIzyyFlQWhU",
    "image": "https://i.ytimg.com/vi/yIzyyFlQWhU/hq720.jpg",
    "duration": 7209,
-   "views": 2915
+   "views": 2959
   },
   {
    "title": "NE MANQUEZ PAS CE BONBON | Milki Delivery - GAMEPLAY FR",
@@ -226,7 +237,7 @@
    "video": "-_DsIU1q8Lc",
    "image": "https://i.ytimg.com/vi/-_DsIU1q8Lc/hq720.jpg",
    "duration": 2492,
-   "views": 17152
+   "views": 17380
   },
   {
    "title": "IL N'A PAS BESOIN DE REMAKE | The Legend of Zelda Twilight Princess - LET'S PLAY FR #2",
@@ -237,7 +248,7 @@
    "video": "OcmLaOGmYw4",
    "image": "https://i.ytimg.com/vi/OcmLaOGmYw4/hq720.jpg",
    "duration": 6526,
-   "views": 23624
+   "views": 23794
   },
   {
    "title": "PHANTOM BLADE ZERO | #7 : Pangzhen (part1), Boss Brasier & Tranche-Cavaliers",
@@ -248,7 +259,7 @@
    "video": "ew6a0b1xelU",
    "image": "https://i.ytimg.com/vi/ew6a0b1xelU/hq720.jpg",
    "duration": 7185,
-   "views": 2828
+   "views": 2854
   },
   {
    "title": "GTA VI et le retour de la monoculture",
@@ -259,7 +270,7 @@
    "video": "dM4kICMm9Hw",
    "image": "https://i.ytimg.com/vi/dM4kICMm9Hw/hq720.jpg",
    "duration": 1627,
-   "views": 31523
+   "views": 31662
   },
   {
    "title": "PHANTOM BLADE ZERO | #6 : Village de Lu (part2), Boss Soir & Mu Xiaokui",
@@ -270,7 +281,7 @@
    "video": "6VxxzO24FOA",
    "image": "https://i.ytimg.com/vi/6VxxzO24FOA/hq720.jpg",
    "duration": 7571,
-   "views": 3818
+   "views": 3840
   },
   {
    "title": "PHANTOM BLADE ZERO | #5 : Village de Lu (part1), Boss Zhuo Bi & Maître Bi Yuan",
@@ -281,7 +292,7 @@
    "video": "U5Oibylws2I",
    "image": "https://i.ytimg.com/vi/U5Oibylws2I/hq720.jpg",
    "duration": 7599,
-   "views": 4164
+   "views": 4204
   },
   {
    "title": "PHANTOM BLADE ZERO | #4 : La Forêt Rouge (part2) & Boss Bai Chilian & Masque d'Or",
@@ -292,7 +303,7 @@
    "video": "CX4X-fEfpZY",
    "image": "https://i.ytimg.com/vi/CX4X-fEfpZY/hq720.jpg",
    "duration": 5807,
-   "views": 4009
+   "views": 4020
   },
   {
    "title": "Un remake PARFAIT ? On a testé Ocarina of Time, le retour du Zelda légendaire",
@@ -303,7 +314,7 @@
    "video": "GMHZVObQ1T0",
    "image": "https://i.ytimg.com/vi/GMHZVObQ1T0/hq720.jpg",
    "duration": 8056,
-   "views": 35396
+   "views": 35572
   },
   {
    "title": "PHANTOM BLADE ZERO | #3 : La Forêt Rouge (part1) & Boss Hua Qianxiao",
@@ -314,7 +325,7 @@
    "video": "iHIPOnpkTB8",
    "image": "https://i.ytimg.com/vi/iHIPOnpkTB8/hq720.jpg",
    "duration": 7276,
-   "views": 5870
+   "views": 5887
   },
   {
    "title": "Les ados ont toujours raison (sur internet)",
@@ -325,7 +336,7 @@
    "video": "uyVRwh09a50",
    "image": "https://i.ytimg.com/vi/uyVRwh09a50/hq720.jpg",
    "duration": 7259,
-   "views": 8565
+   "views": 8605
   },
   {
    "title": "Actus Rétro 🕹️ Queen’s Domain, Tenebris Somnia ou The Traveler’s Sight",
@@ -336,7 +347,7 @@
    "video": "jwQ6kd0nOqU",
    "image": "https://i.ytimg.com/vi/jwQ6kd0nOqU/hq720.jpg",
    "duration": 4099,
-   "views": 24369
+   "views": 24415
   },
   {
    "title": "L'HEBDO 💌 WoW Forever, Phantom Blade Zero et Forever Ago",
@@ -347,7 +358,7 @@
    "video": "2UvuTx2k0x4",
    "image": "https://i.ytimg.com/vi/2UvuTx2k0x4/hq720.jpg",
    "duration": 7394,
-   "views": 28049
+   "views": 28084
   },
   {
    "title": "Et si Ubisoft achetait Arkane ?",
@@ -358,18 +369,7 @@
    "video": "jNRqq4aRLXw",
    "image": "https://i.ytimg.com/vi/jNRqq4aRLXw/hq720.jpg",
    "duration": 1701,
-   "views": 28468
-  },
-  {
-   "title": "STOP GTA ! Joue plutôt à ÇA en NOVEMBRE 2026 | #WISHLIST",
-   "link": "https://www.youtube.com/watch?v=ij_rZT03Kns",
-   "date": "2026-11-01T09:37:17Z",
-   "source": "Origami",
-   "category": "Découverte & avis",
-   "video": "ij_rZT03Kns",
-   "image": "https://i.ytimg.com/vi/ij_rZT03Kns/hq720.jpg",
-   "duration": 1083,
-   "views": 29570
+   "views": 28469
   },
   {
    "title": "RESONANCE est l'œuvre somme de FINAL FANTASY !",
@@ -380,7 +380,7 @@
    "video": "Ypn58CkxgPo",
    "image": "https://i.ytimg.com/vi/Ypn58CkxgPo/hq720.jpg",
    "duration": 1143,
-   "views": 27678
+   "views": 27687
   },
   {
    "title": "VALOR MORTIS est un Souls-Like UNIQUE en son genre !",
@@ -391,7 +391,7 @@
    "video": "32icze8rd0Q",
    "image": "https://i.ytimg.com/vi/32icze8rd0Q/hq720.jpg",
    "duration": 1056,
-   "views": 47020
+   "views": 47036
   },
   {
    "title": "DRAGON'S DOGMA 2 Dark Arisen mérite tout votre AMOUR !",
@@ -402,7 +402,7 @@
    "video": "GAb2HD9FhaY",
    "image": "https://i.ytimg.com/vi/GAb2HD9FhaY/hq720.jpg",
    "duration": 1198,
-   "views": 38569
+   "views": 38581
   },
   {
    "title": "ACE COMBAT 8 est une addiction, mais j'en attendais BIEN plus...",
@@ -413,7 +413,7 @@
    "video": "XI0jf-9qI3I",
    "image": "https://i.ytimg.com/vi/XI0jf-9qI3I/hq720.jpg",
    "duration": 1161,
-   "views": 17165
+   "views": 17171
   },
   {
    "title": "L'HISTOIRE de CONTROL • Analyse et explications",
@@ -424,7 +424,7 @@
    "video": "XGVP42-Xt_g",
    "image": "https://i.ytimg.com/vi/XGVP42-Xt_g/hq720.jpg",
    "duration": 4114,
-   "views": 63732
+   "views": 63748
   },
   {
    "title": "Le jeu le plus BRILLANT de l'année",
@@ -457,7 +457,7 @@
    "video": "r7IcKcDcwA4",
    "image": "https://i.ytimg.com/vi/r7IcKcDcwA4/hq720.jpg",
    "duration": 1092,
-   "views": 9266
+   "views": 9268
   },
   {
    "title": "Mon avis rapide sur la TARNISHED EDITION d'Elden Ring !",
@@ -468,7 +468,7 @@
    "video": "KIj1zw0h0d4",
    "image": "https://i.ytimg.com/vi/KIj1zw0h0d4/hq720.jpg",
    "duration": 737,
-   "views": 27778
+   "views": 27782
   },
   {
    "title": "MORTAL SHELL 2 est à deux doigts de la PERFECTION !",
@@ -479,10 +479,87 @@
    "video": "5SqebwyVtcs",
    "image": "https://i.ytimg.com/vi/5SqebwyVtcs/hq720.jpg",
    "duration": 1315,
-   "views": 47885
+   "views": 47888
   }
  ],
  "news": [
+  {
+   "title": "Cyberpunk 2 prend de l’ampleur : son équipe de développement va fortement grandir en 2027",
+   "link": "https://www.xboxygen.com/News/375629-cyberpunk-2-prend-de-lampleur-son-equipe-de-developpement-va-fortement-grandir-en-2027",
+   "date": "2026-11-25T14:17:37+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2021/01/Cyberpunk-2077-2.jpg"
+  },
+  {
+   "title": "Un brevet d’Activision évoque des bots dopés à l’IA capables de commenter vos exploits",
+   "link": "https://www.xboxygen.com/News/375583-un-brevet-dactivision-evoque-des-bots-dopes-a-lia-capables-de-commenter-vos-exploits",
+   "date": "2026-11-25T13:16:11+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/Activision-IA.png"
+  },
+  {
+   "title": "Trois ans après sa mort, la première voix de FIFA revient dans EA Sports FC 27 grâce à l’IA",
+   "link": "https://www.xboxygen.com/News/375606-trois-ans-apres-sa-mort-la-premiere-voix-de-fifa-revient-dans-ea-sports-fc-27-grace-a-lia",
+   "date": "2026-11-25T12:37:57+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/09/FC27-tests.jpg"
+  },
+  {
+   "title": "ARC Raiders : le Projet « Flammes vacillantes » est disponible, le set Nessuno est à prix réduit",
+   "link": "https://www.xboxygen.com/News/375574-arc-raiders-le-projet-flammes-vacillantes-est-disponible-le-set-nessuno-est-a-prix-reduit",
+   "date": "2026-11-25T10:39:00+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/ARC-Raiders-Nessuno-Set.jpg"
+  },
+  {
+   "title": "Senua : plus de 100 concept arts dévoilent l’ambition du nouveau jeu Hellblade, mais son avenir est très incertain",
+   "link": "https://www.xboxygen.com/News/375515-senua-plus-de-100-concept-arts-devoilent-lambition-du-nouveau-jeu-hellblade-mais-son-avenir-est-tres-incertain",
+   "date": "2026-11-25T10:02:55+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/Senua-concept-art-Dan-Attwell-8-1.jpg"
+  },
+  {
+   "title": "GTA 6 : les versions Xbox Series X|S, PS5 et PS5 Pro comparées par Digital Foundry",
+   "link": "https://www.xboxygen.com/News/375493-gta-6-les-versions-xbox-series-xs-ps5-et-ps5-pro-comparees-par-digital-foundry",
+   "date": "2026-11-25T09:45:07+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/gta-6-xbox-series-x-vs-ps5.jpg"
+  },
+  {
+   "title": "Diablo 4 Saison 16 : nouveaux boss, objets horadriques et progression revisitée",
+   "link": "https://www.xboxygen.com/News/375504-diablo-4-saison-16-nouveaux-boss-objets-horadriques-et-progression-revisitee",
+   "date": "2026-11-25T09:20:01+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/Diablo-4-Saison-16-Stratageme-de-Tyrael-6.jpg"
+  },
+  {
+   "title": "Exoprimal, c’est terminé : Capcom annonce la fermeture des serveurs de son jeu de dinosaures",
+   "link": "https://www.xboxygen.com/News/375497-exoprimal-cest-termine-capcom-annonce-la-fermeture-des-serveurs-de-son-jeu-de-dinosaures",
+   "date": "2026-11-25T08:51:28+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2024/07/exoprimal-5.jpg"
+  },
+  {
+   "title": "Lords of the Fallen II : la période de sortie se précise, et la date exacte sera très bientôt annoncée",
+   "link": "https://www.xboxygen.com/News/375494-lords-of-the-fallen-ii-la-periode-de-sortie-se-precise-et-la-date-exacte-sera-tres-bientot-annoncee",
+   "date": "2026-11-25T08:22:10+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2025/08/Lords-of-the-Fallen-II-1.jpg"
+  },
+  {
+   "title": "Xbox perd un autre gros partenariat : PlayStation s’offre la promo de The Witcher 4",
+   "link": "https://www.xboxygen.com/News/375490-xbox-perd-un-autre-gros-partenariat-playstation-soffre-la-promo-de-the-witcher-4",
+   "date": "2026-11-25T07:10:52+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2025/06/the_witcher_4_gameplay.jpg"
+  },
+  {
+   "title": "GTA 6 sur PC : Take-Two fait déjà retirer Project Leonida et ses milliers de copies, mais c’est pas fini",
+   "link": "https://www.xboxygen.com/News/375483-gta-6-sur-pc-take-two-fait-deja-retirer-project-leonida-et-ses-milliers-de-copies-mais-cest-pas-fini",
+   "date": "2026-11-25T07:03:44+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/GTA-6-pc-windows.jpg"
+  },
   {
    "title": "Quantum Break 2 enfin une réalité ? Remedy ne ferme pas la porte, mais tout dépend de Xbox",
    "link": "https://www.xboxygen.com/News/375476-quantum-break-2-enfin-une-realite-remedy-ne-ferme-pas-la-porte-mais-tout-depend-de-xbox",
@@ -512,81 +589,67 @@
    "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/GTA-6-easter-egg-GTA-Vice-City.jpg"
   },
   {
-   "title": "Test – Turtle Beach Pacific Skyline : la meilleure manette Xbox aux couleurs de GTA 6 ?",
-   "link": "https://www.xboxygen.com/Tests/373623-test-turtle-beach-pacific-skyline-la-meilleure-manette-xbox-aux-couleurs-de-gta-6",
-   "date": "2026-11-24T14:28:27+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/manette-xbox-turtle-beach-pacific-skyline-gta-6.jpg"
+   "title": "Test Football Manager 27 – Un second souffle bienvenu pour la licence de jeux de gestion de foot",
+   "link": "https://www.actugaming.net/test-football-manager-27-834398/",
+   "date": "2026-11-25T14:35:04+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/10/football-manager-27.jpg"
   },
   {
-   "title": "GTA 6 fait perdre des millions de joueurs à Call of Duty et Fortnite, l’impact était prévisible",
-   "link": "https://www.xboxygen.com/News/375415-gta-6-fait-perdre-des-millions-de-joueurs-a-call-of-duty-et-fortnite-limpact-etait-previsible",
-   "date": "2026-11-24T13:46:03+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/GTA-6-captures-decran-5-novembre-24.avif"
+   "title": "Lords of the Fallen II arrivera en avril 2027, la date précise sera bientôt annoncée",
+   "link": "https://www.actugaming.net/lords-of-the-fallen-ii-arrivera-en-avril-2027-la-date-precise-sera-bientot-annoncee-835854/",
+   "date": "2026-11-25T10:29:44+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/06/lords-of-the-fallen-II-1.jpg"
   },
   {
-   "title": "« Devenir l’équivalent d’A24 dans le jeu vidéo » : Ubisoft Massive affiche ses grandes ambitions",
-   "link": "https://www.xboxygen.com/News/375413-devenir-lequivalent-da24-dans-le-jeu-video-ubisoft-massive-affiche-ses-grandes-ambitions",
-   "date": "2026-11-24T13:23:21+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/Ubisoft-Massive-Entertainment.jpg"
+   "title": "The Wolf Among Us Remastered a pris du retard sur Switch, mais cette version sortira finalement dans quelques jours",
+   "link": "https://www.actugaming.net/the-wolf-among-us-remastered-a-pris-du-retard-sur-switch-mais-cette-version-sortira-finalement-dans-quelques-jours-835851/",
+   "date": "2026-11-25T10:13:20+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/06/the-wolf-among-us-remastered-official-screenshot-1.jpg"
   },
   {
-   "title": "GTA 6 peut déjà être lancé sur PC après la fuite d’une build Xbox !",
-   "link": "https://www.xboxygen.com/News/375370-gta-6-peut-deja-etre-lance-sur-pc-apres-la-fuite-dune-build-xbox",
-   "date": "2026-11-24T10:53:18+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/GTA-6-capture-decran.jpg"
+   "title": "Exoprimal : Le jeu de dinosaures de Capcom rendra l’âme dès l’année prochaine et ne sera plus jouable",
+   "link": "https://www.actugaming.net/exoprimal-le-jeu-de-dinosaures-de-capcom-rendra-lame-des-lannee-prochaine-et-ne-sera-plus-jouable-835847/",
+   "date": "2026-11-25T09:30:49+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2022/03/exoprimal.jpg"
   },
   {
-   "title": "Xbox perd déjà l’exclusivité de GTA 6 dans le cloud : quels avantages et inconvénients sur Xbox et PS5 ?",
-   "link": "https://www.xboxygen.com/News/375371-xbox-perd-deja-lexclusivite-de-gta-6-dans-le-cloud-quels-avantages-et-inconvenients-sur-xbox-et-ps5",
-   "date": "2026-11-24T10:40:53+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/GTA-6-PlayStation-Portal.jpg"
+   "title": "CD Projekt indique que The Witcher 4 fera sa publicité en priorité chez PlayStation et dresse une comparaison avec GTA 6",
+   "link": "https://www.actugaming.net/cd-projekt-indique-que-the-witcher-4-fera-sa-publicite-en-priorite-chez-playstation-et-dresse-une-comparaison-avec-gta-6-835844/",
+   "date": "2026-11-25T09:15:18+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2024/12/the-witcher-4-reveal-01.jpeg"
   },
   {
-   "title": "“Cyberpunk 2 est annulé” : le directeur créatif de CD Projekt est bluffé par GTA 6 et évoque un miracle créatif",
-   "link": "https://www.xboxygen.com/News/375358-cyberpunk-2-est-annule-le-directeur-creatif-de-cd-projekt-est-bluffe-par-gta-6-et-evoque-un-miracle-creatif",
-   "date": "2026-11-24T10:04:16+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2025/06/cyberpunk-4.jpg"
+   "title": "Mario Kart World se met à jour avec des circuits revisités et de nouveaux tracés en mode Survie",
+   "link": "https://www.actugaming.net/mario-kart-world-se-met-a-jour-avec-des-circuits-revisites-et-de-nouveaux-traces-en-mode-survie-835840/",
+   "date": "2026-11-25T08:49:54+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/07/mario-kart-world-3.jpeg"
   },
   {
-   "title": "Halo Infinite : le Battle Royale annulé refait parler de lui avec des concept arts qui ne sont finalement pas les siens",
-   "link": "https://www.xboxygen.com/News/375308-halo-infinite-le-battle-royale-annule-refait-parler-de-lui-avec-des-concept-arts-qui-ne-sont-finalement-pas-les-siens",
-   "date": "2026-11-24T09:28:26+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2025/12/Halo-Infinite.jpg"
+   "title": "Fortnite annonce l’événement de fin du Chapitre 7, Requiem, prévu pour le 5 décembre prochain",
+   "link": "https://www.actugaming.net/fortnite-annonce-levenement-de-fin-du-chapitre-7-requiem-prevu-pour-le-5-decembre-prochain-835796/",
+   "date": "2026-11-25T06:30:12+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/11/fortnite-evenement-requiem.jpg"
   },
   {
-   "title": "Nioh 3 arrive sur Xbox : la franchise de Team Ninja n’est plus exclusive à PlayStation et au PC",
-   "link": "https://www.xboxygen.com/News/375344-nioh-3-arrive-sur-xbox-la-franchise-de-team-ninja-nest-plus-exclusive-a-playstation-et-au-pc",
-   "date": "2026-11-24T09:10:10+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/02/Nioh-3-3.jpg"
+   "title": "Mise à jour Aniimo du 26 novembre : arrêt des serveurs et nouveautés, le patch note complet est là",
+   "link": "https://www.actugaming.net/mise-a-jour-aniimo-du-26-novembre-arret-des-serveurs-et-nouveautes-le-patch-note-complet-est-la-835785/",
+   "date": "2026-11-25T06:00:41+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/09/aniimo-key-art.jpg"
   },
   {
-   "title": "GTA 6 : le hacker à l’origine de l’énorme leak de 2022 vient d’être condamné",
-   "link": "https://www.xboxygen.com/News/375343-gta-6-le-hacker-a-lorigine-de-lenorme-leak-de-2022-vient-detre-condamne",
-   "date": "2026-11-24T08:57:53+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/Arion-Kurtaj.jpg"
-  },
-  {
-   "title": "GTA 6 devient officiellement le plus gros lancement de l’histoire de PlayStation : les chiffres sont fous",
-   "link": "https://www.xboxygen.com/News/375337-gta-6-devient-officiellement-le-plus-gros-lancement-de-lhistoire-de-playstation-les-chiffres-sont-fous",
-   "date": "2026-11-24T08:35:25+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/PlayStation-GTA-6.jpg"
-  },
-  {
-   "title": "Xbox Game Pass : deux nouveaux jeux débarquent aujourd’hui, dont Sniper Ghost Warrior Contracts 2",
-   "link": "https://www.xboxygen.com/News/375336-xbox-game-pass-deux-nouveaux-jeux-debarquent-aujourdhui-dont-sniper-ghost-warrior-contracts-2",
-   "date": "2026-11-24T08:32:42+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2021/05/Sniper-Ghost-Warrior-Contracts-2-2.jpg"
+   "title": "Test The Witch’s Bakery – Un très bon cozy game où la boulangerie et la sorcellerie ne font qu’un",
+   "link": "https://www.actugaming.net/test-the-witchs-bakery-cozy-game-833787/",
+   "date": "2026-11-25T06:00:30+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2024/09/the-witch-bakery-1.jpg"
   },
   {
    "title": "Cartes Danseuses du Jack of Hearts GTA 6 : où trouver les 36 cartes ?",
@@ -594,69 +657,6 @@
    "date": "2026-11-24T19:05:18+00:00",
    "source": "ActuGaming",
    "image": "https://static.actugaming.net/media/2026/11/gta-6-guide-danseuses-jack-of-hearts-15.jpg"
-  },
-  {
-   "title": "Cartes Danseuses du Nine1Nine GTA 6 : où trouver les 36 cartes ?",
-   "link": "https://www.actugaming.net/cartes-danseuses-du-nine1nine-gta-6-833994/",
-   "date": "2026-11-24T19:04:42+00:00",
-   "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/11/soluce-gta-6-carte-a-collectionner-danseuses-du-nine1nine-7.jpg"
-  },
-  {
-   "title": "Cartes Artistes du Delights GTA 6 : où trouver les 18 cartes ?",
-   "link": "https://www.actugaming.net/cartes-artistes-du-delights-gta-6-833992/",
-   "date": "2026-11-24T19:02:29+00:00",
-   "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/11/gta-6-guide-artistes-delight-19.jpg"
-  },
-  {
-   "title": "Cartes Catch Amateur GTA 6 : où trouver les 12 cartes ?",
-   "link": "https://www.actugaming.net/cartes-catch-amateur-gta-6-833990/",
-   "date": "2026-11-24T19:01:25+00:00",
-   "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/11/gta-6-guide-catch-amateur-9.jpg"
-  },
-  {
-   "title": "Cartes America’s Next Top Hooker GTA 6 : où trouver les 24 cartes ?",
-   "link": "https://www.actugaming.net/cartes-americas-next-top-hooker-gta-6-833991/",
-   "date": "2026-11-24T19:00:34+00:00",
-   "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/11/gta-6-guide-america-next-6.jpg"
-  },
-  {
-   "title": "Star Wars Galactic Racer va ajouter des véhicules en provenance de The Mandalorian et du film Solo",
-   "link": "https://www.actugaming.net/star-wars-galactic-racer-va-ajouter-des-vehicules-en-provenance-de-the-mandalorian-et-du-film-solo-835700/",
-   "date": "2026-11-24T18:51:51+00:00",
-   "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/10/STAR-WARS_-Galactic-Racer%E2%84%A2_20260925200050.jpg"
-  },
-  {
-   "title": "Votez dès maintenant pour les Steam Awards afin d’élire les meilleurs de ces 10 dernières années",
-   "link": "https://www.actugaming.net/votez-des-maintenant-pour-les-steam-awards-afin-delire-les-meilleurs-de-ces-10-dernieres-annees-835672/",
-   "date": "2026-11-24T18:34:23+00:00",
-   "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2023/11/astarion-baldur.jpg"
-  },
-  {
-   "title": "Curiosités WAiNK GTA 6 : emplacement des 35 lieux à scanner",
-   "link": "https://www.actugaming.net/emplacement-curiosites-waink-gta-6-834147/",
-   "date": "2026-11-24T18:27:04+00:00",
-   "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/11/GTA-6-26-1.jpg"
-  },
-  {
-   "title": "Nintendo vous fait oublier le mauvais temps avec le retour de Wave Race: Blue Storm, disponible sur Switch 2",
-   "link": "https://www.actugaming.net/nintendo-vous-fait-oublier-le-mauvais-temps-avec-le-retour-de-wave-race-blue-storm-disponible-sur-switch-2-835663/",
-   "date": "2026-11-24T18:19:55+00:00",
-   "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/11/wave-race.jpg"
-  },
-  {
-   "title": "Sans surprise, Showa American Story ne sortira pas cette année, son studio annonce un retard important d’un an",
-   "link": "https://www.actugaming.net/sans-surprise-showa-american-story-ne-sortira-pas-cette-annee-son-studio-annonce-un-retard-important-dun-an-835539/",
-   "date": "2026-11-24T16:23:43+00:00",
-   "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/11/showa-american-story.jpg"
   }
  ]
 }
