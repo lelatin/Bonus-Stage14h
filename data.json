@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T01:49:20+00:00",
+ "updated": "2026-11-28T09:58:12+00:00",
  "sources": [
   {
    "name": "Loudic",
@@ -42,6 +42,28 @@
  ],
  "articles": [
   {
+   "title": "DANS LES MONTAGNES ENNEIGÉES | The Legend of Zelda Twilight Princess - LET'S PLAY FR #10",
+   "link": "https://www.youtube.com/watch?v=qReBpDwqnRQ",
+   "date": "2026-11-28T08:25:13Z",
+   "source": "At0mium",
+   "category": "Découverte & avis",
+   "video": "qReBpDwqnRQ",
+   "image": "https://i.ytimg.com/vi/qReBpDwqnRQ/hq720.jpg",
+   "duration": 5087,
+   "views": 350
+  },
+  {
+   "title": "Actus Rétro 🕹️EA Classics, TheA1200 ou Egg Console",
+   "link": "https://www.youtube.com/watch?v=tAWiZq0tik4",
+   "date": "2026-11-28T08:01:02Z",
+   "source": "Origami",
+   "category": "Découverte & avis",
+   "video": "tAWiZq0tik4",
+   "image": "https://i.ytimg.com/vi/tAWiZq0tik4/hq720.jpg",
+   "duration": 3756,
+   "views": 548
+  },
+  {
    "title": "DUEL SOUS LA FOUDRE | Phantom Blade Zero - LET'S PLAY FR #15",
    "link": "https://www.youtube.com/watch?v=bTExbRfCOn8",
    "date": "2026-11-27T18:55:59Z",
@@ -50,7 +72,7 @@
    "video": "bTExbRfCOn8",
    "image": "https://i.ytimg.com/vi/bTExbRfCOn8/hq720.jpg",
    "duration": 4485,
-   "views": 4869
+   "views": 6894
   },
   {
    "title": "PHANTOM BLADE ZERO | #13 : Lac Meigu (part2), Mont de l'Emprisonnement (part1) & Boss Zhu Yuan",
@@ -61,10 +83,10 @@
    "video": "tj837oAIcp4",
    "image": "https://i.ytimg.com/vi/tj837oAIcp4/hq720.jpg",
    "duration": 6598,
-   "views": 969
+   "views": 1191
   },
   {
-   "title": "CE DONJON EST JUSTE INCROYABLE | The Legend of Zelda Twilight Princess - LET'S PLAY FR #9",
+   "title": "LA TOUR DU JUGEMENT | The Legend of Zelda Twilight Princess - LET'S PLAY FR #9",
    "link": "https://www.youtube.com/watch?v=mKIl2arXWVs",
    "date": "2026-11-26T16:00:25Z",
    "source": "At0mium",
@@ -72,7 +94,7 @@
    "video": "mKIl2arXWVs",
    "image": "https://i.ytimg.com/vi/mKIl2arXWVs/hq720.jpg",
    "duration": 4333,
-   "views": 12325
+   "views": 12705
   },
   {
    "title": "PHANTOM BLADE ZERO | #12 : Lac Meigu (part1), Boss Yan Qiansui, Archer Borgne & Acolyte Guhe",
@@ -83,7 +105,7 @@
    "video": "tAaWZemg6iI",
    "image": "https://i.ytimg.com/vi/tAaWZemg6iI/hq720.jpg",
    "duration": 7730,
-   "views": 2088
+   "views": 2162
   },
   {
    "title": "LE SECRET DE XANTO | The Legend of Zelda Twilight Princess - LET'S PLAY FR #8",
@@ -94,7 +116,7 @@
    "video": "2sglDVo8NTc",
    "image": "https://i.ytimg.com/vi/2sglDVo8NTc/hq720.jpg",
    "duration": 6204,
-   "views": 12602
+   "views": 12726
   },
   {
    "title": "Unreal Engine 6 : la clé de bras géante d'Epic Games",
@@ -105,7 +127,7 @@
    "video": "_D6bi_M2tHo",
    "image": "https://i.ytimg.com/vi/_D6bi_M2tHo/hq720.jpg",
    "duration": 1568,
-   "views": 27802
+   "views": 28228
   },
   {
    "title": "LE TEMPLE ABYSSAL | The Legend of Zelda Twilight Princess - LET'S PLAY FR #7",
@@ -116,7 +138,7 @@
    "video": "r9new2DwhZ0",
    "image": "https://i.ytimg.com/vi/r9new2DwhZ0/hq720.jpg",
    "duration": 4301,
-   "views": 13746
+   "views": 13833
   },
   {
    "title": "PHANTOM BLADE ZERO | #11 : Campement du Mandat (part2), Boss Disciples 7 étoiles & Yubi Marionnette",
@@ -127,7 +149,7 @@
    "video": "o6ehnvH_y4M",
    "image": "https://i.ytimg.com/vi/o6ehnvH_y4M/hq720.jpg",
    "duration": 6653,
-   "views": 2653
+   "views": 2730
   },
   {
    "title": "DE L'AUTRE COTÉ DU MIROIR | The Legend of Zelda Twilight Princess - LET'S PLAY FR #6",
@@ -138,7 +160,7 @@
    "video": "YveMy80us6k",
    "image": "https://i.ytimg.com/vi/YveMy80us6k/hq720.jpg",
    "duration": 3656,
-   "views": 13717
+   "views": 13827
   },
   {
    "title": "Pourquoi l'Allemagne ADORE les jeux de simulation ?",
@@ -149,7 +171,7 @@
    "video": "hhzLlmXwL2A",
    "image": "https://i.ytimg.com/vi/hhzLlmXwL2A/hq720.jpg",
    "duration": 405,
-   "views": 9281
+   "views": 9345
   },
   {
    "title": "DEUX BOSS QUI DÉFONCENT | Phantom Blade Zero - LET'S PLAY FR #14",
@@ -160,7 +182,7 @@
    "video": "KLX_wZS8uZg",
    "image": "https://i.ytimg.com/vi/KLX_wZS8uZg/hq720.jpg",
    "duration": 4699,
-   "views": 13919
+   "views": 14044
   },
   {
    "title": "PHANTOM BLADE ZERO | #10 : Campement du Mandat (part1), Boss Acolyte Lei Ting & Wan Ju Brise-Cuivre",
@@ -171,7 +193,7 @@
    "video": "1dHQ-BrQ0x0",
    "image": "https://i.ytimg.com/vi/1dHQ-BrQ0x0/hq720.jpg",
    "duration": 6260,
-   "views": 2986
+   "views": 3018
   },
   {
    "title": "Queen's Domain est l'un de nos jeux de l'année",
@@ -182,7 +204,7 @@
    "video": "QHUUUZvB7Mk",
    "image": "https://i.ytimg.com/vi/QHUUUZvB7Mk/hq720.jpg",
    "duration": 5594,
-   "views": 30836
+   "views": 31012
   },
   {
    "title": "MAIS QUELLE CLAQUE | The Legend of Zelda Twilight Princess - LET'S PLAY FR #5",
@@ -193,7 +215,7 @@
    "video": "hCxqP9AiOz8",
    "image": "https://i.ytimg.com/vi/hCxqP9AiOz8/hq720.jpg",
    "duration": 4905,
-   "views": 16001
+   "views": 16138
   },
   {
    "title": "BURNING SWORD Death Sun est sorti en early access et c'est loin d'être convaincant !",
@@ -204,7 +226,7 @@
    "video": "jiv1Aapi5hw",
    "image": "https://i.ytimg.com/vi/jiv1Aapi5hw/hq720.jpg",
    "duration": 4141,
-   "views": 8732
+   "views": 8750
   },
   {
    "title": "LA MONTAGNE DE LA MORT | The Legend of Zelda Twilight Princess - LET'S PLAY FR #4",
@@ -215,7 +237,7 @@
    "video": "RvXCKyNSNA8",
    "image": "https://i.ytimg.com/vi/RvXCKyNSNA8/hq720.jpg",
    "duration": 4553,
-   "views": 18197
+   "views": 18302
   },
   {
    "title": "PHANTOM BLADE ZERO | #9 : Pangzhen (part3), Boss Chang Hong & Flamme Danse Du Lion",
@@ -226,7 +248,7 @@
    "video": "SnTMTWVRwVg",
    "image": "https://i.ytimg.com/vi/SnTMTWVRwVg/hq720.jpg",
    "duration": 7005,
-   "views": 2877
+   "views": 2890
   },
   {
    "title": "ABSOLUMENT MAGISTRAL | Monomoon - GAMEPLAY FR",
@@ -237,7 +259,7 @@
    "video": "YMHRGMteoso",
    "image": "https://i.ytimg.com/vi/YMHRGMteoso/hq720.jpg",
    "duration": 2115,
-   "views": 23733
+   "views": 23808
   },
   {
    "title": "Les petits jeux sont-ils le futur du jeu vidéo ?",
@@ -248,18 +270,7 @@
    "video": "s7p7vnM1Rek",
    "image": "https://i.ytimg.com/vi/s7p7vnM1Rek/hq720.jpg",
    "duration": 1959,
-   "views": 11110
-  },
-  {
-   "title": "LES SECRETS DU CHATEAU | Castlevania Belmont's Curse - LET'S PLAY FR #10",
-   "link": "https://www.youtube.com/watch?v=ukPKBsr5wvg",
-   "date": "2026-11-20T08:00:23Z",
-   "source": "At0mium",
-   "category": "Découverte & avis",
-   "video": "ukPKBsr5wvg",
-   "image": "https://i.ytimg.com/vi/ukPKBsr5wvg/hq720.jpg",
-   "duration": 4274,
-   "views": 11406
+   "views": 11137
   },
   {
    "title": "PHANTOM BLADE ZERO | #8 : Pangzhen (part2), Boss Marionnette Aberrante & Gu Wanyue",
@@ -270,7 +281,7 @@
    "video": "yIzyyFlQWhU",
    "image": "https://i.ytimg.com/vi/yIzyyFlQWhU/hq720.jpg",
    "duration": 7209,
-   "views": 3179
+   "views": 3188
   },
   {
    "title": "PHANTOM BLADE ZERO | #7 : Pangzhen (part1), Boss Brasier & Tranche-Cavaliers",
@@ -281,7 +292,7 @@
    "video": "ew6a0b1xelU",
    "image": "https://i.ytimg.com/vi/ew6a0b1xelU/hq720.jpg",
    "duration": 7185,
-   "views": 3068
+   "views": 3089
   },
   {
    "title": "GTA VI et le retour de la monoculture",
@@ -292,7 +303,7 @@
    "video": "dM4kICMm9Hw",
    "image": "https://i.ytimg.com/vi/dM4kICMm9Hw/hq720.jpg",
    "duration": 1627,
-   "views": 32292
+   "views": 32302
   },
   {
    "title": "PHANTOM BLADE ZERO | #6 : Village de Lu (part2), Boss Soir & Mu Xiaokui",
@@ -303,7 +314,7 @@
    "video": "6VxxzO24FOA",
    "image": "https://i.ytimg.com/vi/6VxxzO24FOA/hq720.jpg",
    "duration": 7571,
-   "views": 4078
+   "views": 4094
   },
   {
    "title": "PHANTOM BLADE ZERO | #5 : Village de Lu (part1), Boss Zhuo Bi & Maître Bi Yuan",
@@ -314,7 +325,7 @@
    "video": "U5Oibylws2I",
    "image": "https://i.ytimg.com/vi/U5Oibylws2I/hq720.jpg",
    "duration": 7599,
-   "views": 4444
+   "views": 4453
   },
   {
    "title": "Un remake PARFAIT ? On a testé Ocarina of Time, le retour du Zelda légendaire",
@@ -325,7 +336,7 @@
    "video": "GMHZVObQ1T0",
    "image": "https://i.ytimg.com/vi/GMHZVObQ1T0/hq720.jpg",
    "duration": 8056,
-   "views": 36415
+   "views": 36464
   },
   {
    "title": "Les ados ont toujours raison (sur internet)",
@@ -336,7 +347,7 @@
    "video": "uyVRwh09a50",
    "image": "https://i.ytimg.com/vi/uyVRwh09a50/hq720.jpg",
    "duration": 7259,
-   "views": 8773
+   "views": 8776
   },
   {
    "title": "Actus Rétro 🕹️ Queen’s Domain, Tenebris Somnia ou The Traveler’s Sight",
@@ -347,7 +358,7 @@
    "video": "jwQ6kd0nOqU",
    "image": "https://i.ytimg.com/vi/jwQ6kd0nOqU/hq720.jpg",
    "duration": 4099,
-   "views": 24716
+   "views": 24733
   },
   {
    "title": "L'HEBDO 💌 WoW Forever, Phantom Blade Zero et Forever Ago",
@@ -358,18 +369,7 @@
    "video": "2UvuTx2k0x4",
    "image": "https://i.ytimg.com/vi/2UvuTx2k0x4/hq720.jpg",
    "duration": 7394,
-   "views": 28263
-  },
-  {
-   "title": "Et si Ubisoft achetait Arkane ?",
-   "link": "https://www.youtube.com/watch?v=jNRqq4aRLXw",
-   "date": "2026-11-04T14:36:30Z",
-   "source": "Origami",
-   "category": "Découverte & avis",
-   "video": "jNRqq4aRLXw",
-   "image": "https://i.ytimg.com/vi/jNRqq4aRLXw/hq720.jpg",
-   "duration": 1701,
-   "views": 28607
+   "views": 28274
   },
   {
    "title": "RESONANCE est l'œuvre somme de FINAL FANTASY !",
@@ -380,7 +380,7 @@
    "video": "Ypn58CkxgPo",
    "image": "https://i.ytimg.com/vi/Ypn58CkxgPo/hq720.jpg",
    "duration": 1143,
-   "views": 27739
+   "views": 27743
   },
   {
    "title": "VALOR MORTIS est un Souls-Like UNIQUE en son genre !",
@@ -391,7 +391,7 @@
    "video": "32icze8rd0Q",
    "image": "https://i.ytimg.com/vi/32icze8rd0Q/hq720.jpg",
    "duration": 1056,
-   "views": 47136
+   "views": 47142
   },
   {
    "title": "DRAGON'S DOGMA 2 Dark Arisen mérite tout votre AMOUR !",
@@ -402,7 +402,7 @@
    "video": "GAb2HD9FhaY",
    "image": "https://i.ytimg.com/vi/GAb2HD9FhaY/hq720.jpg",
    "duration": 1198,
-   "views": 38739
+   "views": 38747
   },
   {
    "title": "ACE COMBAT 8 est une addiction, mais j'en attendais BIEN plus...",
@@ -413,7 +413,7 @@
    "video": "XI0jf-9qI3I",
    "image": "https://i.ytimg.com/vi/XI0jf-9qI3I/hq720.jpg",
    "duration": 1161,
-   "views": 17222
+   "views": 17228
   },
   {
    "title": "L'HISTOIRE de CONTROL • Analyse et explications",
@@ -424,7 +424,7 @@
    "video": "XGVP42-Xt_g",
    "image": "https://i.ytimg.com/vi/XGVP42-Xt_g/hq720.jpg",
    "duration": 4114,
-   "views": 63907
+   "views": 63925
   },
   {
    "title": "Le jeu le plus BRILLANT de l'année",
@@ -468,7 +468,7 @@
    "video": "KIj1zw0h0d4",
    "image": "https://i.ytimg.com/vi/KIj1zw0h0d4/hq720.jpg",
    "duration": 737,
-   "views": 27797
+   "views": 27798
   },
   {
    "title": "MORTAL SHELL 2 est à deux doigts de la PERFECTION !",
@@ -479,10 +479,66 @@
    "video": "5SqebwyVtcs",
    "image": "https://i.ytimg.com/vi/5SqebwyVtcs/hq720.jpg",
    "duration": 1315,
-   "views": 47992
+   "views": 48001
   }
  ],
  "news": [
+  {
+   "title": "Nouvelle Xbox Helix : prix, puissance, jeux PC… tout savoir sur la prochaine console de Microsoft",
+   "link": "https://www.xboxygen.com/News/nouvelle-xbox-helix",
+   "date": "2026-11-28T09:16:11+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/10/xbox-helix-mockup-console.jpg"
+  },
+  {
+   "title": "BioShock change de nom sur le Xbox Store et relance la rumeur d’un remake",
+   "link": "https://www.xboxygen.com/News/375977-bioshock-change-de-nom-sur-le-xbox-store-et-relance-la-rumeur-dun-remake",
+   "date": "2026-11-28T08:26:01+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2025/08/bioshock_4_1_-2.jpg"
+  },
+  {
+   "title": "Hollow Knight Silksong : son DLC gratuit arrive le 11 décembre et Team Cherry annonce 3 nouveaux jeux",
+   "link": "https://www.xboxygen.com/News/375892-hollow-knight-silksong-son-dlc-gratuit-arrive-le-11-decembre-et-team-cherry-annonce-3-nouveaux-jeux",
+   "date": "2026-11-28T08:15:58+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2025/12/hollow-knight-silksong-dlc.jpg"
+  },
+  {
+   "title": "Black Friday : les manettes Xbox/PC à seulement 39,99 € chez Amazon !",
+   "link": "https://www.xboxygen.com/News/47172-black-friday-manettes-xbox-pc",
+   "date": "2026-11-28T08:09:35+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2024/09/xbox-manettes-vs-jeux.jpg"
+  },
+  {
+   "title": "Xbox Game Pass : 5 nouveaux jeux arrivent la semaine prochaine, dont 4 disponibles Day One",
+   "link": "https://www.xboxygen.com/News/375889-xbox-game-pass-5-nouveaux-jeux-arrivent-la-semaine-prochaine-dont-4-disponibles-day-one",
+   "date": "2026-11-28T08:07:01+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/09/Hela-of-Mice-Magic-12.jpg"
+  },
+  {
+   "title": "Yooka-Laylee : les joueurs Xbox privés de la Definitive Edition, Playtonic explique pourquoi",
+   "link": "https://www.xboxygen.com/News/375961-yooka-laylee-les-joueurs-xbox-prives-de-la-definitive-edition-playtonic-explique-pourquoi",
+   "date": "2026-11-28T07:38:16+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/yooka-laylee-xbox-annule.jpg"
+  },
+  {
+   "title": "Xbox Game Pass : c’est votre dernière chance de finir ces 8 jeux avant qu’ils quittent le service",
+   "link": "https://www.xboxygen.com/News/374340-xbox-game-pass-8-jeux-quittent-le-service-le-30-novembre-dont-banishers-ghosts-of-new-eden",
+   "date": "2026-11-28T06:39:39+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/Banishers-Ghosts-of-New-Eden.jpg"
+  },
+  {
+   "title": "2 jeux Xbox sont gratuits ce week-end pour les Free Play Days, dont Warhammer 40,000: Mechanicus",
+   "link": "https://www.xboxygen.com/News/2-jeux-xbox-sont-gratuits-ce-week-end-pour-les-free-play-days-dont-warhammer-40000-mechanicus",
+   "date": "2026-11-28T06:36:03+00:00",
+   "source": "Xboxygen",
+   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/xbox-free-play-days-27-11.jpg"
+  },
   {
    "title": "GTA 6 sur Xbox One via le cloud gaming : Digital Foundry livre son analyse, avec de bonnes surprises !",
    "link": "https://www.xboxygen.com/News/375831-gta-6-sur-xbox-one-via-le-cloud-gaming-digital-foundry-livre-son-analyse-avec-de-bonnes-surprises",
@@ -526,13 +582,6 @@
    "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/Space-Marine-2-Patch-16.jpg"
   },
   {
-   "title": "2 jeux Xbox sont gratuits ce week-end pour les Free Play Days, dont Warhammer 40,000: Mechanicus",
-   "link": "https://www.xboxygen.com/News/2-jeux-xbox-sont-gratuits-ce-week-end-pour-les-free-play-days-dont-warhammer-40000-mechanicus",
-   "date": "2026-11-27T08:36:32+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/xbox-free-play-days-27-11.jpg"
-  },
-  {
    "title": "Xbox Game Pass : un nouveau jeu débarque aujourd’hui dans le service",
    "link": "https://www.xboxygen.com/News/375801-xbox-game-pass-un-nouveau-jeu-debarque-aujourdhui-dans-le-service",
    "date": "2026-11-27T08:18:09+00:00",
@@ -540,53 +589,46 @@
    "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/arkeron.jpg"
   },
   {
-   "title": "GTA 6 : un vrai Jason Duval habite en Normandie, et il aimerait bien un petit geste de Rockstar",
-   "link": "https://www.xboxygen.com/News/375797-gta-6-un-vrai-jason-duval-habite-en-normandie-et-il-aimerait-bien-un-petit-geste-de-rockstar",
-   "date": "2026-11-27T07:26:18+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/10/GTA-6-jason-nu.jpg"
+   "title": "Cartes Vice City Manatees GTA 6 : où trouver les 24 cartes ?",
+   "link": "https://www.actugaming.net/emplacement-cartes-vice-city-manatees-gta-6-833931/",
+   "date": "2026-11-28T08:54:28+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/11/soluce-gta-6-carte-a-collectionner-vice-city-manatees-8.jpg"
   },
   {
-   "title": "Skull and Bones un “AAAA” ? Devant la justice, Ubisoft parle d’exagération publicitaire",
-   "link": "https://www.xboxygen.com/News/375795-skull-and-bones-un-aaaa-devant-la-justice-ubisoft-parle-dexageration-publicitaire",
-   "date": "2026-11-27T07:18:32+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2024/12/skull-and-bones-big.jpg"
+   "title": "Cartes Vice City Club de Fútbol GTA 6 : où trouver les 24 cartes ?",
+   "link": "https://www.actugaming.net/emplacement-cartes-vice-city-club-de-futbol-gta-6-833940/",
+   "date": "2026-11-28T08:28:28+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/11/soluce-gta-6-carte-a-collectionner-vice-city-club-de-futbol-8.jpg"
   },
   {
-   "title": "Fallout, Diablo… Xbox laisse ses jeux faire parler d’eux sans faire parler de Xbox. Ça va changer en 2027",
-   "link": "https://www.xboxygen.com/News/375793-fallout-diablo-xbox-laisse-ses-jeux-faire-parler-deux-sans-faire-parler-de-xbox-ca-va-changer-en-2027",
-   "date": "2026-11-27T07:08:10+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2025/10/xbox-logo-abstrait.jpg"
+   "title": "Cartes Liberty City Swingers GTA 6 : où trouver les 24 cartes ?",
+   "link": "https://www.actugaming.net/emplacementcartes-liberty-city-swingers-gta-6-833984/",
+   "date": "2026-11-28T08:16:27+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/11/soluce-gta-6-carte-a-collectionner-liberty-city-swingers-4.jpg"
   },
   {
-   "title": "GTA 6 aurait pu aller encore plus loin : Rockstar révèle ses idées abandonnées",
-   "link": "https://www.xboxygen.com/News/375785-gta-6-aurait-pu-aller-encore-plus-loin-rockstar-revele-ses-idees-abandonnees",
-   "date": "2026-11-26T16:50:05+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/GTA-6-maison-Jason.jpg"
+   "title": "Cartes Los Santos Corkers GTA 6 : où trouver les 24 cartes ?",
+   "link": "https://www.actugaming.net/emplacement-cartes-los-santos-corkers-gta-6-833987/",
+   "date": "2026-11-28T08:00:27+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/11/soluce-gta-6-carte-a-collectionner-los-santos-corkers-2.jpg"
   },
   {
-   "title": "Les salariés de Rockstar UK votent à 75 % contre un accord syndical historique, une semaine après GTA 6",
-   "link": "https://www.xboxygen.com/News/375779-les-salaries-de-rockstar-uk-votent-a-75-contre-un-accord-syndical-historique-une-semaine-apres-gta-6",
-   "date": "2026-11-26T16:30:00+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/rockstar-union.webp"
+   "title": "Cartes Los Santos Pounders GTA 6 : où trouver les 24 cartes ?",
+   "link": "https://www.actugaming.net/emplacement-cartes-los-santos-pounders-gta-6-833989/",
+   "date": "2026-11-28T07:48:20+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/11/soluce-gta-6-carte-a-collectionner-los-santos-pounders-8.jpg"
   },
   {
-   "title": "GTA 6 affole les compteurs : plus d’un million de boîtes vendues en France en 3 jours",
-   "link": "https://www.xboxygen.com/News/375774-gta-6-affole-les-compteurs-plus-dun-million-de-boites-vendues-en-france-en-3-jours",
-   "date": "2026-11-26T15:54:49+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/06/GTA-6-version-boite.jpg"
-  },
-  {
-   "title": "Codes de triche GTA 6 : la liste des cheat codes avec argent infini, armes & véhicules",
-   "link": "https://www.xboxygen.com/News/374540-codes-de-triche-gta-6-la-liste-des-cheat-codes-pour-obtenir-de-largent-infini-des-armes-et-des-vehicules",
-   "date": "2026-11-26T15:45:47+00:00",
-   "source": "Xboxygen",
-   "image": "https://www.xboxygen.com/wp-content/uploads/2026/11/GTA-6-capture-decran.jpg"
+   "title": "Team Cherry (Hollow Knight: Silksong) présente trois pépites indés venues tout droit d’Australie, dans leur Cherry Time! Special Presentation",
+   "link": "https://www.actugaming.net/team-cherry-hollow-knight-silksong-presente-trois-pepites-indes-venues-tout-droit-daustralie-dans-leur-cherry-time-special-presentation-836686/",
+   "date": "2026-11-28T06:30:55+00:00",
+   "source": "ActuGaming",
+   "image": "https://static.actugaming.net/media/2026/11/cherry-time-special-presentatio.jpg"
   },
   {
    "title": "GTA 6 : Combien de fins et comment obtenir la meilleure ?",
@@ -615,48 +657,6 @@
    "date": "2026-11-27T16:13:25+00:00",
    "source": "ActuGaming",
    "image": "https://static.actugaming.net/media/2026/11/gta-6-screenshot-4.jpg"
-  },
-  {
-   "title": "Black Friday 2026 : les meilleurs bons plans jeux vidéo et high-tech (Switch 2, PS5, manettes, SSD…)",
-   "link": "https://www.actugaming.net/black-friday-2026-meilleurs-bons-plans-jeux-video-836562/",
-   "date": "2026-11-27T11:26:32+00:00",
-   "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/11/black-friday-jeu-video-promotion-2026.jpg"
-  },
-  {
-   "title": "Ubisoft se défend d’avoir menti en qualifiant Skull & Bones de AAAA et préfère parler « d’exagération classique »",
-   "link": "https://www.actugaming.net/ubisoft-se-defend-davoir-menti-en-qualifiant-skull-bones-de-aaaa-et-prefere-parler-dexageration-classique-836577/",
-   "date": "2026-11-27T10:26:05+00:00",
-   "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2024/02/skull-and-bones.jpg"
-  },
-  {
-   "title": "SNK continue de vouloir conquérir Hollywood avec la mise en chantier d’un film Metal Slug",
-   "link": "https://www.actugaming.net/snk-continue-de-vouloir-conquerir-hollywood-avec-la-mise-en-chantier-dun-film-metal-slug-836574/",
-   "date": "2026-11-27T09:51:44+00:00",
-   "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2021/06/metal-slug-tactics-screenshot-10-06-2021-11.jpg"
-  },
-  {
-   "title": "The Witcher 3 Remastered ajoute des mods sur consoles avec sa dernière mise à jour en date",
-   "link": "https://www.actugaming.net/the-witcher-3-remastered-ajoute-des-mods-sur-consoles-avec-sa-derniere-mise-a-jour-en-date-836570/",
-   "date": "2026-11-27T09:39:53+00:00",
-   "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/09/the-witcher-3-remastered-1.jpg"
-  },
-  {
-   "title": "Repaires de gangs GTA 6 : emplacements des 39 opérations illégales et codes des coffres",
-   "link": "https://www.actugaming.net/repaires-gangs-codes-coffres-gta-6-836318/",
-   "date": "2026-11-27T08:45:24+00:00",
-   "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/08/gta-6-official-screenshot-aout-2026-11.jpg"
-  },
-  {
-   "title": "Cartes Right Wing: Les héros de l’Amérique GTA 6 : où trouver les 36 cartes ?",
-   "link": "https://www.actugaming.net/emplacement-cartes-right-wing-les-heros-de-lamerique-gta-6-833996/",
-   "date": "2026-11-27T08:10:23+00:00",
-   "source": "ActuGaming",
-   "image": "https://static.actugaming.net/media/2026/11/soluce-gta-6-carte-a-collectionner-right-wing-heros-de-amerique-4.jpg"
   }
  ]
 }
